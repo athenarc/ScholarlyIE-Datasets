@@ -7,7 +7,6 @@ The file contains a manually curated and annotated, multidisciplinary dataset of
 
 The dataset was created with Prodigy annotation software using the spans-manual recipie. 
 
-For a full account of the creation methodology, characteristics, transformer based esperiments and SPARQL queries that highlight the capabilities of the Knowledge Graph that can be produced from this dataset, please refer to and cite appropratelly:
 
 
 
