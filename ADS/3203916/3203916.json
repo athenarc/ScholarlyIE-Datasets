@@ -1,0 +1,225 @@
+{
+  "document_title": "FURTHER RESEARCH ON A PREDICTIVE MODEL OF EARLY MEDIEVAL SETTLEMENT LOCATION IN SOUTH WALES: EXPLORING THE USE OF FIELD-NAMES AS PROXY DATA",
+  "abstract": "Early medieval (fifth- to eleventh-century) settlement sites are notoriously difficult to identify in Wales. Despite decades of concerted research, less than twenty-five settlements have been firmly identified, and few of these have been excavated and published to modern standards (Edwards et al. 2016). The lack of sites is confounded by the fact that the majority of those which have been identified are interpreted as high-status defended settlements of the late fifth to seventh centuries, and thus far fewer 'ordinary' rural settlements have been identified. As a consequence, our understanding of site types and rural settlement patterns in Wales is underdeveloped in comparison to other parts of early medieval Britain and Ireland.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "By ANDY SEAMAN $ ^{1} $",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "At the time that the model was developed there was little direct evidence available with which to test the validity of the settlement zones or their utility for exploring patterns of land-use. Subsequently, however, the author became aware of the potential that field-names and state of cultivation data recorded in post medieval sources have to illuminate earlier patterns of settlement and land-use. Thus in 2013 a project was developed that aimed to use field-names and associated state of cultivation data recorded in the nineteenth century Tithe survey maps and apportionments as proxy data to test the validity of the model. In this short article I will briefly consider the value of field-names to settlement archaeology, outline the project methodology, examine its results, and consider the wider applications of this research methodology.",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "Field-names as a source for landscape archaeology": [
+      {
+        "text": "Historians and historic geographers have long acknowledged that field-names are a vital source of evidence for the medieval landscape that provide information on a range of themes, including the location of settlements, agricultural land-uses, and the formation of field systems (for example Baker and Butlin 1973). Archaeologists, however, have generally been slower to draw upon the evidence offered by field-names, despite their value being briefly remarked on by Mick Aston and Trevor Rowley in their pioneering book on landscape archaeology (Aston and Rowley 1974, 66). This is especially surprising for those areas, such as early medieval Wales, which lack native pottery traditions and where field walking is of limited use for identifying settlement sites. Indeed, Richard Jones and Della Hooke (2012, 38) have recently noted that in these areas habitative field-name elements such as cot, tun, wic, worth, or bold, might provide the only readily detectable evidence for medieval settlements. At Shapwick (Somerset), for example, field-names recorded in later medieval surveys that incorporated Old English habitative elements such as wic and worth provided evidence on the locations of early medieval settlements that was subsequently confirmed by archaeological investigation (Gerrard and Hall 2007, 963-966).",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "The field-name element black (ddu in Welsh) is not habitative in itself, but is often interpreted as referring to land with noticeably dark appearance, perhaps reflecting the presence of anthropogenic soils darkened by processes such as burning from domestic fires or intensive manuring (Field 1972, 22; Jones 1973, 475). It has therefore been seen as an indirect indicator of the location of settlement sites or associated gardens/ crofts (for example Field 1993, 211-212; Kissock 2006; Richardson 1996, 461). Not all 'black' field-names need be interpreted in this way however, and the element could also refer to natural features such as shady land, vegetation, areas of peaty soil, or derive from a personal name (Field 1972, 22; Owen and Morgan 2007, 33-34; Richardson 1996, 459).",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "Field-names can also reveal information about vegetation, and the size, shape, use and character of fields (Field 1993). Moreover, since many field-names contain references to the pre-agrarian landscape they can provide insights about the time when land was brought into cultivation (Oosthuizen 2008, 323-324). Thus, field-names are also a valuable source for reconstructing patterns of medieval agriculture and land-use that should be placed alongside more traditional research methods,",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "such as field-walking, topographic survey, and test-pitting. Rhiannon Comeau, for example, has recently used the distribution of Welsh terms such as llain (strip), ardd/gardd (garden), and cytir (shared pasture) recorded in Land Tax and Tithe records in conjunction with other sources of evidence to reconstruct patterns of medieval land-use in the parish of Dinas (Pembrokeshire) where poor medieval documentation has restricted the effectiveness of conventional research methods. This research has led to the reconstruction of a medieval landscape, the origins of which lie in the pre-Norman period, with a settlement pattern consisting of loosely nucleated hamlets and farmsteads, associated with open fields/infield and blocks of demesne arranged around shared pasture/outfield (Comeau 2009; 2012).",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Field-names must be used with caution, however, and we have to be aware of a number of important caveats. British field-names can have a remarkable longevity, and names recorded in the Tithe survey apportionments and estate maps can sometimes be traced back to the twelfth and thirteenth centuries (Oosthuizen 2008,323- 325). Nevertheless, comparison between eighteenth-century estate maps and Tithe surveys demonstrates that field-names can change within as little as fifty years, and whilst we can be confident that some names were coined in the medieval period, others may be much later (Rippon 2012,80). Ideally, a researcher should find the earliest reference to a particular field-name,",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "as spellings can change over time and the date of first use can have an important bearing on interpretation. However, very often our first record of a field-name is in the Tithe surveys of the nineteenth century, and in the absence of earlier documentation we cannot be certain of the accuracy of a particular derivation. Moreover, we cannot be sure that different instances of the same name will have the same derivation or meaning, and it can be particularly difficult to differentiate fieldnames that derive from personal names (Richardson 1996, 353). Errant spellings, local/regional dialects, and changing meanings also complicate interpretation. The term erw, for example, is derived from a measure of arable land, and has been used by researchers as an indicator of medieval arable open fields (for example Thomas 1980, 345). However, it was later used as a general measure of land (Jones Pierce 1943), and it was probably this usage which was most common in the field-names used in this study. We must also be aware that fields may have been subdivided/amalgamated, and it is possible that a recorded name is associated to only a proportion of the original field to which to the name was attached. Finally, we have to be aware that a name such as 'Castle Field' could refer to a field in which there was a castle, or a field owned by a castle (Richardson 1996, 353). Indeed, most instances of habitative field-names encountered in this project, such as Tufton Field/Six Acres (Penmark) and Nattleton Field (Sully), and Old Court Meadow (Cadoxton) were attributed to the latter category.",
+        "page_numbers": [
+          2,
+          3
+        ]
+      }
+    ],
+    "Methodology": [
+      {
+        "text": "The first step was to assemble a database of field-names and land-use data that could be geocoded to the British National Grid at the level of the individual fields. Where possible each field was then assigned to one of six agricultural land-use categories on the basis of the state of cultivation detailed in the apportionment: arable, pasture, meadow, mud flat, wood or orchard. A system of coding was also used to identify field-names that provide evidence for features of potential archaeological significance within or near to the field. The fieldname database was then integrated with the predictive model settlement zones in a GIS and the two datasets interrogated for correlations.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The database of field-names and state of cultivation information was derived from the Tithe survey apportionments (dating to between 1838 and 1841). Whilst these are not the earliest records of field-names within the study area (there are earlier estate maps), they provide the most comprehensive coverage, with names and/or state of cultivation available for twelve out of the fourteenth parishes in the study area. Moreover, the Tithe survey maps provide a spatial reference frame which can be fairly easily reconciled with the Ordnance Survey National Grid. High-resolution digital scans of the Tithe maps and apportionments were obtained from the National Archives $ ^{2} $",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The apportionments were then transcribed into a spreadsheet. Fortunately the quality of the digital images was such that it was possible to transcribe the entries with a high level of confidence. Once the data had been entered into a spreadsheet the corpus was analysed and coded accordingly. At the same time a digital network of field boundaries spanning a $ 9 0 \\mathrm{k m^{2}} $ area was created by tracing the field boundaries on the Tithe maps in a GIS and geocoding them to the corresponding First Edition Ordnance Survey 6 inch to a mile maps. Changes to a small number of field boundaries between the dates of the Tithe surveys and the Ordnance Survey maps meant that some fields could only be reconstructed to their approximate original proportions, but individual errors are unlikely to be greater than 10m. Each field boundary and its corresponding apportionment entry were assigned a unique identifier that allowed the two data sets to be integrated in the form of a GIS shapefile in which field boundaries were represented as polygons with associated attribute data drawn from the apportionments and fieldname analysis.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "A total of 5763 apportionment entries were transcribed, 4609 of which yielded data pertinent to the aims of the project. There were inconsistencies in the amount of information provided in the Tithe apportionments however, and whilst both field-names and state of cultivation information was provided for 1212 fields,",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "930 fields had only field-names, and 2467 fields had only entries for the state of cultivation. The names of settlements, houses, farms and associated structures were not included in the final database, but have been retained for future study. A lack of medieval sources meant that it was not possible to determine what proportion of the field-names were medieval in origin, and although some forms appeared to be medieval the majority were likely to have been coined much later, even those with Welsh spellings (Pierce 1968, xvii). Indeed, almost half of the names simply described the size or shape of the field and may represent convenient descriptions created at the time of the survey, rather than proper nouns (Seaman in prep). By drawing upon Gwynedd O. Pierce's (1968) seminal study of the place-names of the Dinas Powys hundred and supplementary sources such as Field (1972) it was possible to propose interpretations for the majority of the field-names within the database, although in many cases more than one interpretation can be suggested. The size of the project's database and the ease with which it could be integrated with other data-sets in a GIS has brought to light a number of new insights and alternative interpretations to those proposed by Pierce. The author is currently preparing a separate publication which will offer a quantitative analysis of the field-names of the study area, and this research has been expanded to include several hundred field-names recorded on seventeenth- and eighteenth-century estate maps (Seaman in prep).",
+        "page_numbers": [
+          3
+        ]
+      }
+    ],
+    "Results": [
+      {
+        "text": "Once the field-name shapefile had been created and checked for accuracy it was integrated with the predictive model's settlement zones (also stored as shapefiles) in a GIS. There followed a process of data analysis in which correlations between the variables were explored using the selection and statistics functions in ArcMap. Initially the data were analysed to test three key hypothesizes. First, that field-names with habitative elements would be associated with settlement zones 1 and 2. Second, that arable land-use would also be associated with zones 1 and 2. Thirdly, that pasture, meadow and woodland would be associated with settlement zones 3 and 4.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "In relation to the first hypothesis, fourteen fieldnames were found to include elements that are likely to be indicative of deserted settlements which were not previously known $ ^{3} $ . Thus habitative field-names only make-up 0.65% of the entire corpus. These included names with the elements wall (rampart or bank), caer/cair/gaer (fort), ddu/ddi/ddy (black), and 'ton' enclosure or farmstead). Unfortunately this was not a sufficient sample with which to test the model through the calculation of a 'predictive gain' statistic (Kvamme 1988, 329) $ ^{4} $ . Nevertheless, eleven (78%) of these fields 0 (no predictive utility) to -1(model predicts the reverse of what it is supposed to). The G value for this study is 0.03 and is therefore only very marginally positive. However, it should be noted, firstly, that the small number of habitative names makes the calculation unstable, and secondly, that the none-habitative field-names cannot be considered as evidence that a field does not contain settlement evidence. Fields without habitative names elements are not 'non-site locations', they are locations without positive settlement evidence. Predictive gain may, however, be a suitable method of assessing the model's utility for exploring patterns of land-use (see below).",
+        "page_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "are located within or immediately adjacent to settlements zones 1 and 2 (see Table 1 and Fig. 2). Thus the fields listed below could contain settlement evidence, and are worthy of further investigation through geophysics and metal detector survey. There is no a priori reason for assuming that any of the field-names refer to early medieval settlement evidence however. The names with the element 'ton' are likely to be late medieval, whilst the others could refer to settlements of prehistoric, Roman or medieval date.",
+        "page_numbers": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Whilst the database contained a comparatively limited number of field-names with habitative elements, a larger number (76, or 3.5%) revealed evidence of other features which may be of archaeological interest, including mills, lime kilns, quarries and warrens of presumably late or post-medieval date, as well as areas of possible medieval open field. Some of the field-names referring to mills are likely to refer to ownership rather than archaeological features, but the dataset is worthy of further investigation (Fig. 2).",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "In relation to hypotheses two and three, the land-use data suggested that at the time of the Tithe survey arable cultivation accounted for 43% of the area for which there was land-use data, but individual parishes varied from 78% (Lavernock) to 15% (Michaelston le Pit). This figure is befitting the geology of the study area and its location in relation to average rainfall and temperature and the length of the growing season (Thomas 1963, 54-78). Thus the area under arable is larger than was typical of central upland Wales at this time (c. 15%) but was less than in the western Vale where over half of land was exploited as arable (Thomas 1963, 116-129). Arable was found across zones 1 to 3 and there were a very small number of fields in zone 4, although by area just over 75% of fields attributed to the arable land-use category were located within zones 1 and 2 which together account for 60% of the study area, giving a positive predictive gain value of 0.2 (Fig. 3). However, in the nineteenth century at least the distribution of arable was influenced more by aspect and topography than soil type, with the exception of alluvium that was avoided. In general gentle (less than $ 12^{\\circ} $ ) south-facing slopes were favoured, whilst flat land tended to be used for pasture or meadow. Pasture, meadow and woodland was also distributed across all zones, although by area just over 53% of these fields were located within zones 3 and 4 which together account for 40% of the study area giving a positive predictive gain value of 0.24. Woodland was strongly associated with the sides of steeply sloping cwms. There was also a strong association between land exploited as woodland, pasture and meadow, and areas with poorly draining soils (Fig. 4). There are more extensive tracts of woodland in the parish of Michaelston le Pit, but here the higher proportion of woodland may be attributed to the presence of Cwrt yr Ala Park in the post-medieval period.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "These data provide insights into the pattern of agricultural land-use in the early to mid-nineteenth century, and although the sizes of the areas under arable cultivation are broadly comparable to those estimated for the early thirteenth century by Howard Thomas (1983:167), and may serve as a broad proxy for the medieval period, changing economic structures and farming technologies in the post-medieval period will have brought about significant transformations (Thomas 1963, 77). Nevertheless, the distribution of field-name elements such as gore, butt, furlong landshare, maes, and breach may provide evidence about the location of medieval open fields (Davies 1954-1955,8; see Table 2).",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The medieval open-fields of South Wales were not on the same scale as those of midland England, and Margaret Davies noted that the majority had been enclosed by early seventeenth century, although intermixed holdings of enclosed strips are still evident in the late eighteenth (Davies 1973, 481-483, 500). There is comparatively little evidence for ridge and furrow and selion-shaped fields within the study area, and Davies noted that 'in South Wales ridge-and-furrow cannot be correlated with common arable fields; these lay in flat selions separated by narrow balks or landshares' (Davies 1973, 491). The field-name database contained only twelve fieldnames with elements indicative of medieval open field agriculture either within the field or its vicinity, but all bar two were located within or immediately adjacent to zones 1 and 2 (Table 2 and Fig. 2). Nevertheless, it appears that common exploitation of meadow was more extensive than that of arable (Davies 1954-1955, 12-14; Thomas 1963, 129). Thus, it is pertinent here to note here that Alice Forward has recently argued that the extent and importance of arable cultivation in the medieval economy of the Vale of Glamorgan may have been overstated in the past, given lack of evidence for extensive manuring patterns and nucleated settlement, a preponderance of the incurved dishes associated with dairying within ceramic assemblages from medieval settlement contexts, and the strength of the pastoral economy in the post-medieval period (Forward 2013; forthcoming). This tempers Howard Thomas's suggestion that 'in the 1300s the whole of the coastal areas extending from Porthcawl to Cardiff had been thoroughly colonized with corn-growing settlements' (Thomas 1983, 167). He estimated that the highest proportion of arable may have been over 50% (in parishes such as Lavernock and St Andrew's Major), but that most parishes would have had been between 25% and 50% of cultivated ground. These figures are imperfect, but whilst they certainly suggest that arable cultivation was a prominent feature of the local rural economy, the areas under cultivation were smaller than in the midlands of England.",
+        "page_numbers": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Thus the pattern of agriculture is likely to have been comparable to the systems of convertible husbandry that were common across western Britain at this time (c.f. Hall 2014, 89-94). Field systems would have consisted of comparatively small areas of open field arable close to settlements (the remnants of which were still recognizable in the seventeenth century), beyond which were large areas of pasture and waste which were periodically brought into cultivation. Such field systems were identified in the neighbouring district of Gwent is Coed by Paul Courtney (1983,277-285), who noted that they were susceptible to piecemeal enclosure from an early date and that holdings were haphazardly distributed across numerous cropping units, including closes.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Conclusions": [
+      {
+        "text": "The project did not yield sufficient data to test the validity of the predictive model statistically. Nevertheless, a number of new potential settlements have been identified, and it is hoped that fieldwork will be undertaken to test these in the near future. The model does appear to have utility for exploring the medieval and post-medieval landscape, although a lack of data means that it is not yet possible to determine whether this could be pushed back into the early medieval period. However, it may at least provide us with a framework for starting to explore the pre-eleventh-century landscape via other methods. The model could, for example, be used to stratify sampling sites for pollen analysis. The database compiled for the project also has wider applications for the retrogressive analysis of the medieval landscape. Thus it has been suggested, albeit tentatively, that the strength of the arable component of the medieval economy of the Vale of Glamorgan has been over-emphasised. The creation of a substantial spatial database has also opened up new avenues for research into the field-names themselves.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Finally, the project further demonstrates the importance of Tithe maps and apportionments as sources of evidence for landscape archaeology, and it is hoped that the data made available through the Cynefin Project will facilitate the instigation of projects of a similar nature in other parts of Wales.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "The ADS Project Archive": [
+      {
+        "text": "The settlement zones from the predictive model and the spatial database of field-names have been deposited with the Archaeological Data Service. These data and associated documentation are freely available for download from http://archaeologydataservice.ac.uk/ archives/view/medwelsh_ba_2016/.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Acknowledgements": [
+      {
+        "text": "The project was funded by a British Academy/ Leverhulme Small Research Grant. I am extremely grateful to the research assistants, Alison Harthill (transcription of Tithe Apportionments and estate maps) and Alex Vujakovic (creation of field boundary network), for their assistance during the project. I would also like to thank Rhiannon Comeau, Alice Forward, Susan Oosthuizen, the Editor, and the anonymous reviewer for comments and improvements on this paper.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Bibliography": [
+      {
+        "text": "Aston, M. and Rowley, T. 1974. Landscape Archaeology: an introduction to fieldwork techniques on post-Roman landscapes. Newton Abbot: David and Charles.\n\nBaker, A. and Butlin, R. (eds.) 1973. Studies of Field Systems in the British Isles. Cambridge: Cambridge University Press.\n\nComeau, R. 2009. Cytir and Crosses: the archaeological landscape of the parish of Dinas, Archaeologia Cambrensis 158: 225-253.\n\nComeau, R. 2012. From tref(gordd) to tithe: identifying settlement patterns in a north Pembrokeshire parish, Landscape History 33 (1): 29-44.\n\nCourtney, P. 1983. The Rural Landscape of Eastern and Lower Gwent c. AD 1070-1750. PhD Thesis: University College, Cardiff.\n\nDavies, M. 1954-1955. Field Patterns in the Vale of Glamorgan. Transactions of the Cardiff Naturalists' Society 84: 5-14.\n\nDavies, M. 1973. Field systems of South Wales. In A. Baker and R. Butlin (eds.), Studies of Field Systems in the Britain Isles. Cambridge: Cambridge University Press, 480-529.\n\nEdwards, N., Davies, T., and Hemer, K. 2016. Research framework for the archaeology of early medieval Wales c. 400-1070. Available online at http://www.archaeoleg.org.uk/pdf/refresh2016/earlymedrefresh2016.pdf. Last consulted 22/03/2017.\n\nField, J. 1972. English Field Names: a dictionary. Newton Abbot: David and Charles.\n\nField, J. 1993. A History of English Field-Names. London: Longman.\n\nForward, A. 2013. The Ceramic Evidence for Economic Life and Networks from 12th- to 17th-Century Settlement Sites in South Glamorgan. PhD Thesis: Cardiff University.\n\nForward, A. forthcoming. Landscape and settlement in medieval South Wales. In R. Comeau and A. Seaman (eds.), Living off the Land: agriculture in Wales c. 400-1500 AD.\n\nGerrard, C. and Hall, T. 2007. The post-Roman landscape. In C. Gerrard and M. Aston, The Shapwick Project, Somerset: a rural landscape explored. Leeds: The Society for Medieval Archaeology.\n\nHall, D. 2014. The Open Fields of England. Oxford: Oxford University Press.\n\nJones, G.R.J. 1973. Field systems of North Wales. In A. Baker and R. Butlin (eds.), Studies of Field Systems in the Britain Isles. Cambridge: Cambridge University Press, 430-479.\n\nJones, R. and Hooke, D. 2012. Methodological approaches to medieval rural settlements and landscapes. In N. Christie and P. Stamper (eds.), Medieval Rural Settlement: Britain and Ireland, AD 800-1600. Oxford: Windgather, 31-42. Jones Pierce, T. 1943. Ancient Welsh measures of land, Archaeologia Cambrensis 97:195-204. Kissock, J. 2006. The Roman settlement pattern in Western Gower landscape: a preliminary report, Archaeology in Wales 46: 118-121. Kvamme, K.L. 1988. Development and testing of quantitative models. In WJ. Judge and L. Sebastian (eds.), Quantifying the Present and Predicting the Past: theory, method and application of archaeological predictive modelling. Washington: US Bureau of Land Management, Department of the Interior, US Government Printing Office, 325-427. Oosthuizen, S. 2008. Field-names in reconstructing late Anglo-Saxon agricultural land-use in the Bourne Valley, West Cambridgeshire. In A.M. Chadwick (ed.), Recent Approaches to the Archaeology of Land Allotment. BAR International Series 1875. Oxford: Archaeopress, 323-340. Owen, H.W. and Morgan, R. 2007. Dictionary of the Place-Names of Wales. Ceredigion: Gomer. Pierce, G.O. 1968. The Place-names of Dinas Powys Hundred. Cardiff: University of Wales Press.",
+        "page_numbers": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Richardson, R. E. 1996. The Herefordshire field-name survey, Transaction of the Woolhope Naturalists' Field Club 48: 434- 469. Rippon, S. 2012. Making Sense of a Historic Landscape. Oxford: Oxford University Press. Seaman, A. 2011. Towards a predictive model of early medieval settlement location: a case study from the Vale of Glamorgan, Medieval Settlement Research 25: 12-22. Seaman, A. in prep. Observations on the Fields and Field-Names of the Eastern Vale of Glamorgan. Thomas, C. 1980. Field name evidence in the reconstruction of medieval settlement nuclei in North Wales, National Library of Wales Journal 21: 340-356. Thomas, D. 1963. Agriculture in Wales During the Napoleonic Wars: a study in the geographic interpretation of historical sources. Cardiff: University of Wales Press. Thomas, H.J. 1983. Appendix 3: The 'Spenser Survey': a note. In B. James (ed.) Rice Merrick: Morganiae Archaiographia: a book of the Antiquities of Glamorgan. Barry Island: South Wales Record Society.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        2
+      ],
+      "captions": [
+        "Figure 1 Location map of the study area. The study area focused on the parishes of Wenvoe, Sully, St Lythans, St Andrews Major, Penmark, Penarth, Michaelston le Pit, Merthyr Dyfan, Llandough and Cogan, and Llancarfan. Figure prepared by author."
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Figure 2 Location of field-names with elements indicative of archaeological features. Figure prepared by author.",
+        "Table 1 Field-names indicative of the location of previously unknown deserted settlements."
+      ]
+    },
+    {
+      "page_numbers": [
+        5
+      ],
+      "captions": [
+        "Figure 3 Distribution of arable land-use in relation to settlement zones. Figure prepared by author."
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Figure 4 Distribution of woodland, pasture, and meadow in relation to soil drainage. Figure prepared by author.",
+        "Table 2 Field-names indicative of medieval open fields."
+      ]
+    }
+  ]
+}
