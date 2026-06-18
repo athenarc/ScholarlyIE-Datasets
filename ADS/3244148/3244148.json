@@ -1,0 +1,1680 @@
+{
+  "document_title": "MEDIEVAL CROSSED FRIARS AND ITS ROMAN TO POST-MEDIEVAL LANDSCAPE: EXCAVATIONS AT MARINER HOUSE, IN THE CITY OF LONDON",
+  "abstract": "This site near the Tower of London produced archaeological evidence of Roman occupation, the medieval religious house of Crossed Friars, late 16th- to 17th-century glass manufacture and a 19th-century tavern assemblage.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "With specialist contributions by Ian Betts, Lyn Blackmore, Brice Girbal, Tony Grey, Nigel Jeffries, James Morris, Alan Pipe, Beth Richardson, Karen Stewart, Amy Thorp, Roger Tomlin, Don Walker and Angela Wardle",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "SUMMARY": [],
+    "INTRODUCTION": [
+      {
+        "text": "Excavation on the site of Mariner House, Crutched Friars (NGR 533443 180865) in the City of London was commissioned by Mint Hotels in 2008. It is bounded by Crutched Friars to the north, Walsingham House to the west at 35 Seething Lane, Savage Gardens to the east and by Pepys Street to the south (Fig 1).",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "Following a watching brief in 2006 and investigation of two geotechnical pits in 2007, excavation began in April 2008 in four trenches located in the south-west, south-east and north-west corners of the site. The areas around these trenches were then opened up resulting in near-complete excavation and recording of the western, northern and eastern perimeter of the site (Fig 1). A further four large trenches for pile caps were excavated near the southern boundary of the site and a watching brief with selective excavation was maintained on 17 more pile caps of varying size in the central part of the site. Further small-scale excavation took place in the EDF substation located in the north-east corner of the site in 2010 which completed the programme of archaeological investigation. Almost all the archaeological deposits within the central portion of the site were removed during the 1963 development, when a very deep basement was constructed here.",
+        "page_numbers": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The site archive will be deposited under the site code MCF06 in the Museum of London's Archaeological Archive (LAA), Mortimer Wheeler House, 46 Eagle Wharf Road, London N1 7ED, where it may be consulted by prior arrangement. This publication employs the standard MOLA recording system; context numbers cited in the text appear in square brackets [10] and accessioned finds are shown in angled brackets <20>. Land-use entities consist of Buildings (B), Structures (S) and Open Areas (OA) such as fields, backyards or gardens. Certain categories of finds have been given illustration numbers preceded by a letter denoting their category. Concordance tables are provided for building material (<T1>etc for tile; Table 1), pottery (<P1>etc, Table 2) and bottle glass (<G1>etc, Table 3) (see Appendix). The context and land-use details concerning metal finds, glass vessels (other than bottles) and the glass-working waste are included in the figure captions. The clay tobacco pipes have been classified according to Atkinson and Oswald's (1969) classification (AO). Registered finds have retained their accession numbers for reference. The analysis of the excavation resulted in a series of specialist research archives which will be deposited as part of the archive. The results of assessed strata and all assemblages of artefacts, environmental and osteological remains were recorded on the MOLA Oracle database. This article employs standard Museum of London codes for ceramics and building materials; complete lists of these codes, their expansions and date ranges are available online. $ ^{1} $ Pottery ware expansions and codes are cited in full when first mentioned in each main section of the article and thereafter the code only is used.",
+        "page_numbers": [
+          2,
+          3
+        ]
+      }
+    ],
+    "NATURAL TOPOGRAPHY AND THE COURSE OF THE LORTEBURN (PERIOD 1)": [
+      {
+        "text": "The natural topography of the site and surrounding area is formed of the Wolstonian Mucking Gravel Terrace (OA1, not illustrated), capped by compacted brickearth (OA2, not illustrated), much of which had been truncated by the 1963 development. The terrace gravels sloped down southwards from 10.17m to 9.55m OD across the site. At Lloyd's Register of Shipping to the north (site code FCC95; Bluer & Brigham 2006, 8; Fig 1) the gravels were recorded mostly at 9.8m OD, falling to 9.74m OD at Fenchurch Street Station (site code FSS84; O'Connor- Thompson 1984; Fig 1). At Colchester House, to the south of Mariner House, the gravels were recorded at 9.3m OD (site code PEP89; Sankey 1995, 1; Fig 1).",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The dip in the levels recorded to the north of the site is accounted for by the conjectured alignment of a watercourse, known as the 'Lorteburn'. It is first recorded in a deed of 1288. It refers to a property in the parish of All Hallows Barking fronting on to Seething Lane, the rear portion of which adjoined a stream called the 'Lorteburn' (Bentley 1984, 16). Evidence for a dendritic stream channel in this area comes from sites located to the north and north-east (ibid). More recent observations at Lloyd's Register of Shipping has proposed evidence for a second, possibly seasonal branch to the stream which may still be flowing underground in the Fenchurch Street area (Bluer & Brigham 2006, 8-9).",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The course of one of these stream channels has been projected to run across the north-western corner of the Mariner House site before passing by Seething Lane (site code SEA88; Bentley 1984). This projection is based on an observation made in 1963 during the construction of Mariner House when the 'course of small stream' in the natural gravels was identified as running on an east-west alignment (Marsden 1967, 214). However, no 'stream bed' deposits were encountered during the recent excavations and, furthermore, the north part of the site was found to be located on an area of higher ground, rather than a stream valley.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "No pre-Roman deposits were identified at the site though a small number of worked and burnt flints recovered residually from Roman and medieval features may indicate prehistoric activity at the site.",
+        "page_numbers": [
+          3
+        ]
+      }
+    ],
+    "EARLY ROMAN LAND MANAGEMENT AD 50-120 (PERIOD 2)": [
+      {
+        "text": "The earliest occupation on the site can be dated to the mid-1st century AD when it was situated at the eastern extremity of the Roman settlement. The local topography was shaped by two roads: the main extramural road from Aldgate (roughly along the line of Fenchurch Street; Fig 1) approximately 200m to the north, and the cardo Decumanus Maximus which ran eastwards from the Basilica at Leadenhall skirting the site roughly 15m to the south (Fig 2). Part of this road, a gravel surface flanked by a V-shaped ditch and 2nd-century AD buildings, was found during excavation at Colchester House south of modern Pepys Street (Sankey 1995, 20-8, 94, 118).",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "During the early Roman period the western half of the site was demarcated by two parallel linear ditches aligned north-west to south-east (S1 and S2; Fig 2). These were located approximately 22m apart and parallel with the projected line of the Roman road to the south. A row of eight stakeholes along the southern edge of Structure 1 ditch may have supported a fence at its eastern end. Both ditches produced pottery of a similar date: Structure 2 ditch is dated to c.AD 70-120 by sherds of a Verulamium/London region mica-dusted ware (VRMI) bowl found in the primary fill; whilst Structure 1 ditch produced a greater range of domestic wares including Highgate Wood ware C (HWC) and La Graufesenque samian (SAMLG) vessels. Faunal remains recovered from Structure 2 ditch included the bones of an adult horse (Equus caballus). The distal end of the tibia had been gnawed by dogs suggesting that elements of this carcass had been left exposed before burial. This is unusual as the rest of the Roman faunal remains discovered on site appear to represent material discarded after consumption.",
+        "page_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Various sets of parallel early Roman ditches recorded nearby at 2 Seething Lane (site code SEA88; Gibson 1988) and 1-12 Rangoon Street (site code RAG82; Bowler 1983; Williams in prep; Fig 1) have been interpreted as drainage ditches and animal enclosures. However, the ditches at Mariner House are wider and longer, in effect acting as boundary ditches dividing the western portion of the site into three separate areas:",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "Open Area 5 to the north, Open Area 4 in the centre and Open Area 3 to the south (Fig 2). Rubbish pits, cesspits and dumped deposits were chiefly confined to the areas north of Structure 1 ditch, which appears to have been left either as open space or fields. The character of the material retrieved from these pits, which included large quantities of discarded oyster (Ostrea edulis) shells and fragments of building materials, is similar to that recovered from the ditches, suggesting a domestic origin, though the sparse and fragmentary nature of these finds indicates secondary disposal of material away from the settled area. The associated pottery gives a Flavian date [AD 70-100] for this activity, though continuity of occupation into the 2nd century AD is suggested by the presence of a HWC jar (c.AD 100-20] recovered from one of the pits in Open Area 4.",
+        "page_numbers": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "A small group of intercutting pits in Open Area 6 (Fig 2) at the south-eastern end of the site produced several fragments of wall plaster and ragstone debris, which may indicate the presence of nearby buildings.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The remains of a timber fence (S3) associated with a mid to late 1st-century AD trampled surface of silty brickearth lay perpendicular to Structure 1 ditch in Open Area 4. However, the focus of settlement appears to be to the south of Structure 1 ditch where a fragment of a clay and timber building (B1) comprised a north-south orientated beam slot with a posthole at its northern end and a second posthole to the west (Fig 2). These were overlain by a trampled brickearth surface dated to the first half of the 2nd century AD by a sherd of a Les Martres-de-Veyre samian (SAMMV) dish and a combed box-flue tile. Building 1 may have been associated with an external yard (OA3; Fig 2) in which a line of post- and stakeholes may represent a fence or palisade. The alignment of these postand stakeholes, parallel to Structure 1 ditch and terminating at the same point, suggests that they are contemporary. This is broadly confirmed by a single sherd of Verulamium/London region white ware (VRW) dated c.AD 50-160 found in one of the postholes.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The alignments of the ditches (S1 and S2) and the fence (S3) are a good indication that the Roman road to the south extended at least as far as the termini of these ditches during the 1st century AD, which previous topographical reconstructions of 1st-century AD London generally show stopping short of the site on account of the seemingly disruptive course of the Lorteburn (Williams in prep; Bentley 1984). Although the stretch of road identified at Colchester House may have been a later extension, the pattern of north-west to south-east development seen at Mariner House appears to indicate that this road would have been the focus of residential development in the area. The distance of the site from the road suggests that the excavations have only located the rear portion of such buildings and external activities such as pit digging.",
+        "page_numbers": [
+          5
+        ]
+      }
+    ],
+    "REORGANISATION OF THE ROMAN LANDSCAPE, AD 120-400 (PERIOD 3)": [
+      {
+        "text": "The landscape began a period of change during the first half of the 2nd century AD when the ditches were backfilled and Building 1 was demolished. Both ditches were backfilled rapidly at the same time and contained a similar range of pottery dating this event to c.AD 120-40. The palisade structure in Open Area 3 was also demolished at this time. It was sealed by demolition deposits dating from AD 70/ 100-60 containing roof tiles, wall plaster fragments and a box-flue tile; all presumably derived from nearby masonry buildings.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The backfilling of the two ditches (S1 and S2) consolidated the previously separated areas into one continuous stretch of open landscape (OA9; Fig 3) which remained unchanged until the end of the Roman period. The area was interspersed with rubbish pits and drainage gullies dated to the mid-2nd century AD. Several features, particularly located in the north-west part of Open Area 9, indicate activity in this area continued in the mid-3rd to late 4th century AD (judging by the presence of Alice Holt/Farnham ware (AHFA), Portchester ware D (PORD) and Oxfordshire white ware (OXWW)). A few of the post-AD 250 pits were distinguished by their rectangular shape and vertical sides, which suggests that they were originally lined so that they could be cleaned out and reused. A small number of domestic finds were found within them including the bone shaft of a pin or needle ( <214> ), fragments of colourless and blue-green vessel glass and a cylindrical bottle ( <131> ). Sheep ( Ovis aries ) and cattle ( Bos taurus ) bones were recovered from Open Area 9, most of which showed evidence of butchery. An almost complete cattle head and several long bones, retrieved from a pit in Open Area 10 (Fig 3) show pathological changes suggesting skeletal adaptation to load-bearing work indicating that this particular cow was used for traction, possibly ploughing or carting.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "Environmental samples collected primarily from the pits on site were dominated by waterlogged wild plant species. Wetland and disturbed ground taxa were both common implying a damp urban waste land environment. The gullies and ditches in Open Areas 9 and 10 may therefore have been dug to improve drainage.",
+        "page_numbers": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The most compelling evidence for occupation came from Open Area 6 (Fig 3) where a group of three intercutting pits, contemporary with a nearby timber-lined well (S4), may have been located to the rear of a property. The three rubbish pits dated to c.AD 150-250 by fragments of a central Gaulish samian (SAMCG) mortarium and bowl also contained fragments of painted wall plaster, chalk and ragstone rubble and window glass (<107>). These finds imply the presence of residential buildings nearby.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "The well (S4) measured 1m square by 1.5m deep with four postholes in the base off-set from the four corners. The posts may have acted as braces to retain a lining of horizontal planking of which only traces remained. The well is remarkable for the extremely unusual group of complete vessels recovered from its backfill. A total of eight vessels are represented dating from the late 2nd century AD to early 3rd century AD: two imported fine wares and six Romano-British vessels of North Kent industries (Fig 4).",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "The group is unusual particularly in terms of preservation, a graffito inscribed vessel (<P3>) , and the evidence for deliberate selection.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "The Kentish vessels are of particular interest. The three black-burnished-style ware (BBS) cavetto rim jars (dated c.AD 150/160220/240) (<P1> and <P2>; Fig 4) are all products of the same kiln (probably located in Shorne parish) and given the similarity in style and colour they may have been part of the same firing. The spacing of the decorative single lattice is very regular (5-7mm) and could be indicative of an individual potter's work. Despite being technically defined as a jar form, they are of a comparable size to the poppy-head style beaker (<P3>) resulting in an aesthetically pleasing assemblage.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "The inscribed north Kent grey ware (NKGW) vessel (<P3>; Fig 4) is a rouletted variant of the poppy-head style beaker dated c.AD 190-220/230, and is a rare vessel type even within the immediate vicinity of its production. North Kent grey ware is relatively sparse on City of London sites and is more typical of Trajanic assemblages (Davies et al 1994,152). The graffito inscribed into the middle of the vessel is complete except for the loss of the left-hand curve of the third letter (epsilon). The letters are Greek capitals reading $ \\Delta $IE .0 $ \\Delta $KA. There is a space after the third letter, followed by a sinuous curve which may be an unidentified symbol, a 'spacer', or even decorative or possibly the letter $ \\Xi $ (xi) (Tomlin 2011). Most literate graffiti are personal names, but given that this does not resemble any known name and no similar sequence of letters is known from Britain, interpretation is reduced to conjecture. One possibility is that the last two letters, KA, are the Greek numeral '21' which is supported by their closeness to each other, but they are not preceded by a plural noun-ending, or any recognisable word of weight or capacity.",
+        "page_numbers": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "An alternative explanation is that $ \\Delta I E \\Sigma 0 \\Delta( I ) K A, \\delta \\iota \\varepsilon \\xi 0 \\delta( \\iota ) \\kappa \\alpha $ was intended, the double zigzag of $ \\Xi $ being reduced to a double curve, and iota omitted by oversight. This would be the neuter plural of the adjective derived from $ \\delta \\varepsilon \\xi 0 \\delta \\omega c $ , a noun meaning literally 'through-out-way' which is used in various concrete and abstract senses such as 'passage-way' and 'narrative' but also as a medical term for 'evacuation' [of the stomach] by Hippocrates (Prog 11, 206.5), quoted also by Galen (Hippocrates). The derived $ \\delta \\varepsilon \\xi 0 \\delta \\iota \\kappa $ would then mean '(agents) causing evacuation' that is 'purgatives', not that this sense is actually attested, but purging played a large part in ancient medical practice and various effective agents were available. The suggestion that this was a Roman apothecary's jar remains uncertain in view of the difficulties of reading and interpretation. Many Roman doctors, even in Britain, were Greek-speaking, so it is an attractive explanation of why a good-quality vessel of British manufacture should have been quite carefully inscribed in Greek (Tomlin 2011).",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The face pot ( <P4>; Fig 4) is dated to the late 2nd century AD and is another unusual find for the City as it is likely to be a product of an industry based in Canterbury. Face pots are found in a variety of contexts and a high proportion of complete vessels are found buried in ritual deposits (Braithwaite 1984, 123).",
+        "page_numbers": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Little remained of a sixth north Kent vessel (base of NKGW jar). Accompanying the Kentish products were two imported vessels: the greater part of an east Gaulish samian ware (SAMEG) Dragendorff form 31 dish （<P5>；Fig4), dated c.AD 150-300, which was originally stamped, and single sherd of a central Gaulish/Lezoux black colour coated ware (CGBL) indented beaker with rouletted decoration.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The upper fills of the well contained 18 fragments of painted wall plaster which included examples of border areas and an unusual zigzag decoration. Fragments of two glass bottles ( $ < 1 4 8 > $ , $ < 1 4 9 > $ ) were recovered alongside pottery dated from c.AD 180 to c.AD 250 on the presence of sherds of Thameside Kent ware (TSK).",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The combination of the range of vessels from Kent is very unusual if not unique within the City and may indicate they belonged to a single individual or household that originated from that region. Furthermore, the deposition of the three black-burnishedstyle vessels together is compelling evidence that the vessels must have been purposely chosen for deposition in the well (most likely as a votive deposit upon disuse of the structure). The completeness of the vessels is an immediate indication, further supported by the rarity value of certain vessel types (including a repaired samian dish). The incomplete NKGW jar and CGBL rouletted beaker (a single sherd) are exceptions to this pattern and as the group appears undisturbed their inclusion cannot be explained.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The association of deposits in wells with religious or ritual acts is a well-known practice in Roman Britain (Merrifield 1987, 44) and a number of unusual well and pit assemblages of this nature have been identified in Southwark (Seeley & Wardle 2009, 148-56) and in the City of London (Lyon 2007, 25-9). Often the placement of ceramic vessels is found in combination with human remains, faunal remains or other objects, but in this instance the contents of the well appears to entirely consist of pottery. Deposits containing only ceramic vessels are also recognised and show a preference for amphorae, flagons, bowls and occasionally beakers (Merrifield 1987,47). The similarity of the BBS jars to beakers, discussed above, may be related to this and the use of similarly sized vessels for libations.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "Overall the interpretation of this group as a 'termination' deposit seems fairly certain, and is an important addition to our knowledge of this process. It has been suggested that the reason behind such deposits is an indicator of change, or that the well had failed (Merrifield 1987, 49). The backfilling of the pits in Open Area 6 at the same time and the apparent abandonment of the area may support the former interpretation in this case.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "THE LATE SAXON REOCCUPATION. c.AD 950-1080 (PERIOD 4)": [
+      {
+        "text": "The Roman City was probably abandoned by c.AD 400 and there is little evidence that most of it (apart from the area around St Paul's Cathedral) was reoccupied before the later 10th century, when it is believed that the present road network, including East Cheap and Seething Lane, was established (Burch & Treveil 2011, 17-25; Steedman et al 1992, 126-7). The site appears to have remained unoccupied until the late 10th century, when pitting attests to renewed activity.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The earliest post-Roman ceramics consisted of late Saxon shelly ware (LSS), found alone or together with early medieval sandy ware (EMS) and/or early medieval sand- and shelltempered ware (EMSS). Late Saxon shelly ware was the predominant type of pottery used until c.AD 970-1000 when EMS began to appear shortly after the documented reoccupation of the walled Roman City by Alfred in AD 886 (Vince 1985, 30-1). These ceramics were found primarily in cut features along with residual Roman pottery and building material. Some Saxo-Norman (AD 900-1100) finds were also recovered from later contexts.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The distribution of the late Saxon rubbish pits and cesspits shows a clear preference for the northern part of the site where the majority were located in Open Areas 11 and 12 (Fig 5), from where discarded worked bone objects including a complete handle (<216>) and a complete comb plate (<218>)",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "were recovered. In contrast a solitary, recut cesspit in Open Area 13 was the only feature to the south. A comparable pattern of activity was observed in the pre-Conquest phase at Lloyd's Register of Shipping (site code FCC95; Fig 1) where the focus of pitting was associated with buildings along the Fenchurch Street frontage (Bluer & Brigham 2006, 75). Although there is no structural evidence to suggest occupation on the Mariner House site, the location of the pitting suggests that medieval Hertstrete or Hart Street (the eastern end of this street was generally known as Crutched Friars from the 17th century) had been laid out by this time (Fig 5).",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "There were some indications that the late Saxon pitting took place within a regulated system of property units defined by ditches and fences. The pattern of late Saxon development observed in other City of London excavations such as at 1 Poultry was for the contemporary street frontage to be lined with timber buildings and the areas to the rear of these buildings to be occupied by pits (Burch & Treveil 2011, fig 48).",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "As a few pits were situated close to the Hart Street frontage (OA12; Fig 5), it implies that the street frontage was not densely built-up during the 10th and 11th centuries. In fact the overall number of late Saxon pits indicates a low density of occupation. Plant remains recovered from these pits show a dominance of cultivated plants over wild plants (barley (Hordeum sp), oats (Avena sp), free-threshing wheat (Triticum aestivum/turgidum/durum) and low concentrations of fig (Ficus carica) seeds). Two small pits which contained stakeholes were situated at the north end of Open Area 12, where they may have supported upright stakes for a fairly insubstantial fence near the Hart Street frontage (Fig 5).",
+        "page_numbers": [
+          9,
+          10
+        ]
+      },
+      {
+        "text": "An undated shallow ditch or gully (S5;Fig 5) may have served as a field boundary running parallel to medieval Syvedenelane (Seething Lane) and at right-angles to Hertstrete. This feature was respected by the cesspits located immediately to the west indicating that it may have already existed when the pits were dug one of which dated to AD 900-1050.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The evidence indicates the gradual development of the site during the 10th and 11th centuries, but the low density and widespread distribution of the pits suggests that it was not densely occupied.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "THE DEVELOPMENT OF THE STREET FRONTAGE: MEDIEVAL TENEMENTS, 1080-c.1265 (PERIOD 5)": [
+      {
+        "text": "On the eve of the foundation of Crossed Friars (c.1265), the block of land to the north of Tower Hill was typical of most of the City: on the Hart Street (Hertstete) frontage lay a number of small property holdings, generally consisting of two or more separately rented 'messuages', houses with an adjacent small yard or garden (Fig 6). To the rear of these smaller properties, and fronting on to the less busy roads of Seething Lane (Syvedenelane) and Woodruff Lane (Woderovelane), were bigger properties with large areas of garden. The landowners just as for much of London at this time included wealthy families with long-standing London connections such as the Frowyks (Tenement 8; see Period 6), and early London religious houses such as the Augustinian priory of Holy Trinity (Tenements 13-16; see below) and the ancient nunnery of Barking Abbey (Tenement 12; see below).",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The principal documentary source for understanding these tenements is a series of property transaction records: the records of the Court of Husting (at London Metropolitan Archives) and some surviving Crossed Friars deeds (at Chester Record Office). Topological information from these property transaction records (in the form of numerous recorded abutments) was converted to topographic mapping by a process of cartographic reconstruction using the 19th-century Ordnance Survey mapping, an 18th-century survey of the Navy Office, $ ^{2} $ and Ogilby and Morgan's map of 1676 (Ogilby & Morgan 1676, pl 6).",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The archaeological features excavated on the site were ascribed to Open Areas independently of the topographic mapping, with individual tenements and the boundaries between them identified from distinct groups or alignments of pits. The two methods reached similar conclusions and the tenements with their respective archaeological features are illustrated on Fig 6. This also allowed for certain tenements and the finds recovered from them to be directly linked with the known owners or occupants named in the documentary sources.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The archaeological evidence indicates that the use and occupation of the site as demonstrated by pitting continued from the late Saxon period (Period 4) through the 12th and 13th centuries. However, within this period the character of occupation changed from occasional pitting in a broadly open landscape to concentrated, localised activity within definable property boundaries. On the basis of dated material recovered from these pits, the foundation of the tenements and the development of the street frontage can be broadly dated to the second half of the 12th century.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "Tenements 1 and 2": [
+      {
+        "text": "The documentary evidence for these two properties survives from the late 14th century when they were owned by the nunnery of St Helen Bishopsgate and the Augustinian priory of Holy Trinity Aldgate respectively (Hodgett 1971, 30-1). These properties fell outside the area of the site (Fig 6) and have not been subject to previous archaeological investigations.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "Tenement 3": [
+      {
+        "text": "Although no documentary evidence for the early history of this property survives, a well-",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "dated sequence of pits in Open Area 16 (Fig 6) provides good archaeological evidence for the establishment of this tenement by the mid-13th century.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "The earliest pits in the sequence were a large rectangular pit and an adjacent circular pit which were backfilled with little more than silt, brickearth and occasional fragments of pottery dated c.1240-70. These were superseded by an intercutting circular pit and a contemporary rectangular pit located 2.5m to the south. The rectangular pit contained a soft, organic fill with decomposing wood, perhaps the collapsed lining of a cesspit, and a small amount of pottery dated c.1240-70. The stark differences in the fills between this and the circular pit which contained silty deposits with typical kitchen waste including animal bones and oyster shells, may suggest they functioned as cess and rubbish pits respectively, serving the tenement in pairs throughout the mid-13th century.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "These pits were dug along the length of the backfilled shallow ditch (S5, Period 4; Fig 5), set back about 10m from the street frontage. Comparable examples of medieval tenements in the Cheapside area indicate that the nearest 5-10m of these plots to the street frontage would have been occupied by timber buildings and that the associated digging of pits took place in the backyards behind these buildings (Schofield et al 1990, 159-61, fig 37).",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "The circular pit produced an impressive group of well-preserved pottery which comprised 11 ceramic vessels of which four were largely intact. A preference for 'pear-shaped' jugs in London-type ware (LOND) is apparent, with three smashed examples and a fourth surviving intact （<P6>一<P8>；Fig 7). Two of these vessels have applied scales and rouletted strips in the 'highly decorated style' (Pearce et al 1985, 29-30) while the remainder are plain with a white slip and clear lead glaze. The fifth LOND vessel is the lower portion of a baluster-shaped jug in the distinctive 'Rouen-style' （ibid,28-9). A polychrome jug with a deep collared rim (<P9>; Fig 7) and applied vertical strip and clay pellet decoration is possibly from a source in the Seine Valley area of northern France (Barton 1966; Nicourt 1986). This pottery assemblage is completed by several fragments of white-firing Kingston-type ware (KING) jugs and jars produced from c.1240 (Pearce & Vince 1988) which suggest the pit was rapidly filled c.1240-70. This assemblage is consistent with the overall domestic character of the tenement; the large size of the joining sherds and their reconstructable profiles indicate that at least some of these pots were discarded close to their place of use.",
+        "page_numbers": [
+          12,
+          13
+        ]
+      },
+      {
+        "text": "This tenement was owned by the Augustinian hospital of St Mary Spital by the first half of the 14th century. $ ^{16} $ The archaeological record shows the occupation of this tenement continues into the late 13th and early 14th centuries with a number of large rubbish and cesspits dug progressively further back on the tenement (OA16; Fig 9). The primary fills of the largest of the cesspits produced a varied range of both highly decorated drinking vessels (mostly baluster and conical jugs) and well-preserved cooking vessels (jars together with a pipkin and dripping dish) in LOND, KING (Pearce & Vince 1988) and Mill Green ware (MG) (Pearce et al 1982) dated to c.1270-1350. These pits may have been contemporary with a timber-framed building located by the street frontage, the only surviving part of which was an east-west orientated beam slot and adjacent posthole (S12; Fig 9). These features were associated with charcoal and fire-reddened brickearth deposits, which suggests that this building burnt down.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "Tenement 4": [
+      {
+        "text": "This property is first recorded in the 1270s or 80s when it is described as the western abutment to Tenement 5 and was occupied by a certain Peregrine. $ ^{3} $",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The archaeological evidence for occupation of this tenement predominantly dates to the 12th century with two groups of broadly contemporary pits in Open Area 17 (Fig 6). The cluster of circular rubbish pits located close to the street frontage was dated to c.1080-1150 from occasional fragments of early medieval sand- and shell-tempered ware (EMSS). Moderate amounts of oyster and mussel (Mytilus edulis) shells, charcoal and ceramic building debris including splashglazed peg tiles suggests these are primarily domestic rubbish pits. One of these pits was distinguished by its fills of burnt organic material from which a complete smithing hearth bottom and three pieces of copperalloy waste (<17>] were recovered, indicating 'backyard' metalworking activities. These pits were replaced by a concentration of features in the southern part of the plot (Fig 6). This slightly later group of pits, dated to c.1180-1200 from the presence of coarse London-type ware (LCOAR) produced a comparable assortment of food waste and building materials to the northern group.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Continued occupation into the mid 13th century is demonstrated by a large pit located in the central part of the plot (Fig 6). Occasional kitchen waste and building debris, including chalk rubble and greymortared peg tile dispersed throughout the silty fills dated to 1240-70, show that it was contemporary with the pits in Tenement 3 (OA16). The lack of later activity by the street frontage might suggest that the pits had been succeeded by a tenement building, the foundation of which may be dated to the second half of the 12th century following the backfilling of the first group of rubbish pits.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "This property was described as two tenements (presumably two separately rented messuages or houses) in 1348 when William Symond granted it to his sister Mathilda. $ ^{17} $ Archaeological evidence for occupation in this tenement picks up in the second half of the 13th century when the focus on pit digging had relocated to the south-east corner of the plot (OA21; Fig 9). A group of three square cespits dated to 1240-1350 contained a number of domestic finds including the base of a glass urinal (<125>) and the lower portions of up to three abraded south Hertfordshire-type grey ware (SHER) jars, with the sooting and internal limescale or 'kettle fur' residues evidence of use. One of these pits produced the highly decorated neck and head of a LOND aquamanile probably depicting a sheep/ ram or a horse (<P13>; Fig 14). Although a previous example of this form with this same rim and dot decoration is known from waterfront dumps at Billingsgate Market Lorry Park (site code BIG82; Pearce et al 1985,116,fig 75 no.406), this find remains a rare example which is securely provenanced to a secular household.",
+        "page_numbers": [
+          24,
+          25
+        ]
+      },
+      {
+        "text": "This tenement and the two houses on it were owned by Richard Kyng and his wife Mathilda (sister of the earlier owner William Symond) and it passed into the hands of their son, Richard. In 1388 he sold the property to the fletcher Stephen Sedar and his wife Joan. A year later the Sedars, in turn, sold it to the brewer John Normanton and the tawyer Walter Teband. The former bequeathed the property to the Crossed Friars in his will proved in 1405. A 12d quit-rent (annual payment) remained payable to Holy Trinity Priory. $ ^{51} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenement 5": [
+      {
+        "text": "The history of this tenement is not altogether clear; it may have originated as two separate tenements which were later amalgamated. The earliest recorded owner is John Hurel who occupied the property around the third quarter of the 13th century. $ ^{4} $",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Occupation of this tenement (OA18) was represented archaeologically by a cluster of two, possibly three, closely spaced and intercutting rubbish pits which provided a continuous sequence of activity spanning the course of the 12th century (Fig 6). The earliest of these was dated to the early 12th century from pottery dominated by LCOAR. The pits also contained food waste including oyster and mussel shells, while the faunal component was notable for its diversity. While beef, pork and mutton/goat bones were the most common, a duck (Anatidae) tibia was found in one of the early pits in the sequence and a roe deer (Capreolus capreolus) metatarsal was recovered from a later pit dated to 1050-1150. Building debris (fragments of ragstone, chalk and occasional splash-glazed tiles) was recovered throughout the sequence of pits.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The latest rubbish pit in the sequence contained a sizeable quantity of pottery, with fragments of up to 13 pottery vessels recovered from its primary fill. These were mostly in LOND dated to the latter part of the 12th century, and included the greater part of a squat jug with applied vertical strip decoration and the upper portions of two London-type ware baluster jugs with north French-style decoration (LOND NFR) (similar to those in Pearce et al 1985,75,fig 33 nos 101-4). The upper fill contained the substantial remains of an unglazed LOND jar and a large rounded jug with scale decoration applied to its upper body. The utilitarian function of the jugs and jars is in keeping with the overall domestic character of this pit group which is also reflected in the associated faunal and environmental remains, including cereal grains and animal bones, including a pheasant (Phasianus colchicus) tibia.",
+        "page_numbers": [
+          13,
+          14
+        ]
+      },
+      {
+        "text": "John Hurel sold this tenement to Henry Orpedman in 1271 (Fig 9). Recorded owners after this include Roger de Wantham by the late 1290s, then Cecilia de Lamore, wife or widow of a limner called Ralph and finally John de Stratford. De Stratford's executors granted the property to the Crossed Friars in 1328 as part of a contract to perform commemorative Masses and funeral anniversaries for him and his wife Constance. $ ^{18} $ Unfortunately, no archaeological remains of this tenement survived.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "This property remained in the possession of the Crossed Friars and was part of the bundle sold to Sir John Milbourne in 1527. $ ^{52} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenements 6-8": [
+      {
+        "text": "Nothing is known of these tenements historically until the 14th century when Tenements 6 and 7 were granted to the Crossed Friars by their respective owners (Period 6). Tenement 8, however, was not acquired by the friary and this large property on Seething Lane may have originally included Tenements 1 to 5 and perhaps Tenements 6 and 7 as well. A single, circular pit containing occasional pottery fragments dated to c.1140-1220 presumably lay in the backyard area of Tenement 8 in Open Area 19 (Fig 6).",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Tenements 9-11": [
+      {
+        "text": "Tenements 10 and 11 (Fig 6) were owned by Herildis, daughter of William Burgoine in the third quarter of the 13th century. $ ^{5} $ The area occupied by these tenements was subject to limited excavation and extensive truncation along the street frontage and did not reveal any archaeological features.",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Tenement 12": [
+      {
+        "text": "There is no surviving documentation about the property, but records for the adjacent properties show that this large block of land was owned by Barking Abbey. The abbey had long owned ten 'manors' in this part of London thanks to an early land bequest by Wulfhere, brother of King AEthelred of Mercia, in the 7th century AD (Sturman 1961, 123). $ ^{6} $",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Archaeological evidence of early medieval activity was limited to a small number of intercutting cess and rubbish pits in Open Area 15 (Fig 6) dated from c.1080 to c.1200 from occasional fragments of LCOAR jugs. These features were located in the central part of the tenement where they presumably lay in a garden area.",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Tenements 13-16": [
+      {
+        "text": "These tenements were acquired by the Augustinian priory of Holy Trinity in the first half of the 13th century and later formed the foundation bequest given to Crossed Friars in the 1260s. The names of the owners before Holy Trinity and the tenants renting the properties before the friars are given in the former's cartulary; Tenement 13 appears to have contained at least two houses. These were granted by Philip de Belvaco to Holy Trinity in 1252-3 and the tenement was occupied by Stephen de Eldyng. Tenement 14 is probably one of three quit-rents granted to Holy Trinity Priory by Reginald de Mallyng in 1222 and 1232 and was later occupied by William the Carpenter. Tenement 15 is probably the 1s 8d quit-rent granted to Holy Trinity by John Renger, the gift of Roger le Pestur, in 1250 and 1258, and which was occupied by Adam de Mallyng when granted to Crossed Friars. Tenement 16 was situated to the south of Tenement 13 and was occupied by Robert de Turry/Turri when granted to the friary (Hodgett 1971, 25, 28-30, 234-5; Stow 1908, i, 147).",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The archaeological record of Tenements 13,15 and 16 is limited as these areas were largely unexcavated. However, Open Area 14, identified from the documentary records as Tenement 14 (Fig 6) provided some of the best preserved and diverse evidence for the development and character of medieval occupation.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Two groups of intercutting rubbish pits located by the eastern boundary represent activity throughout the 12th century (Fig 6, Tenement 14). One of the earliest pits, dated to c.1080-1150 from fragments of LOND and early medieval shell-tempered ware (EMSH), was distinguished by a charcoalrich fill adhering to the sides which may have been the burnt remains of a barrel or a timber lining.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The second group of pits, dated to c.11701200, produced a medium-sized assemblage of jugs in LOND and a shelly-sandy ware (SSW) bowl used for food preparation and serving. The associated faunal assemblage mainly consisted of the long, meat-bearing bones of cattle and sheep/goat (Ovis aries/ Capra hircus), though the presence of mandibles and pelvic fragments could indicate that relatively poor cuts of meat were being consumed. A single pit in this group contained a pair of left and right dog (Canis familiaris) pelvises with butchery marks caused during the disarticulation of the femoral joint. Although it is possible the animal was knackered to feed other dogs, this may well point to an incident of dog consumption, normally linked to times of famine (Smith 1998). The faunal evidence is comparable with that from Tenement 4 (OA17), which revealed many similarities in species and composition. This contrasts with the dietary evidence from Tenement 5 (OA18), where the presence of wild bird and roe deer together with the higher proportion of pig (Sus scrofa) elements may suggest that the occupants had a higher social status.",
+        "page_numbers": [
+          14,
+          15
+        ]
+      },
+      {
+        "text": "The character of occupation changed in the 13th century when two large, rectangular, timber-lined tanks and a cistern were positioned in a roughly north- south alignment through the centre of the tenement (OA14; Fig 6, Tenement 14). The southernmost two were very similar in dimensions and construction, measuring c.2m deep. The southernmost tank was the best preserved, retaining numerous stakeholes along the perimeter of the base and the remains of timber joists on the base and sides. Most of the timbers of the second tank had been stripped away before backfilling, leaving patches of the clay lining adhering to the sides, which suggests it was designed to contain liquids. The function of these tanks is uncertain, though water storage for an undetermined industrial function is a possibility. The northernmost tank appears to have fallen into disuse first and was backfilled with deposits of silt which contained occasional fragments of plaster and mortar, peg tiles and a sherd from a LOND vessel with repair holes (<352>), dated to c.1180-1270. The tank was replaced by a circular well (Fig 6), which may have been contemporary with the southernmost tank and which contained pottery dated to c.1180-1300. The timber-lined structure located to the north-east was slightly smaller but was the deepest of the three, at almost 3m deep. The sides retained traces of a timber lining except in the lower part, which suggests it may have been a cistern supplied from the water table through an open base. The primary sand and gravel fill contained occasional fragments of LOND and KING dated to c.1240-1300 and a complete oyster shell palette (345>) containing iron oxide pigment (Paynter 2011). At least nine other oyster shell palettes have been found in the City of London (Blackmore 2011b, 1-2) and they are often associated with the decoration of churches or other high-status buildings.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Tenement 14 also contained a chalklined cesspit with tapered sides (Fig 6). These reusable stone-lined cesspits became common in the City of London from the 13th century onwards as it appears that due to the increasing density of population many people no longer had access to external areas to dig unlined pits (Schofield et al1990, 173-5). Many of these stone-lined cesspits, including this example, remained in use for centuries and often their finds only relate to their final usage (see Period 8, B5, below).",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "These tenements formed the site of the friary's original church and churchyard in the 1260s and were the foundation bequest (a lease rather than an outright gift) of Ralph Hosiar and William Sabernes (Fig 9). The Crossed Friars still paid Holy Trinity Priory an annual rent of 13s 8d in 1320 and it is not clear when the friars acquired full ownership of the property (Hodgett 1971, 25, 29-30, 234-5; Cam 1968-9, ii, 196-202; Stow 1908, i, 147).",
+        "page_numbers": [
+          25,
+          26
+        ]
+      },
+      {
+        "text": "The location of the church to the rear of the roadside tenements suggests their continued maintenance and there is some archaeological evidence for their occupation during the early years of the friary.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The property on Tenement 14 (OA14; Fig 9) may have been occupied during the construction of the church in the late 13th century: the fills of a circular, barrel-lined well or soakaway sunk through the centre of the earlier cistern contained ceramics closely dated to c.1270-1300. In contrast to the highly decorated jugs recovered from other tenements at this time, the assemblage is characterised by cooking vessels and dripping dishes. These include the sooted upper portions of two LOND jars and the reconstructable profiles of two KING jars with applied horizontal thumbed decoration displaying similar residues of use. Recovered together with a LOND tripod pipkin, this assemblage represents one of the few divergences of ceramic cooking forms over the dominant jar form. The implied use of this feature in the late 13th century suggests the tenement building was maintained, either leased out or occupied by the friars themselves, during construction of the conventual buildings.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Although small, the faunal and botanical assemblages from this well were equally informative. The majority of the cattle remains consisted of foot elements whereas the sheep/goat bones were mainly mandibles both of which appear to represent primary processing (butchery) rather than consumption waste. More than 150 fish elements were recovered from the samples taken from the fills, and included vertebral fragments of cod, haddock (Melanogrammus aeglefinus), herring family (Clupidae) including herring (Clupea harengus), plaice/flounder, smelt (Osmeridae) and thornback ray (Raja clavata) dermal spines, suggesting the fish were brought in after removal of the head and tail (Morris 2009). This varied assemblage complements the ceramics and suggests the well was being infilled with rubbish from the kitchen. The botanical remains included a number of charred cereal grains, but of particular interest were the charred flax seeds which may also be eaten for medicinal reasons or crushed to produce linseed oil as a food preservative.",
+        "page_numbers": [
+          26
+        ]
+      }
+    ],
+    "Tenements 17-20": [
+      {
+        "text": "Nothing is known of the history of Tenements 17 and 20 until the early 14th century (see below, Period 6). In the third quarter of the 13th century Tenements 18 and 19 were owned by Geoffrey of Schanketon who had bought Tenement 18 from Ingulph the Baker and Tenement 19 from Saer de Abyndon (Abingdon) (Rees 1997, 155). These tenements fell outside the limits of the site, and previous excavations (site codes ARC81, SEN91, SVA10, TRY88; Fig 1) in this area did not uncover any archaeological evidence of this date.",
+        "page_numbers": [
+          15
+        ]
+      }
+    ],
+    "THE FOUNDATION OF THE PRIORY. c.1265-1350 (PERIOD 6)": [],
+    "The Church": [
+      {
+        "text": "The priory of Crossed Friars was founded along Hart Street in the 1260s or thereabouts. The priory was probably the second English house of an order of regular canons now known as Crosiers, but who in 13th-century England were known as cruciferi ['crossed [brethren]'] or fratres sancte crucis ['brothers of the Holy Cross']. The order originated at Clairlieu near Huy in the Duchy of BasseLorraine (modern Belgium) in the early 13th century, beginning as a group running a small monastic hospice and evolving into an order of regular canons following a blend of Dominican and Augustinian rules. They founded their first house in England at Whaplode in Lincolnshire in the 1240s and these friar-like canons were regarded as friars, even though they did not follow the strict mendicant ideal of poverty but instead owned property to provide rental income in the normal monastic way (Hayden 1964, 92-6; 1989, 148-52; Van den Bosch 1992, 21-2, 29-33). The London house was initially known as the priory of the Holy Cross $ ^{7} $ but the priory and, indeed, the English order became known as the Crutched or Crouched Friars by the early 14th century, influenced by the English pronunciation of the Latin cruciferi $ ^{8} $ The friars referred to themselves, in a more correct translation of the Latin, as Crossed Friars. $ ^{9} $",
+        "page_numbers": [
+          15,
+          16
+        ]
+      },
+      {
+        "text": "The Tudor historian John Stow records a tradition that the London Crossed Friars was founded by Ralph Hosiar and William Sabernes in about 1298 (Stow 1908, i, 147). Even though the foundation date stated by Stow is too late, the names of the founders are likely to be correct: an earlier Ralph the Hosier owned land in this area in the late 12th century and a later Ralph was a witness in a London transaction of c.1240; William Sabern seems to have been active in the third quarter of the 13th century (Hodgett 1971, 28; Kerling 1973, 20, 129). The exact date of the foundation remains uncertain but the evidence points to the second half of the 1260s: the house is first recorded in May 1269 when the king contributed to the construction of their chapel. This royal command - a reissue of an earlier order - came four years after a more general royal letter of protection was issued to the English order (CPR 1258-66, 456; CLR 1267-72, 81; Röhrkasten 2004, 62). The friars gradually acquired the land for their precinct over the following decades, with the earliest surviving property deed dating to the 1270s, $ ^{10} $ followed by new acquisitions in 1295 and in the 1320s (Rees 1997, 155). $ ^{11} $ By the 1330s the prior turned his attention to the acquisition of land outside London, land which would provide valuable rental income to maintain the London house, suggesting that the early precinct was complete (CPR 1330-4, 41, 49, 197, 223, 416; 1334-8, 222).",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "By the late 13th century the Crossed Friars formed a moderately sized religious house with just under 30 residents; they were, therefore, the smallest of the seven London friaries at this time, with the exception of the short-lived Pied Friars. Initially, the Crossed Friars relied on begging for alms, but they were soon able to supplement this with income from a property portfolio and, increasingly, by the provision of spiritual services. Like the other friars, they heard the confessions of Londoners and performed commemorative chantry Masses and annual anniversary services for the souls of the deceased. The presence of some foreignborn Crossed friars meant that they could hear confessions in Dutch (and probably French) from alien merchants living in London (Röhrkasten 2004, 73-85, 457-65).",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "The first task of the small group of friarcanons who arrived in London in the 1260s was to fund raise and build a chapel. Henry III, a generous benefactor of London's religious houses, granted them 20 marks (equivalent to £13 6s 8d) in May 1269 and reminded the City Corporation of his earlier command (the date of which is unknown) that they too should give money for the new chapel or oratory (oratorium) (CLR1267-72, 81). $ ^{12} $ In 1270 the king granted six oaks from the royal forest, suggesting that work on the roof of their church choir or chapel was shortly to begin, and three years later another document refers to the delivery of timber (CCR1268-72,232;Röhrkasten 2004, 62). If the first chapel or choir was completed in the 1270s, construction of the complete church took a little longer. In March 1320 works on the church were drawing to an end: a rental agreement between the friars and their landlord, Holy Trinity Priory just down the road, refers to both the church and its cemetery but states that the former was 'as yet undedicated' (nondum dedicata) and the latter 'as yet unconsecrated' (nondum benedictum) (Hodgett 1971, 29-30, 234-5). $ ^{13} $ The rental agreement gives us the dimensions of the unfinished church: $ 26 \\frac{1}{4} $ ells by $ 9 \\frac{1}{4} $ ells (24.0m x 8.5m); the measurements could, however, be internal or external, or simply refer to the parcel of land in which the church was built. The following year, a legal dispute between the friary and their other landlord implies that the Crossed Friars church had been completed: bailiffs acting for Barking Abbey entered the church and walked through to the cloister in order to seize goods (Cam 1968-9, ii, 196-202).",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "The excavations revealed the truncated foundations for the east wall of the late 13th- or early 14th-century church (B3; Figs 8 and 9). These were aligned north to south and comprised a row of four substantial pier foundations constructed from compacted, coursed chalk rubble with occasional fragments of flint and ragstone bonded with a yellow sandy mortar. The foundations were rectangular and spaced 2.5m to 3m apart, centre to centre. Three of the foundations were fully or partly located over the backfilled tanks and well of the previous tenement (Tenement 14, Period 5; Fig 6) and so the bases of these particular piers had to be reinforced with clusters of wooden piles. Two of the piers retained the stubs of the relieving arches that linked these foundations, on which the superstructure of the wall would have been constructed.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "The southernmost pier foundation appeared to have a short, western return that may pinpoint the south-eastern corner of the building which would have extended westwards (into an area that was mostly unexcavated). If the dimensions given for the width of the church in the 1320 rental agreement, cited above, are interpreted as internal measurements then they match the excavated masonry. The church appears to have possessed a simple rectangular plan without aisles.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Some contemporary building materials which may have formed part of the original fabric of the church were found in later demolition deposits or reused in later buildings. Two types of decorated floor tile produced in the second half of the 13th century or early years of the 14th century were recovered: these were of 'Westminster' type, of which seven were found, and six examples of Eltham Palace/Lesnes Abbey type (T3>-<T6>; Fig 10) a few of which were recovered from the backfilled quarry pits in Open Area 20 (Fig 9), discussed below. Although small in number, the assemblage of tiles illustrated on Fig 10 is not without interest. Two 'Westminster'",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "tiles have previously unpublished designs: one shows a brown heraldic design on a yellow background （<T1>; Fig 10), which is the reverse of the usual decorative technique, while the other is part of a large tile measuring approximately 176-181mm square showing the head of the king in two locations （<T2>; Fig 10). 'Westminster' tiles of this size are very rare, and similar sized examples are only known from St John's Priory, Clerkenwell and the Charterhouse (Betts 2002, 22). The Eltham Palace/Lesnes Abbey group show four different decorative designs, one of which has not been previously published （<T6>; Fig 10). A third type of floor tile, a 'Penn' tile showing a hunting dog (Hohler 1942, P28; <T22>; Fig 10), was found in a dump deposit in the church area. A small number of Penn tiles were made in the 1330s and 1340s and its presence may indicate repairs or further building works in the church during this time.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Evidence for glazed windows came from a small fragment of stained window glass （<203>）found in construction deposits associated with the church, but the bulk of building materials recovered were ceramic roofing tiles. Several peg roofing tiles and a small number of curved ridge tiles, which would have been used along the crest of the roof, were recovered from demolition deposits and the backfilled quarry pits in Open Area 20 (Fig 9) and may therefore have roofed the church and other friary buildings. While the majority of these were made at tileries situated near London, two of the peg tiles probably originated from tile kilns situated outside the London area: a light brown tile (fabric 3205) and a pale orange tile containing scattered red ('rose') quartz (fabric 3243).",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Construction of a Lady chapel was begun in about 1350 when Friar Elias Belhomme was given royal protection to collect alms for the 'uncompleted and very costly work of the blessed virgin Mary' (superonerose operationi beate marie virginis ... inchoate); he was still collecting in 1360 although the work seems to have been largely finished by 1364, when the chapel is first mentioned in a will (Rohrkasten 2004, 512). $ ^{37} $ A will of 1507 mentions the statue or picture of the Virgin 'on the south side of the same [Lady] chapell next the south wall there' (Rohrkasten 2004, 512).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "The only other chapel that can be identified in the church at this time is a chapel dedicated to St Anne, the mother of the Virgin Mary, where Sir Thomas Haseley, the under-marshall of England, asked to be buried in his will of 1449 (Roskell et al 1992, iii, 309). The request for burial here by a senior royal administrator and an important lay benefactor of the friary, would suggest that the chapel of St Anne was situated within the choir. This chapel could perhaps be the building project referred to by two bequests in 1387 for 'new work' on the church (pro novo opere), although the work could equally be the construction of aisles for the nave (Rohrkasten 2004, 512).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "A building campaign on the church choir began in the mid-15th century: a bequest was made 'for the construction of the new choir' (ad novum chorum fabricandum) in 1455. Fourteen years later, another testator bequeathed money 'toward the making of the Quere [choir] of the same Chirch of Crowched Freers', this time specifying that the money was to be used 'to make it and Stalle it with tymbr and of Joynours Werk' (Röhrkasten 2004, 512). The construction of choir stalls would imply that any major structural works had finished and that the project was approaching an end. The central church tower capped by a spire, which is clearly visible in Wyngaerde's view of c.1544, may also have been built around this time (Fig 16) (Wyngaerde c.1544, drawing ix).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "Prior William Bowry began a major new building campaign on the church in the first or second decade of the 16th century. This campaign is first evinced in a will of 1507 which mentions 'the new quere' (apparently as a future project rather than completed building). Another will of 1518 mentions 'the new fabric' (in nove fabrice)",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "(Rohrkasten 2004, 512). In 1521 the City Corporation granted the friary a strip of the public highway, 1481/2ft long and 5ft wide (45.3m x 1.5m), 'for the enlargement of their church' (pro elargande ecclesie sue): this almost certainly meant a strip of Hart Street near the north-east corner of the priory. The friars may, in fact, have used the new land to rebuild one or two of the rented houses in Tenement 17 (Honeybourne 1929, 219; Strype 1720, i (2), 74). $ ^{38} $",
+        "page_numbers": [
+          30
+        ]
+      },
+      {
+        "text": "Money continued to be spent on the building works in the 1520s and the prior asked the king for a donation in c.1535, writing, that without such a gift they 'shall never be able to fynyshe the said church'. $ ^{39} $ A draft response suggests that the king did make a contribution. $ ^{40} $ The evidence that fixes the location of this new building campaign is found in the 1534 sale of friary land for the new almshouses. $ ^{41} $ The almshouse plot is described and measured from 'the southeast corner of the said Churche along by the kynges highwey', the latter indicating Woodruff Lane. The precise location of the almshouses is certain (they survived until the early 19th century) and so the church must have extended almost as far east as Woodruff Lane by the 1530s (even if it was not actually completed by that date). We can suggest, therefore, that Prior William Bowry had planned a magnificent new retrochoir, extending the length of the church to some 75-80m (245-260ft) and thereby overtaking the churches of Black Friars and White Friars in the process. As stated, the land sales and other evidence of the 1530s show that the project was nowhere near complete. With the Dissolution of the house in 1538, Bowry's dream of a magnificent new choir or retro-choir, perhaps intended as a smaller version of Henry VII's Lady chapel at Twenty-six church burials with funerary monuments are listed in 16th-century heralds' visitations, with another one or two tombs mentioned in wills; the Lady chapel was a particularly popular place for burial. Three traitors executed near Tower Hill were buried here in the late 1530s in the aftermath of the Pilgrimage of Grace rebellion (Stow 1908, i, 147; Steer 2010a, 52-3; 2010b, table 1). The alabaster tomb of Sir Richard Cholmeley, now in the chapel of St Peter ad Vincula in the Tower of London, was probably moved from Crossed Friars at the time of the Dissolution by Sir Richard's widow, Dame Elizabeth: this tomb is thus a rare surviving reminder of the glories of the Crossed Friars church (Steer 2010a, 51-2). Several other features of the church are mentioned in wills including images, presumably in the form of statues, paintings or stained glass - of St James and the Trinity, and several chapels (Rohrkasten 2004, 512; Steer 2010a, 45-50; Hayden 1989, 162). In addition to the 14th-century Lady chapel and the chapel of St Anne, there was by 1517 a chapel at which the pope had granted the right to conduct special scala coeli Masses. These Masses, conducted under licence from the church of St Maria Scala Coeli at Rome, where St Bernard had a vision of souls ascending to heaven, carried a guaranteed indulgence for any souls prayed for at the Mass: unsurprisingly the locations of these scala coeli Masses became popular places for the living to pray and the dead to be buried (Duffy 2005, 375-6). $ ^{42} $",
+        "page_numbers": [
+          30,
+          31
+        ]
+      },
+      {
+        "text": "A 1549 survey gives a number of measurements for the church (which by then was partly demolished). The north aisle is described as a surprisingly long 180ft (54.9m) and a rather wide 27ft (8.2m); the combined width of the nave and south aisle is given as 60ft, with the length being 80ft (18.3m x 24.4m). $ ^{43} $",
+        "page_numbers": [
+          31
+        ]
+      },
+      {
+        "text": "Some archaeological evidence for the expansion of the church was discovered: this second phase of building comprised a wider extension to the east of the church over the cemetery and the creation of a north aisle. This involved the demolition of the east and north walls of the early 14th-century church, leaving its foundations sealed beneath demolition deposits which were dated to 12401400.",
+        "page_numbers": [
+          31
+        ]
+      },
+      {
+        "text": "The eastern extension appears to have been subdivided into three areas defined by two shallow pier foundations located at the very edge of the site (Fig 15). These foundations were constructed from large chalk blocks bonded with hard brown mortar. The central area (14th-century choir on Fig 15) measured 6m north-south and was floored with mid-late 14th-century Penn tiles, six examples of which were incorporated into the mortar bedding layer of the floor which extended between the piers, with one tile surviving in situ. This confirms that the floor level inside the church stood at c.10.4m OD and similar patches of mortar and gravel deposits recorded at this level across this area may represent other remnants of this surface. Indeed, the majority of the Penn tiles recovered from the site (<T7> - <T21>, <T23> - <T26>; Fig 17) were found within the area of the church, including a tile with a previously unpublished heraldic design (<T26>; Fig 17).",
+        "page_numbers": [
+          31
+        ]
+      },
+      {
+        "text": "A substantial ragstone foundation (measuring 1.25m x 0.9m) probably supported part of the arcade of a new north aisle (Fig 15). A second chalk and Reigate stone foundation appears to represent part of the north wall of the enlarged church, which was presumably founded on a series of relieving arches. The position and alignment of these footings strongly suggests the existence of a north transept or chapel contemporary with the north aisle (Fig 15).",
+        "page_numbers": [
+          31
+        ]
+      },
+      {
+        "text": "A matching southern chapel is inferred from the position of another chalk pier foundation immediately south of the two burials in the choir. A symmetrical arrangement would align the south wall of this chapel with that of the main church. Possibly the southern chapel might be equated with the mid-14thcentury Lady chapel, and the northern one with the chapel of St Anne.",
+        "page_numbers": [
+          31
+        ]
+      },
+      {
+        "text": "The location of the east wall of the 14thcentury choir is uncertain, but part of it may have been discovered during archaeological monitoring of the excavation for a dropshaft in Savage Gardens (site code SVA10; Fig 15). This was a substantial chalk and ragstone wall foundation bonded with sandy yellow mortar. This masonry appears to be part of the external face of the east wall of the north chapel. If these various fragments of foundations are all part of the 14th-century extension, the church was lengthened by an additional 8m, comprising a central choir 6m wide flanked by two 4m wide chapels with a north aisle of equal width (Fig 15).",
+        "page_numbers": [
+          31,
+          32
+        ]
+      },
+      {
+        "text": "A fragment of a substantial chalk and ragstone foundation located near the western boundary of the precinct may indicate that the western end of the church was also extended by an additional 8m (Fig 15). It was of similar construction and depth to the foundations of the east wall of the church （1m x 1.2m deep and bonded with yellow, sandy mortar) and both extensions together increased the length of the original church by half again. The dating of this western extension remains uncertain, but it may have been undertaken at the same time as the north aisle. The existence of the south aisle at this period is uncertain since this area was not excavated.",
+        "page_numbers": [
+          32
+        ]
+      },
+      {
+        "text": "The documented mid-15th-century phase of choir extension is probably represented by the various fragments of truncated foundations of a large north-south wall recorded in several trenches on the two sites on Savage Gardens (site codes ARC81 and SEN91; Figs 1 and 15). The two sets of foundations differed in construction materials (chalk, and ragstone, chalk and Reigate stone respectively) and so may actually represent different phases of construction. No archaeological evidence was found for the 16th-century retro-choir (the area has not been archaeologically investigated).",
+        "page_numbers": [
+          32,
+          33
+        ]
+      },
+      {
+        "text": "Additional works to the main body of the church also appear to have been carried out at this time, particularly in the area by the north chapel and aisle. One of the pier foundations looks to have been rebuilt or underpinned in grey-mortared chalk and ragstone rubble, while another footing, perhaps an additional support built from compacted chalk fragments and sandy mortar, was built just to the north of the arcade column. This contained fragments of late 15th- to early 16th-century London-made red bricks one of which has a semicircular cut edge suggesting that it may have formed part of a horizontal plinth.",
+        "page_numbers": [
+          33
+        ]
+      },
+      {
+        "text": "Large quantities of building materials recovered from demolition deposits associated with the dismantling of the church in the wake of the Dissolution provide some insight into the appearance of the vanished building. Some construction or paving in brick is indicated by the presence of various yellow and cream bricks, thought to have been brought to London from the Low Countries in between the 14th and the mid-15th century, though their original location within the building is uncertain. Likewise, large numbers of plain-glazed Low Countries floor tiles which seem to have been first used in London around 1480 were recovered (though these could date to the post-Dissolution use of the church). These tiles would have been laid in a simple chequerboard pattern with yellow-glazed tiles alternating with brown and dark greenglazed examples. Twelve fragments of Reigate stone moulding were found, most of which are too small to allow their function to be determined with any certainty, though one appears to be the top or base of a small octagonal column. It has two circular dowel holes to allow fixture to the adjacent stone block by means of iron pins. Probably also of medieval date are 16 fragments of Caen stone from Normandy. Again, most are too small to identify,but it is likely many of these were originally window mullions. Finally, several pieces of stained window glass were recovered ( <198> joining <201>, <203>, <205>, <206> ). Some had traces of painted linear borders; traces of other decoration are present but not intelligible.",
+        "page_numbers": [
+          33
+        ]
+      },
+      {
+        "text": "On the basis of the available evidence not all the dimensions given in the 1549 survey of the church can be reconciled with the archaeological and topographic evidence. The stated length of the south aisle seems to fit and the 60ft (18.3m) width, if it is read as an internal width for the whole church, including the north aisle. The 180ft (54.9m) length of the north aisle does correspond to the length of the church from the east end of the aisle to the conjectured precinct wall just beyond the church to the west. However, the small area of the church excavated is significant in interpreting and understanding its development. The late 13th- or early 14th-century church appears to have formed the basic foundation for a later, more complex arrangement almost entirely funded from financial bequests. The Lady chapel for which Friar Belhomme was collecting alms in the mid-14th century may have been part of a larger programme of 14th-century building works for the church, which included a choir or chancel, flanking chapels and a north aisle. The continued expansion of the friary in the 15th and 16th centuries appears to have put the friary under considerable financial burden, a situation which was doubtless exacerbated by the 1490/1491 fire.",
+        "page_numbers": [
+          33
+        ]
+      },
+      {
+        "text": "Two adjoining graves were discovered inside the 14th-century choir (Fig 15). The most complete of these was of a man aged between 36 and 45 years old, laid out supine with his wrists crossed over the pelvis. The position of the burial was unusual in that the neck was almost vertical and the centre of the skull lay about 110mm above the level of the chest. In the absence of slumping, this suggests that the head was propped up in the style of a pillow burial. It has been suggested this practice was a reference to the biblical story of Jacob who slept on a stone pillow while dreaming of a stairway to heaven (Genesis 28:10-22; Gilchrist & Sloane 2005,125,146-7).This was the only burial that produced any evidence of clothing, with the remains of a leather belt recovered from around the pelvis (Fig 18). This has a copperalloy double D-shaped buckle （<29>;Fig 19） and a strap-connector （<30>;Fig 19) and is decorated with at least three mounts of the same basic form, two cinqfoils （<27>;Fig 19) and one septfoil （<28>;Fig 19), all with open central holes flanked by opposed rivets set closer to the edges （cf Egan & Pritchard 1991,fig 119.989 pl 5c). These types of belt fittings were in use between c.1350 and c.1500 （ibid,23-4,186-95).",
+        "page_numbers": [
+          33,
+          34
+        ]
+      },
+      {
+        "text": "The backfill of this grave contained the disarticulated bones of a 26-35 year old man, represented by parts of his skull, vertebrae, leg, arm and hand bones. Perhaps these disarticulated remains represent part of an earlier burial which was disturbed by the digging of this grave, so were reinterred here. Although the belt and the possible presence of a grave pillow need not necessarily indicate the high status of the individual (Gilchrist & Sloane 2005, 84), the position of the grave near the spiritual heart of the church may suggest this was a person of some note, perhaps a priest or a wealthy benefactor. The grave of a second man (less well preserved) lay to the north, which again included the bones of another individual. The bones of at least 12 individuals were recovered from a channel or ossuary pit located in the south chapel (Fig 15), though the date of this feature is uncertain.",
+        "page_numbers": [
+          34
+        ]
+      }
+    ],
+    "The Cemetery": [
+      {
+        "text": "Burials uncovered during 19th-century building works (at 22 Crutched Friars) suggest the friary cemetery lay to the north and east of the church (Kemp 1935,100). The 1320 rental agreement gives the churchyard's dimensions: 18 ells on its northern boundary, 16 ells to the east, 25 ells on the south and 14 ells on the west （16.5mx14.6m A total of nine articulated supine human burials were found on the site, five of which can be attributed to this period. Although it was not possible to date all the burials to any specific period with certainty, all were located close to the east wall of the 14thcentury church within the external cemetery (OA23; Fig 9). Several of the burials had been truncated or disturbed by later interments or activity. All the burials, where sex could be determined, were either adult men or probable males. All the burials were orientated west-east, with their heads to the west and arms by their sides.",
+        "page_numbers": [
+          19,
+          20
+        ]
+      },
+      {
+        "text": "The most complete skeleton of this period was that of a 26-35 year old man, [1101], interred against the church wall. The skeleton had been interred in a rectangular coffin, the shape of which was marked by a charcoal lining and three iron nails (Fig 11). This is an example of an 'ash burial', where such material was placed inside the coffin, possibly as a desiccating agent to dry out and preserve the corpse or perhaps as a symbol of penance. This particular form of burial practice was relatively common in medieval London (Gilchrist & Sloane 2005,121,127; Daniell 1997,159).",
+        "page_numbers": [
+          20
+        ]
+      },
+      {
+        "text": "The partial remains of three nearby skeletons had been truncated by later activity leaving only the lower limbs in the graves. A further four exhumed graves could be attributed to this period, three of which were located in the same north-south orientated row of burials outside the church wall. Occasional fragments of worn, 14th-century Penn floor tiles recovered from the backfills of these graves suggest they were exhumed following the eastern extension of the church in the mid-14th century (discussed below in Period 7). The fourth exhumed grave, [1253], must also belong to this period as it was located beneath a chalk footing relating to this extension of the church.",
+        "page_numbers": [
+          20
+        ]
+      },
+      {
+        "text": "With the construction of a Lady chapel and the 15th-century choir on the site of the old cemetery, a new cemetery had to be laid out further east and north, in between the church and the road. An unknown number of burials were discovered during 19th-century building works at 22 Crutched Friars. The remains were described as 'the burial crypt and coffins of 13th-14th century friars', although they probably included lay people as well as friars (Kemp 1935, 100).",
+        "page_numbers": [
+          34,
+          35
+        ]
+      },
+      {
+        "text": "An additional two burials were excavated in this area of the cemetery (OA28; Fig 15) with one inhumation cutting through the earlier grave. Both burials were heavily truncated, leaving only the skull and a few adult vertebrae in the later grave undisturbed. The earlier grave had been exhumed though a few ribs were recovered from its infill. The cemetery may have extended round the east end of the 15th-century church where another burial was excavated at 26 Savage Gardens (site code ARC81; Fig 15).",
+        "page_numbers": [
+          35
+        ]
+      }
+    ],
+    "The Cloister": [
+      {
+        "text": "By the time of a legal dispute of 1321, the friars had already built a cloister to the south of the church and a garden beyond. A friar described how bailiffs acting for Barking Abbey 'came into our church [from the street] and passed through it as far as our cloister, and there took the said bell and then went to our garden and there took an axe, and then came back as far as the cloister and wrenched a bell hanging from a chain'. Another witness described how the bailiffs passed through the cloister in order to enter the refectory (situated, therefore, possibly on the south or east side of the cloister) and took another bell and two books (Cam 19689, ii, 196-202). The cloister must also have housed the dormitory, presumably on the upper floor, the chapter house and perhaps the kitchen.",
+        "page_numbers": [
+          20,
+          21
+        ]
+      },
+      {
+        "text": "No archaeological evidence for the early 14th-century claustral range of buildings was found. The cloister may have been under construction at this time, perhaps with only a couple of its ranges completed. In London's other friaries, the cloisters were built as part of a planned programme: choir, then cloister, then nave. In each case the cloister was situated on the side of the church which was furthest from the main road and beside the soon-to-be-built nave (Holder 2011, 201, fig 83).",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The cloister was rebuilt or repaired in the early 15th century: a will of 1411 specifies funds 'for the work and construction of the cloister of the church' [ad opus et edificationem claustri eiusdem ecclesie] (Rohrkasten 2004, 512; Fig 15). A 1549 survey of the former friary gives the dimensions of the cloister probably the open space of the cloister garth as 48ft by 42ft (14.6m x 12.8m), a rather modest size for the cloister of a religious house. $ ^{44} $ These dimensions closely match those of the open space known as Burnt Yard on Ogilby and Morgan's map of 1676 and it is likely that the 17th-century yard was the topographic remnant of the medieval cloister (Honeybourne 1929, 223-4; Ogilby & Morgan 1676, pl 6, L.62). The dormitory probably formed the upper floor of the east side of the cloister (to allow night-time access to the choir of the church): it was specified in the lease of this part of the old friary after the Dissolution. $ ^{45} $ The refectory may have been on the south side of the rebuilt cloister,",
+        "page_numbers": [
+          35
+        ]
+      },
+      {
+        "text": "perhaps with a small guest-wing occupying the west side.",
+        "page_numbers": [
+          36
+        ]
+      },
+      {
+        "text": "The suggested location of the cloister lay in an area of the site that was largely unexcavated and no walls or footings that could be directly related to its construction were found. A square or rectangular truncated chalk-lined structure (S8; Fig 15) was located in the north-east corner of the cloister walkway. The function of this structure is unclear though it might have been a soakaway to dispose of roof water or perhaps waste water from a laver or washing place situated within the northern side of the cloister walkway. The backfill of the structure was a dark brown, organic deposit dated from the fragments of pottery to c.1350-1500. The fill also yielded two items associated with lighting; a complete socketed candlestick probably of brass (<34> and <35>; Fig 20) and the base of a hanging lamp made of green potash glass (<207>) similar to finds from contexts elsewhere in the City dated to between c.1270 and c.1450 (cf Keys 1998, fig 97.353; Tyson 2000, 141-7).",
+        "page_numbers": [
+          36
+        ]
+      }
+    ],
+    "The Friary Precinct: Gardens and Land Management": [
+      {
+        "text": "Much of the large area of land to the south of the church previously occupied by Tenement 12 does not appear to have been developed in the early 14th century. Instead, groups of quarry, rubbish and cesspits were clearly dug here within designated zones.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The location of the eastern boundary of the early 14th-century precinct in Open Area 20 (Fig 9) was determined by the northsouth alignment of a number of closely spaced quarry and rubbish pits which appear to respect a property boundary shared with Tenement 18 fronting on to Woderovelane (Woodruff Lane).",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The quarry pits exploited deposits of brick earth and gravel, and once these resources were exhausted the quarries became convenient rubbish pits. Large amounts of building debris, including plaster, chalk, roofing and floor tiles were disposed of together with midden-like deposits of oyster and mussel shells and animal bones. The moderate quantities of ceramics recovered were dated to c.1240/1270-1350. The fragmentary character of the finds indicates that these pits were gradually infilled rather than quickly backfilled, resulting in assemblages comprising fragmented pottery mixed with smaller quantities of residual Roman pottery. This contrasts with the relatively well-preserved animal bone assemblage which included, in descending order of quantity, elements of sheep/goat, cattle, pig with smaller amounts of chicken (Gallus gallus), goose, probably domestic goose (Anser anser domesticus), cod (Gadus morhua) and flounder/plaice (Pleuronectidae). The faunal remains included many butchered elements, which may indicate the nearby location of the kitchen and refectory, from where the bones could have been disposed of directly into the pits.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "A small number of finds associated with the construction of the friary buildings were recovered from the quarries, including a large lead stylus ( <41>; Fig 12), possibly used for marking stones during building, and a possible iron tool or stake ( <52> ). These complement the fragment of Reigate stone with a mason's mark recovered from one of the graves in the cemetery.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The area to the south of the quarries was occupied by a number of intercutting rubbish pits which contained a similar range, but in smaller quantities, of ceramic vessels, animal bones and building debris to the quarry pits.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "A large, oval quarry pit/pond (measuring 7m by 4m) located near the western boundary of the precinct in Open Area 20 (Fig 9) contained a primary fill of organic material interleaved with fine sandy lenses suggesting this feature had been left open and silted up over a long period of time. The primary fill is dated to c.1240-1350 by a single sherd of London-type ware (LOND) which links with the primary fill of the adjacent ditch (S6), in which two other joining fragments of the same vessel were recovered. The northern terminus of this ditch extended as far as the north edge of the pond, suggesting that it functioned as a water management feature feeding into the old quarry pit creating a rudimentary pond. Ponds were not uncommon features in urban monasteries (Bond 1993, 71) and its location by the western boundary of the monastery, away from the utilitarian activities of pitting and quarrying in the eastern half, may indicate it was located in a designated garden area. A comparative example seen in the Augustinian priory of Holywell (Bull et al 2011, 72) could suggest such pond-like features were created by collecting roof water or the overflow from drainage ditches. Both the ditch and pond were backfilled during the third quarter of the 13th century.",
+        "page_numbers": [
+          21,
+          22
+        ]
+      },
+      {
+        "text": "The organic fill of the pond probably accumulated as a result of stagnant or standing water sedimentation. This fill produced a rich and varied assemblage of waterlogged plant remains including frequent cereal grains and abundant seeds of wild plants, the majority from common weeds of cultivated land and other disturbed ground including stinking mayweed (Anthemis cotula), corn cockle (Agrostemma githago), vetch/wild pea (Vicia/Lathyrus sp) and brome (Bromus spp). Of particular interest were the number of charred capsules and seeds of cultivated flax (Linum usitatissimum). These are rarely found charred as flax plants do not come into contact with fire during the linen-making process, but the presence of the capsules may indicate that a cottage or local industry was growing, if not processing, flax at the site. Mineralised seeds and fruits of food plants included plum (Prunus domestica), apple (Malus domestica/sylvestris), grape (Vitis vinifera) and fig.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "In stark contrast to the quarry pits in Open Area 20, the ceramic remains from the ditch (S6) were notable for their good preservation and completeness: two Kingston-type ware highly decorated style (KING HD) jugs and a rare, LOND aquamanile were recovered. The aquamanile appears to be the breast portion of a bird, possibly a mythical beast such as a griffin, with the two side attachments possibly wings (<P10>; Fig 13). The second pot (<P11>; Fig 13) was a highly decorated, polychrome-glazed, KING anthropomorphic rounded jug, though sadly the modelled face mask is missing. A largely reconstructable green-glazed pear-shaped jug (<P12>; Fig 13), also a product of the Kingston kilns, was decorated with applied scales and vertical and wavy strips covering most of its body and neck. In addition there are ring and dot stamps on the neck. Both jugs contained internal limescale and the base of the anthropomorphic jug was sooted and burnt around the edge indicating that the contents of this display piece was heated.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The range of ceramics recovered from the quarry pits in Open Area 20 was similar to those from the contemporary pits from Tenements 3,4 and 8 (OA16,OA21,OA19) thereby confirming that most of these features were being used and infilled at the same time. The preponderance of jugs and jars recovered from the monastic pits is a common characteristic of monasteries, and ceramic cooking pots are often underrepresented compared to secular occupation (Greene 1992, 189). This may reflect the practices of those responsible for laying the refectory tables to ensure the provision of jugs of beer (ibid, 148-9) though a similar bias towards pouring and drinking vessels was observed in the tenements. Only the pits from Tenements 4 and 14 (OA21, OA14) mostly contained cooking pots and dripping dishes, indicating this material was discarded from nearby food preparation and cooking areas.",
+        "page_numbers": [
+          22,
+          23
+        ]
+      },
+      {
+        "text": "This site is one of just three London sites - Billingsgate Market Lorry Park (site code BIG82) and Hosier Lane (site code HSN99) being the other two - that has yielded more than one aquamanile. The washing of hands before meals was a rule of all the monastic orders, but particularly in the Augustinian Orders which stressed the need for this instruction to be assiduously followed (Greene 1992, 116). The recovery of an aquamanile from within the monastic precinct may reflect such religious observances and practices, but the discovery of a second aquamanile from an adjacent tenement (Tenement 4, discussed below; <P13>; Fig 14)",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "indicates that this mark of refinement was not exclusive to the monastic community.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "The apparent lack of variety in the discarded kitchen waste and ceramics may reflect the relatively small and modest size of the 14th-century friary compared to some of the larger religious orders. For example, this order had trouble expanding outside of London due to lack of funds (Hayden 2000, 423).",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "One of the notable aspects of the faunal assemblage from the backfilled quarries is the apparent lack of variety in the monastic diet. There was a limited range of bird and mammal remains and the absence of fish remains is surprising considering the importance of fish to monastic communities. The animal bone recovered shows a heavy bias towards sheep/goat and cattle, supplemented by pork with both meat-bearing and butchery waste in equal measure suggesting the friary may have butchered animals on-site rather than purchased joints. Much of the livestock consumed appears to have been young adult sheep/goats, while the beef was generally derived from older animals which contrasts with the more varied assemblages recovered from the tenements which had a higher reliance on sheep/goat and pig.",
+        "page_numbers": [
+          23,
+          24
+        ]
+      }
+    ],
+    "The Tenements Outside the Precinct": [
+      {
+        "text": "The friary gradually acquired several tenements in the vicinity of Hart Street; this part of the street was known as Crouched or Crutched Friars by the 14th century (1348: crouchedeffreyrestrete). $ ^{15} $ The friars incorporated some new tenements adjoining the original foundation into the precinct, but kept other tenements as revenue-raising properties outside the precinct. The western extent of the precinct was defined by the western boundaries of Tenements 9 and 12 (cf Figs 6 and 9). Tenements 1-8 lay outside the friary and, although the majority of these were eventually acquired by the Crossed Friars, they were leased out privately.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "Tenement 6": [
+      {
+        "text": "This property seems to have consisted of at least two separate houses or tenements (not illustrated). In 1343 the potter Simon de Hathfeld granted the prior of Crossed Friars a life-lease on one of the parts, although 12 years later de Hathfeld quitclaimed or released the property to John atte Walle, capmaker (Chew 1965, 96-8). $ ^{19} $",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "In 1355 Simon de Hatfield quitclaimed or released the property to John atte Walle, capmaker, and the property was described as a messuage with two shops. In 1375 the two shops were granted to the stockfishmonger Richard de Rochyng but in 1380 John atte Walle's widow Agnes, now married to the weaver Robert Hankyn, granted part of the property to Richard Morel, mercer. At some point the Crossed Friars must have acquired the fee simple or freehold of the whole property because it was part of the bundle sold to Sir John Milbourne in 1527 (Chew 1965, 96-8). $ ^{53} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenement 7": [
+      {
+        "text": "In 1328 the cap-maker Gilbert le Hurer and his wife Christina granted his land built up with houses' to the Crossed Friars (Fig 9). $ ^{20} $",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "This property had been granted to Crossed Friars in 1328 but it was one of many transactions that were subsequently investigated by the Crown: the acquisition of these properties by the 'dead hand' of the Church (and their consequent permanent removal from the normal range of Crown transaction fees) breached the late 13th-century Statutes of Mortmain. The property was confiscated by the Crown and subsequently granted, presumably on payment of a fee, to the Cistercian abbey of St Mary Grace in 1373 （CCR1370-4,347]. $ ^{54} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenement 8": [
+      {
+        "text": "This tenement was a large property on Seething Lane (Fig 9). The property was described in 1328 as a 'tenement with houses and a garden': it had been owned by Roger de Frowyk and in that year his widow Idonea and his other executors granted it to Walter le Hurer, woolmonger, and his wife Mathilda. The following year they granted it to William Curteys of Bricklesworth. $ ^{21} $",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The digging of pits continued in this tenement with a couple of large, oval pits dug in the same area as in Period 5 (OA19; Fig 6). The fills of the largest of these, an oval-",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "shaped cesspit, were interspersed with lenses of sand suggesting a sustained period of use. This is supported by the quantity of pottery discarded within the pit which included a range of fragmented, but highly decorated style baluster jugs in London-type (LOND HD) and Kingston-type ware (KING HD) together with MG conical jugs indicating the feature was used during the late 13th century (c.1270-1300).",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "Nearby were the fragmentary chalk foundations of a single- (not illustrated) and a two-celled structure (Fig 9), interpreted as single- and double-unit cesspits.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "William de Curteys held this property for nearly 40 years and in 1367 bequeathed it to the rector of St Michael Wood Street. By the 1530s it was a large house and garden owned by the mayor Sir John Allen. $ ^{55} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Former Tenements 9-12": [
+      {
+        "text": "Tenements 9-12 were gradually acquired by the Crossed Friars and incorporated into their precinct (of Figs 6 and 9). Tenement 9 was described in 1299 as 'two houses with adjacent curtilages' when the son and wife of the late William Burgoine granted it to the woolmonger Adam Hunteman. In 1324 Hunteman granted the property to the Crossed Friars and it became the site of their main gate with, to the east, one of the older houses on the street frontage, probably retained as a rented tenement. $ ^{22} $ Tenements 10 and 11 were the property of the Burgoine family in the late 13th century, and passed from William Burgoine to his daughter Herildis. In 1276 or 1277 she granted the property on Tenement 10 to the Crossed Friars, and in 1295 she sold them the parcel of land on Tenement 11 on a long lease of 200 years. $ ^{23} $ There is little surviving documentary evidence for Tenement 12, but the friary rented it from Barking Abbey by the early 14th century and it is generally described as the 'garden of the friars' (Cam 1968-9, ii, 196-202). $ ^{24} $ There were no contemporary archaeological remains associated with these tenements.",
+        "page_numbers": [
+          25
+        ]
+      }
+    ],
+    "Tenements 17-19": [
+      {
+        "text": "Tenement 17 on the corner of Hart Street and Woodruff Lane was occupied by Constance de Stratford in the early 14th century (Fig 9). In 1335 the skinner Gilbert de Lincoln and his wife Agnes granted it to the mercer John de Colewell, and it was described as a tenement with four shops and an adjacent garden (Hodgett 1971, 30). $ ^{25} $ Tenement 18 was probably leased by the Augustinian abbey of Lilleshall (Shrops) to the Crossed Friars by the 1320s, and the friars may in turn have rented it out rather than incorporating it into their precinct immediately: William Wynnehelm was named as the tenant in about 1335. Lilleshall leased Tenement 19 to the carpenter Henry Clement and his wife Joan in 1354. The property was then described as a 'cottage and an adjacent curtilage containing two plots' for which the measurements are given; it is not clear if one of these plots was still being leased by the friars (Rees 1997, 155). $ ^{26} $ These tenements largely lie outside the site footprint and no archaeological features were observed here during the excavations.",
+        "page_numbers": [
+          26
+        ]
+      }
+    ],
+    "Tenement 20": [
+      {
+        "text": "The City Corporation owned a garden by the friars' precinct in the 14th century, adjacent to the open space or 'roumland' of le Tourhill (Tower Hill) (Fig 9). The tenant in 1347 was the clerk John de Foxtone (Cal Lbk F, 175, 248) $ ^{27} $",
+        "page_numbers": [
+          26
+        ]
+      }
+    ],
+    "THE EXPANSION OF THE FRIARY TO THE DISSOLUTION, c.1350-1538 (PERIOD 7)": [
+      {
+        "text": "Like all London's religious houses, Crossed Friars must have lost many brethren in the Black Death pandemic of 1348-9, and then have experienced both recruitment and economic problems during the ensuing decades. Only 13 friars remained to sign a financially important agreement with John de Causton in 1350, and numbers do not seem to have picked up until the early 16th century (Röhrkasten 2004,83-4). In spite of rising food prices and labour costs, the house seems to have fared well economically: it was fairly successful in attracting chantry Mass agreements and bequests from both Londoners and aliens, and it expanded its property portfolio of rent-earning tenements. Houses within the precinct were rented out as early as 1350 in order to raise income. $ ^{28} $ By the late 14th century the friars received about $ 38 $ a year in rents and by the 16th century this had risen slightly to $ 40 $ 8s 8d (McHardy 1977,54,56,69,76; CPR1330-4,49,197,223,416;1334-8,222;1340-3, 345; Holder 2011,189-90).",
+        "page_numbers": [
+          26,
+          27
+        ]
+      },
+      {
+        "text": "The friary enlarged its precinct in the late 14th and early 15th century by acquiring additional property on Woodruff Lane (Tenements 17-20 on Fig 9).29 The enlarged precinct was encircled by a stone wall, part of which survived into the 19th century having been incorporated in the ground floor of a row of 16th-century almshouses. The outer precinct in the south was enclosed by an earthen bank, described as a 'mud wall' on a 16th-century plan of the Tower of London (the original plan is lost but later copies survive: Keay 2001, colour pls 1-3).",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "In 1490 or 1491 disaster struck when a terrible fire burnt much of the priory, with the exception of the church. Prior Thomas Whete sold fundraising indulgences granting the purchaser a generous 1,140 days remission from purgatory and the document described how 'the place of the seid Prioure and Convent upon Mydsomer evyn last past [23 June] by a sodeyne tempest of fyre, savyng the Chirche, was devoured and destroyed to there Utter enpoverysshyng'. $ ^{30} $ The damage was clearly fairly substantial: a Dutch religious fraternity who met here had to move that year to Austin Friars and parishioners of the neighbouring parish of St Dunstan in the East contributed small sums towards a rebuilding programme in the second half of the 1490s, apparently by arrangement with the king (Colson 2010, 118). $ ^{31} $",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "During the early 16th century the friary made strong efforts to recover from the disastrous fire of 1490 or 1491. In 1495 a group of Crossed Friars from the order's home in the Low Countries had visited the London house to give spiritual guidance and to promote reform. Around the turn of the century, a charismatic English friar, William Bowry, became prior and managed to build up a network of lay supporters among London's merchants and aliens, raising money for the rebuilding of the priory and for another enlargement of his church. Bequests from Londoners rose dramatically, so much so that in an imaginary London league table of friary popularity Crossed Friars rose from fifth to first place in the 1520s, raising more money than even the large and famous Dominican house of Black Friars (Hayden 2000, 424-5; Röhrkasten 2004, 555-6, 561, 564-7). Bowry was also able to raise money for his building projects by the collection of alms, contracts to perform chantry Masses, house building and - rather more riskily - by loans (Brewer 1862-1932, ix, no. 1168). $ ^{32} $ However, if Bowry was to achieve a great success in public relations and spiritual reform, he seems to have overreached himself in his financial management: there are several recorded court cases in the 1520s and 1530s concerning the priory's unpaid bonds and loans, as well as correspondence concerning the disputed property rights of corrodians and other benefactors (Röhrkasten 2004, 559). $ ^{33} $",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "In the 1530s, as well as having to deal with accusations of treason and sexual impropriety, Priors John Dryver and Edmund Stretham tried to keep the friary from insolvency and to continue the stalled building campaign on the church (Hayden 2000, 432-3; Wright 1843, 59-60; Barron & Davies 2007, 141; Brewer 1862-1932, ix, no.1092). In 1534 Stretham raised £32 by selling a strip of the eastern part of the precinct to Sir John Milbourne who, in partnership with the Drapers' Company, built a row of almshouses (Archer-Thomson 1940, i, 130-5). $ ^{34} $ Around this time Stretham sold the outer precinct to John Marton and his wife Sybil, probably for a much larger sum. $ ^{35} $",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "Even as Crossed Friars was busy raising funds for its new retro-choir (see below, discussion of the church), the end of the monastic era was fast approaching: in 1536 a number of the smaller monasteries were dissolved. However, the friaries escaped the attention of the various royal inspectors of 1535 and 1536 and their fate was not sealed until February 1538 when the Dominican friar Richard Ingworth, a former provincial prior and now Bishop of Dover, was appointed head of the royal commission charged with securing the surrender of the English mendicant houses (Youings 1971, 75-6; Knowles 1948-59, iii, 360-2). The friary finally surrendered to the royal official Richard Layton on 12 November 1538; there were only six friars left in the house that day (Brewer 1862-1932, xiii (2), no. 807).",
+        "page_numbers": [
+          27,
+          28
+        ]
+      },
+      {
+        "text": "The early 16th-century friary had a precinct of about 0.9ha (2 $ \\frac{1}{4} $ acres; Fig 15). In addition to the church, cloister and prior's hall there seems to have been a courtyard of buildings, perhaps not a fully fledged second cloister, situated south of the church and east of the main cloister. It included 'le pryncypalls chambre', presumably the accommodation for the head of the English order. There was also a building called 'seynt barbara hall' and the use of the saint's name might suggest that the hall was used by a religious fraternity of lay people; two London fraternities dedicated to St Barbara are known and the existence of a third is a possibility (Barron 1985, 30; Colson 2010, 112). $ ^{36} $ This group of buildings may also have included a small school and library: the Crossed Friars had a short-lived house in Oxford and the friars continued to attend the university, so it is likely that the London house included a school for advanced study (Hayden 1995, 82-3; Rohrkasten 2004, 484-5). The location of the library is not known, but a surviving library book has an inscription of 1496 recording that it was part of a donation of at least 31 books to the house by a Master Gerard, perhaps the Crossed friar Gerardus Venlowe who was ordained in 1524 (Hayden 1995, 80; Humphreys 1990, 242). The layout of the 1534 almshouses in two wings could suggest that the medieval buildings were similarly arranged, with the additions of 1534 forming a full four-sided courtyard of buildings (Fig 15). The 17th-century Colchester and River Streets on Ogilby and Morgan's map of 1676 would thus have been defined by the west and south (medieval) wings of this courtyard.",
+        "page_numbers": [
+          28
+        ]
+      }
+    ],
+    "The Buildings in the Precinct": [],
+    "The Chapter House and Kitchen": [
+      {
+        "text": "The precise location of the Crossed Friars chapter house and kitchen is uncertain; by analogy with London's other friaries we would expect to find the chapter house occupying the ground floor of the east wing of the cloister or a building extending eastwards beyond the cloister (Holder 2011, fig 84; Fig 15). Ogilby and Morgan's map of 1676 shows a large building in this location (just east of the cloister) and it may well be an enlarged version of the medieval chapter house. We might also expect there to have been a main kitchen with an external courtyard, as well as outbuildings housing a bakehouse and brewhouse. A substantial north-south building shown on the Ogilby and Morgan plan of 1676 lies to the east of the cloister and is separated from it by a small yard: this might well be the surviving medieval kitchen (Ogilby & Morgan 1676, pl 6).",
+        "page_numbers": [
+          36
+        ]
+      },
+      {
+        "text": "In the absence of archaeological evidence for these buildings, the location of the kitchen east of the cloister is tentatively suggested by a small group of rubbish pits (OA26; Fig 15) from which food waste and table and kitchen wares were recovered. Two broadly contemporary pits (dated to 1240- 1400 and 1270-1500 respectively) contained varying amounts of common oyster and common mussel shells, cod and probably goose bones and butchered remains of pigs and sheep/goats. However, the relatively poor preservation of the material may indicate that these bones do not represent specific dumps, but rather redeposited material that gradually became incorporated into the matrix of the pit fill.",
+        "page_numbers": [
+          36
+        ]
+      },
+      {
+        "text": "To the south of these pits was a large rectangular cesspit measuring over 3m wide and 0.8m deep (Fig 15) which produced a well-preserved collection of later medieval pottery and an equally impressive catalogue of glass and metallic finds. Up to 14 ceramic vessels were discarded here (85 sherds weighing 2,443g) with the later products of the Surrey white ware industry (Pearce & Vince 1988) the most common. The group included the substantial remains of a coarse Surrey-Hampshire border ware (CBW) large rounded jug, Cheam white ware (CHEA) biconical （ibid.167, nos 543-51) and barrel-shaped jugs （ibid.165-6,fig 122), and two so-called 'Tudor Green' ware (TUDG) lobed cups. A reconstructable Langerwehe stoneware (LANG) jug sourced from the Rhineland (Hurst et al 1986, 277, fig 91; <P14>; Fig 21) had thick internal limescale deposits suggesting it was well used. Sherds from one or two beakers in yellowish glass were also found, at least one of which is of pedestal form possibly with optic-blown ribs $ (<146>$ ; Fig 21). These were complemented by several kitchen implements, all of copper alloy, including a paw-shaped foot from an extremely large cauldron $ (<12>$ ), the greater part of a copper-alloy skimmer (<11>; Fig 21), a large ferrule which could be from the handle (<15>; Fig 21) and a trapezoidal mount with a scallop shell-shaped edge and a central iron/silver rivet (<163>; Fig 21).",
+        "page_numbers": [
+          36,
+          37,
+          38
+        ]
+      },
+      {
+        "text": "Several ceramic floor tiles of Penn, Eltham Palace and 'Westminster' types were also recovered, together with two slip-decorated designs rarely seen in London (<T27> and <T28>; Fig 21). The combination of the different sources of supply and diagnostic forms of the ceramics would date the filling of this pit to the second quarter of the 15th century, though it is possible that the glass vessels date to the early 16th century Blackmore 2011a, 6).",
+        "page_numbers": [
+          38
+        ]
+      }
+    ],
+    "The Prior's House": [
+      {
+        "text": "By the 15th century London's friaries all had separate mansions for their respective priors and Crossed Friars is no exception. In 1440 Thomas Haseley, an MP and royal administrator, was granted, rather unusually a personal lease for life on a hall in Crossed Friars called 'le prioures chambre',",
+        "page_numbers": [
+          38
+        ]
+      },
+      {
+        "text": "presumably for him to use as his London business base (Roskell et al 1992, iii, 307-10) $ ^{4 6} $ The building seems to have been a small two-storey mansion. The 'hall called the prior's chamber' lay over a cellar (una aula vocata le prioures chambre cum uno celario subtus) and it had a ground-floor parlour (unum parvum parlarium bassum) though no kitchen: the lease on the building specifically grants the use of the convent kitchen (in coquina nostra conventuali). $ ^{4 7} $ The building had four other chambers, some of which were presumably on the first floor. There was also a garden and stable to one side of the house.",
+        "page_numbers": [
+          38
+        ]
+      },
+      {
+        "text": "The prior's house may well be the cellared building discovered in the excavations (B4; Figs 15 and 22). The western extent of this building was defined by a north-south wall footing measuring 2.8m in length by 0.5m wide, built from small blocks of chalk, ragstone and occasional 14th- to 15thcentury yellow/cream bricks, bonded with pale greyish brown mortar. The cellar, which was located 1m east of and parallel to the wall, was a substantial square structure constructed from neatly squared chalk blocks bonded with green-grey sandy mortar. It measured 3.3m x 3.5m internally and its walls survived to a height of 1.5m. No means of entrance was found suggesting that it may have been entered via a trapdoor and ladder. No sign of any flooring was found within the cellar; possibly any paving was robbed out when it went out of use (see Period 8, discussion of glassmaking on site).",
+        "page_numbers": [
+          38,
+          39
+        ]
+      },
+      {
+        "text": "A square feature located immediately to the south of and in alignment with the midpoint of the cellar may have also lain within the walls of the building. Measuring just short of 1m square, the fragments of decayed wood present in its primary and secondary fills suggest that it was a timberlined storage pit.",
+        "page_numbers": [
+          39
+        ]
+      },
+      {
+        "text": "Comparable, if slightly larger, prior's halls with an undercroft below were discovered at the London White Friars and Black Friars where they occupied similar spatial positions, east of the cloister and aligned with (ie to the south of) the main altar of their respective choirs (Holder 2011, 211; Gilchrist 2005, 160). The building seems to have been built during the late 14th or early 15th century following the backfilling of the quarry pits (OA20, Period 6; Fig 9) and may have been damaged in the 15th century when a large deposit of chalk debris was dumped into the cellar, together with abundant quantities of ash and charcoal. This deposit contained a well-preserved group of two CHEA rounded jugs (Pearce & Vince 1988, 167, fig 122 nos 552-4) and the upper profile of a late London-type ware (LLON) bunghole jug or cistern (dated c.1400-1500). The storage pit seems to have suffered the same fate as the cellar and was filled with similar ashy deposits which contained a near-complete, folded rectangular copper-alloy mount (<361>) and two largely intact and therefore useable ceramic vessels (dated to c.1350 1500). These were a CHEA rounded jug (<P15>; Fig 23) (ibid) with a Merida-type micaceous ware (SPAM) costrel (<P16>; Fig 23). Cork stoppered costrel acted as liquid containers, with their narrow necks serving to lessen the effects of evaporation. This two-handled costrel with its handles or lugs attached to the shoulder appears to be the most complete example of this form in this fabric so far retrieved from excavations in London. The prevalence of the thick ashy deposits and the consistent dating for the disuse of the different parts of the building provide compelling evidence for the fire of 1490/1491 that destroyed a large part of the precinct. Little other evidence of the fire and the rebuilding programme was found,",
+        "page_numbers": [
+          39
+        ]
+      },
+      {
+        "text": "although the proximity of this building to the kitchens, a notorious fire hazard and source of conflagrations, may explain its particular vulnerability. However, that is not to say that the building was completely destroyed. The rental agreements between the friary and Philip Dennys for the lease on 'le pryours chambre' in 1535 and 1547 indicate the building was rebuilt or was still standing after the Dissolution. $ ^{48} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "The Tenements": [
+      {
+        "text": "The friary precinct reached its greatest extent by the early 16th century through the acquisition of tenements along Woodruff Lane (Fig 15). The friars also acquired tenements further west on Hart Street, although these were not assimilated into the precinct. In addition to the medieval tenements examined here, the friary owned a further dozen rented tenements in their 'home' parish of St Olave, 15 other London properties, as well as a manor in Suffolk: their total rental income was £40 8s 8d at the time of the Dissolution. $ ^{49} $ No archaeological evidence relating to any of the tenements in Period 7 was discovered, presumably having been truncated by later activity.",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenements 1 and 3": [
+      {
+        "text": "There is no documentary or archaeological evidence relating to these tenements.",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Tenement 2": [
+      {
+        "text": "The Augustinian priory of Holy Trinity Aldgate owned this tenement by the 14th century; the tenant in 1384 was Alan Russell. The priory soon leased the tenement to Crossed Friars and the friars must subsequently have bought the fee simple or freehold since they sold it in 1527 to the wealthy draper Sir John Milbourne (Hodgett 1971, 30-1). $ ^{50} $",
+        "page_numbers": [
+          40
+        ]
+      }
+    ],
+    "Former Tenements 17-20": [
+      {
+        "text": "The Crossed Friars must have acquired Tenement 17 by the 16th century when they started building their new retro-choir on the site. The friars rebuilt, in the late 1510s or early 1520s, one or two of the houses on the northern street frontage, in partnership with the tenant-corrodians Peter and Margaret Johnson. William Valentynio was the other tenant here (next to the Johnsons) at the time of the Dissolution (Holder 2011, 189, 266, 336-7). $ ^{56} $ The friary seems to have acquired Tenements 18 and 19 by the 16th century, although they may well have continued to pay rent to Lilleshall Abbey (Rees 1997, 155). $ ^{57} $ The friars seem to have leased the garden in Tenement 20 to form part of their outer precinct by the 16th century, although they never acquired full ownership. When the former outer precinct was sold by John Marton in 1539 (he bought it before the Dissolution, probably in the 1530s), he described it as 'formerly of the mayor and commonalty of the city of London' and 'of Edmund Stretham, prior of the Crossed friars' (Cal Lbk F, 175, 248). $ ^{58} $",
+        "page_numbers": [
+          41
+        ]
+      }
+    ],
+    "DISSOLUTION OF THE FRIARY AND THE 17th-CENTURY DEVELOPMENT OF THE SITE, 1538-c.1675 (PERIOD 8)": [
+      {
+        "text": "After the Dissolution of the friary in November 1538, the Court of Augmentations (the government 'ministry' administering the Dissolution) appointed a caretaker, Lionel Martyn, to look after the church and precinct (Brewer 1862-1932, xix (2), no. 86). $ ^{59} $ The poet and diplomat Sir Thomas Wyatt bought the former outer precinct (which the prior had sold in the 1530s) from John Marton and his wife Sybil in October 1539; the price is not specified. $ ^{60} $ Wyatt then bought the main part of the precinct from the Crown in July the following year. The exact price paid is difficult to calculate as Wyatt was purchasing this and other property in a complicated part-exchange transaction; the Crossed Friars part was valued at 100s annual rent suggesting that he paid, in effect, about £100 for the friary. $ ^{61} $ Wyatt only held on to the friary for seven years, selling it in March 1547 to Edward VI's uncle, the privy councillor Thomas Seymour, and Sir William Sharington, the under-treasurer of the Bristol Mint and the actual occupier of the building (Loades 2008). $ ^{62} $ In 1549, however, Seymour was executed for treason and Sharington arrested (Sharington had been improperly minting money to assist Seymour's treasonable conspiracy against his brother, Edward Seymour, the Lord Protector during the infancy of Edward VI); the Crown granted the friary in June that year to Henry Fitzalan, Earl of Arundel. $ ^{63} $ In March 1569 Fitzalan granted the property to his daughter Jane and new son-in-law John Lumley, Baron Lumley. $ ^{64} $ The property remained in the hands of the Lumleys until the 17th century (Milner 1904, 97-9; Hervey 1918, 38-40).",
+        "page_numbers": [
+          41
+        ]
+      },
+      {
+        "text": "We also have some information on what tenants and landlords did with the various parts of the precinct in the 1540s and 1550s. The Crown sale of the precinct to Thomas Wyatt included, of course, the site of the church and its main walls, but specifically excluded the good-quality freestone, roof timbers, lead, iron and glass. $ ^{65} $ The roof seems to have been taken down in late 1539 or 1540 and stone and timbers were probably used to rebuild the Lieutenant's house at the Tower of London, which still survives on the south side of Tower Green (Colvin 1963-82, iii, 268). $ ^{66} $ In 1546 stone, lead and iron were stripped from the roofless shell of the church for reuse in building works at the Palace of Whitehall, perhaps the King Street gate (Colvin 1963-82, iv, 312-13). $ ^{67} $ The church remained an empty ruin for several years: in 1586 it was described as a 'parcell of grounde or greater yarde late the ground of the dissolved churche' when it was used by Richard Bradshawe, a carpenter. $ ^{68} $",
+        "page_numbers": [
+          41
+        ]
+      },
+      {
+        "text": "A number of demolition deposits and robber cuts of structural features may relate to the documented destruction of the church in 1546. For instance, one oval pit was dug to remove part of the north wall of the church (Fig 24). Deposits dated to 1480-1600, containing fragmentary building materials and disarticulated human bones were found, particularly in the area of the north aisle and overlying the footing of the north arcade column which appears to have been removed at this time. If these deposits relate to the dismantling of the church, then the actual reoccupation of the site appears to have taken place soon after when a cellared building (B5; Fig 24) and other features were constructed within the footprint of the former south chapel, perhaps by Richard Bradshaw.",
+        "page_numbers": [
+          41,
+          43
+        ]
+      },
+      {
+        "text": "The cellar of Building 5 was a square structure with a small compartment (1m x 1.3m internally) in its north-west corner, possibly intended for storage. The north wall of the cellar was built against the pier base of the former choir and large sections of the walls were built from materials plundered from the church, utilising chalk and Reigate stone rubble blocks and glazed floor tiles. The upper courses of the walls were constructed from grey-mortared half and whole bricks dated to c.1450-1700, and numerous medieval peg roofing and Penn floor tiles were used as lacing and levelling courses. Interestingly, the choir piers were apparently still standing and they partly determined the layout of the new building.",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "This new construction must have exposed the earlier chalk-lined cesspit (OA14, Period 5; Fig 6) which was now modified for reuse: the upper part of the north wall was rebuilt in chalk rubble with a 0.6m wide gap built into the east corner. The base of the opening was paved with two rows of reused Penn tiles set on a slope which may have served as a chute or drain leading into the pit. The chute was later partly blocked with bricks (dated to c.1500-1600) and the north wall of the cesspit was then incorporated into the south wall of the cellar (B5; Fig 24).",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "Associated with Building 5 were a nearby barrel-lined well or soakaway and a large pit (Fig 24), the former dated by a Raeren stoneware (RAER) mug to c.1480-1610 and the latter by part of a stove tile partly decorated with a foliate design (<227>). This appears to be part of a crest piece situated at the very top of the stove and is a brownglazed Surrey-Hampshire ware (BORDB) product probably made in the last quarter of the 16th century. Stove tiles in England were initially used to heat religious houses and aristocratic residences. These early stove tiles were all imported, but after the Dissolution the production of English tiles made them available to the wealthier middle classes (Gaimster et al 1990; Pearce 2007, 198).",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "Some typical household objects and kitchen wares were recovered from the back-",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "fills of the reused cespit adjoining Building 5 including the base of a glass urinal （<199>） and a complete iron casket key or slide of lever type （<88>；Fig 25). A copper-alloy book clasp or hinge （<20>；Fig 25) and a near-complete copper-alloy lantern or decorative mount with a square body decorated with opposed trefoil and quatrefoil apertures （<21>；Fig 25) were recovered from the demolition deposits of the cellared building (B5), together with a number of finds of ironwork tools and objects associated with carpentry. These include a gimlet-like tool （<82>），part of an auger for boring holes in wood （<84>），a staple （<373>） and several pieces of sheet metal （<97>，<98>）。",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "The bulk of the inner precinct, with the exception of the cloister garth and the church, was leased by Thomas Wyatt to John Mason and his wife Elizabeth in October 1541 for the annual rent of five artichokes and 5s. The lease reveals little about the state of the buildings other than that the refectory wing had been converted into a stable. $ ^{69} $",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "Archaeological evidence for the reoccupation of the cloister comes from a corner of a brick-lined cellar (bricks dated to c.1450/1470-c.1550) located within the eastern walkway of the former cloister garth in Open Area 31 (Fig 24). The south and east walls measured over 2m in length and survived to a height of 0.8m. A series of stepped putlog holes set 0.3m apart in the west wall of the cellar suggests that it was entered from the south by a wooden staircase. The dating of the cellar suggests that it may have been built during the ownership of the inner precinct by Thomas Wyatt or his successor, William Sharington. The cellar floor may have been removed when it fell out of use and was backfilled with demolition rubble, containing pottery dated to c.1480- 1610. However, the building superstructure may have been standing for longer than the dating evidence would suggest as a building in this location appears some years later on the Ogilby and Morgan map of 1676 in the south-east corner of what was then known as 'Burnt Yard'.",
+        "page_numbers": [
+          43
+        ]
+      },
+      {
+        "text": "In the late 1560s two Flemish glassmakers Jean Carré and Peter Briet,built a glass-house",
+        "page_numbers": [
+          43
+        ]
+      }
+    ],
+    "Glassmaking on Site": [
+      {
+        "text": "within the former friary, perhaps in the old fraternity building, St Barbara hall. This glass-house specialised in producing Italian-style cristallo or crystal glass tableware. In 1571 Carré invited the Venetian glassmaker, Jacob Verzelini, to run the workshop and the latter continued the enterprise, rather more successfully than the Flemings, with his son taking over around the turn of the century (Stow 1908, i, 148; Godfrey 1975, 22, 25, 2833; Sutton & Sewell 1980). $ ^{70} $ The glass-house was rebuilt after it suffered a great fire on 4 September 1575 and Verzelini was granted a 21 year lease by Lord and Lady Lumley on a number of buildings within the former friary precinct. These included a hall or shop with a parlour and kitchen, a little buttery, a garden with various buildings on the east side of the glass-house, a yard or entry from Hart Street, a further messuage with tennis court in the grounds of the former church (previously occupied by the carpenter William Bradshawe) and a parcel of the great yard formerly of the friary. $ ^{71} $",
+        "page_numbers": [
+          44
+        ]
+      },
+      {
+        "text": "At the time of the Dissolution the prior's house (B4) was leased to Philip Dennys and was still occupied by the family in 1547 (Fig 24). It appears to have been rebuilt or remodelled during the late 16th-17th century when the upper part of the south wall of the cellar was rebuilt in brick (Fig 22). Later, the cellar was completely infilled with dumped material containing residual friary building materials and 17th-century pottery including Frechen stoneware (FREC) and Essex-type post-medieval fine red ware (PMFR). These dumps were sealed by the bedding layers of sand and clay for a floor paved with reused Penn and Flemish tiles.",
+        "page_numbers": [
+          44,
+          45
+        ]
+      },
+      {
+        "text": "A small assemblage of glass manufacturing waste was recovered from the bedding layer for the tile floor and from a small pit located just to the north of the cellar in Open Area 31 (Fig 24). The former comprise three colourless pieces possibly from a moil or cullet $ (<144>$ ; Fig 26), three joining fragments with blue and white trails in the façon de Venise style $ (<142>$ ; Fig 26, two fragments illustrated, face and profile) and a pair of fused canes $ (<143>$ ; Fig 26). The waste from the pit is dominated by canes used for vetro a filgrano, with two fused flattened canes of colourless glass $ (<138>$ ; Fig 26), four canes of colourless and white glass $ (<133>, <134>, <136>, <140>$ ; Fig 26) and a narrow cane of blue glass $ (<141>$ ; Fig 26); in addition there are three pulls and trimmings of colourless glass $ (<137>, <139>$ ; Fig 26, two fragments illustrated) and two possible base fragments of colourless glass $ (<135>$ ; not illustrated). The presence of a small amount of green glass slag (gall; <132>; not illustrated) also points to the production of beakers, bottles or windows.",
+        "page_numbers": [
+          45
+        ]
+      },
+      {
+        "text": "The glass waste recovered from these deposits reflects different stages of the production process and suggests that the manufacture of façon de Venise style glass was taking place nearby, perhaps in the Carré/ Verzelini workshop, which was renowned for the manufacture of façon de Venise drinking glasses with high-quality engraved decoration (Charleston 1984, 55-60), but has never been properly investigated. In order to test this, chemical analysis using scanning electron microscopy-energy dispersive spectrometry (SEM-EDS) and energy dispersive X-ray fluorescence (EDXRF) was carried out on seven samples of coloured and colourless glass from these features and two from the well group (discussed below, Period 9; Fig 27; Girbal 2011). The results were then compared with previously analysed samples from two other London sites where 17th-century glass debris has been recovered: Old Broad Street (site code BRO90; Schofield 1998, 300) and Aldgate (site code AL74; Charleston & Vince 1984; Grew 1984, 34; Schofield 1998,132) and with contemporary Continental glasses (de Raedt 2001, 213-23; Girbal 2011, 11). Although a few goblets of the Verzelini era have survived (Thorpe 1969, 78-83, pls I, II; Charleston 1984, 5560), none have been analysed chemically and so cannot be compared with this data.",
+        "page_numbers": [
+          45,
+          46
+        ]
+      },
+      {
+        "text": "The analysis showed that two glass compositions were present, which represent two different industries (Girbal 2011, 11; Blackmore 2011a), and may also reflect a chronological development of the industry. The samples from the Open Area 31 pit (group 1) are all of facon de Venise glass, which was probably made during the late 16th and/or early 17th century and are chemically related to the samples from Broad Street, Aldgate, Antwerp (Belgium) and Breda (the Netherlands). The chemical composition of the glass from the cellar floor bedding (group 2) differs greatly from that of the other London samples; it is almost identical to cristallo glass from Antwerp and Breda (Girbal 2011, 12, 15), but as close similarities were also observed with late 17th-century glasses from London and Guildford (Surrey) (Dungworth & Brain 2009, 132-3) an English origin cannot be ruled out.",
+        "page_numbers": [
+          46
+        ]
+      }
+    ],
+    "The Outer Precinct": [
+      {
+        "text": "The outer precinct of the former priory was gradually turned into a grand townhouse and garden by successive landowners (Fig 24). The first private owner built a house here in the early 1530s: it was described in 1534 as 'the newe hous or buylding there of John Martyn'. $ ^{72} $ By 1540 it was described as a 'great mansion' (magnum hospitium). $ ^{73} $ Thomas Wyatt or his successor William Sharington almost certainly carried out further improvements, since by 1549 the house had at least 20 rooms plus a series of kitchen/ buttery rooms, a wine cellar, a counting house and servants' rooms. It seems to have been a two-storey building with a cellar and garrets, arranged as two wings around a courtyard. $ ^{74} $ The house was probably further enhanced by John Lumley and, given Lumley's well documented tastes in architecture and garden design, it would be fascinating to know more about his London house (Barron 2004). Unfortunately, no plan has yet been traced of the house although an inventory of Lumley's possessions in 1590 and the 1616 will of Lumley's second wife, Elizabeth, make reference to the London house and describe possessions such as Lumley's five Holbein paintings, silverware, an armour room and a coach-house to the rear (Milner 1904, 97-9; Hervey 1918, 38-40). Some structural remains discovered nearby at Colchester House (site code PEP89; Fig 1) are now interpreted as part of the Lumley mansion.",
+        "page_numbers": [
+          46
+        ]
+      }
+    ],
+    "LATE 17th-TO 19th-CENTURY DEVELOPMENT ALONG THE STREET FRONTAGE OF CRUTCHED FRIARS (PERIOD 9)": [
+      {
+        "text": "Unlike most of the City of London, the buildings on this site were not destroyed by the Great Fire of 1666, as this corner of the City escaped destruction. Street numbering was introduced in the late 18th century and the history of various 18th- to 19th-century buildings along Crutched Friars can be traced from piecemeal archaeological evidence and associated documentary references. This section focuses on particular properties for which the archaeological evidence was more substantial and of particular interest.",
+        "page_numbers": [
+          46
+        ]
+      }
+    ],
+    "Tenement 5:26 Crutched Friars and the French Horn Public House": [
+      {
+        "text": "Tenement 5 had already been sold by the Crossed Friars to Sir John Milbourne in 1527, some years before the Dissolution. Although no archaeological evidence remains of the 16th-century occupation, the later history of this property is documented (Guildhall Library 2006, 61-89). The existence of a public house on these premises from the mid 18th century can be suggested by the name of the '3 colts yard' given to the adjacent yard and passage as shown on Rocque's map of 1746 (Rocque 1746, pl E2). This yard was already in existence by 1676 (Ogilby & Morgan 1676, pl 39). In the mid-18th century this premises and the adjacent yard became a public house known as the French Horn. In 1801 the occupant of this property, John Cane (a chandler), was admitted to the Innholders' Guild. $ ^{75} $ We know that it was during John Cane's occupancy of the French Horn in 1828 that the building burnt down in a devastating fire which took the lives of four people, including that of his daughter Nancy (aged 15) and a Susannah Cane (aged 16). The public house was rebuilt, but from 1876 it was used as offices and was later one of the group of properties acquired by the Port of London Authority in c.1911. $ ^{76} $ The public house also has a history as the meeting place for fraternities of freemasons: there is a reference to an unnamed lodge meeting at the French Horn in 1806 after which it was suspended in 1807 for 'unmasonic conduct' (Lane 1895).",
+        "page_numbers": [
+          46,
+          47
+        ]
+      },
+      {
+        "text": "The remains of the property on this site comprised part of a cellar of the French Horn public house and an open yard to the rear in which a brick-lined coal cellar was located (OA35; Fig 27). Immediately to the west of the coal cellar was a chalk-lined well (Fig 27) and it is likely that these two structures were originally associated with an earlier phase of this public house, possibly 'the 3 colts'.",
+        "page_numbers": [
+          47
+        ]
+      },
+      {
+        "text": "The backfills of the chalk-lined well con-",
+        "page_numbers": [
+          47
+        ]
+      },
+      {
+        "text": "tained a significant assemblage of artefacts dating to the second half of the 17th century, with an exceptional group of vessel and bottle glass. The former comprised sherds from up to 27 glass vessels comprising seven beakers (of types 1.1a, 1.3, 1.7b, 3 and 3.3; Willmott 2002), including a squat beaker with optic-blown bosses (type 3.3, <168> and <182>; Fig 28).",
+        "page_numbers": [
+          47
+        ]
+      },
+      {
+        "text": "In addition there are sherds from up to 17 goblets with ribbed round-knop stems and flaring bucket bowls (Willmott 2002, type 10.6), such as <173> and <183> (Fig 28); one example has vertical optic-blown ribs (<162> and <354>; Fig 28). These are of a form made in Venice and copied in the Low Countries and England, which was most popular in the second half of the 17th century (ibid). Two of the goblets were analysed chemically. Example <170> (not illustrated) was found to belong to the group 1 glass from the Period 8 pit in Open Area 31, while <173> belongs to group 2 glass from the cellar floor bedding (B4, see above, Period 8, discussion of glassmaking on site; Girbal 2011).",
+        "page_numbers": [
+          47
+        ]
+      },
+      {
+        "text": "The date of the goblets agrees well with that of the 46 shaft and globe bottles which, from their shape and string rims, belong to Shepherd's Form 1 (Shepherd nd; see also Biddle 2005, figs 127, 269). The group can be dated to the 1650s and 1660s and forms one of the largest collections of early wine bottles from London.",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The clay tobacco pipes from the well also dated to the later 17th century. The group of 30 bowls and 38 stems included a rare London example of a bowl (type AO16) stamped with a gauntlet and an unusual pinched and twisted stem. The associated pottery comprised a group of 54 fragmented vessels including flared and flanged dishes in Surrey-Hampshire border white ware (BORD) and Frechen stoneware (FREC) jugs. An idiosyncratic object is a complete, biscuit ware (fired, but unglazed) salt, similar to tin-glazed examples found from the Rotherhithe pothouse (Tyler et al 2008, 69, fig 91); the occurrence of an unfinished ceramic piece along with so many complete vessels is unusual. Alongside these drinking and serving vessels were a number of discarded tools, building materials and miscellaneous objects including a large lead steelyard weight (<47>), an exceptionally fine ivory handle, possibly for a small knife (<208>; Fig 28), a complete Jew's harp (<61>), a pair of pliers (<65>) and a tinglazed floor tile (<T29>; Fig 28) probably made at the Pickleherring pothouse in London c.1618-50.",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The animal bone assemblage recovered from the well comprised mainly cattle and sheep/goats derived from juvenile animals representing the consumption of young tender beef and lamb rather than elderly mutton. This pattern is a good indication of high-status consumption. Also present were rarer species such as turkey (Meleagris gallopavo), goose, probably domestic goose, duck and a wader, possibly a plover (Charadriidae). The poorly preserved botanical remains comprised food plants including strawberries (Fragaria vesca), grapes and figs (Ficus carica). The grapes and figs almost certainly represent imported dried fruits.",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The material evidence strongly suggests the well was associated with a public house or tavern: the dominance of the drinking vessels and glass bottles for storing and decanting wines suggests that much of this material was connected with alcohol consumption, while the faunal remains are indicative of highstatus dining.",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The 18th-century French Horn public house was represented by the remains of a brick-built cellared building (B14; Fig 27). The earliest phase of the building consisted of the north-south wall defining the eastern boundary of 26 Crutched Friars. This was later extended eastward, under the passageway leading to French Horn Yard from the street (this passageway is shown on Horwood's map of 1813, pl 16), to meet the boundary with property 25. Inside the enlarged cellar was a succession of brickpaved floor surfaces and a drain that had been rebuilt on at least one occasion.",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The backfill of the drain contained around a dozen complete or reconstructable glass bottles. These included five green-coloured four-sided Dutch gin bottles (<G1>; Fig 29) which have a crudely applied oil rim finish, vertically corrugated sides and decorated bases, though they lack the seals that characterise many other Dutch bottles. English cylindrical wine bottles also featured, with up to five black-coloured bottles (<G2>; Fig 29) blown in a three-part mould, with a mineral rim finish and conical push-up bases with an abrupt heel (Jones 1986, 95, fig 66). A label fragment reading '..AGE' (probably for Vintage) survived on a fragment of glass (<G3>; Fig 29) from one of three half-measure French champagne bottles. The range of glass bottles demonstrates the French Horn served a range of alcoholic drinks, principally wine, champagne, gin and other spirits as represented by a colourless glass, tall square-shaped spirits bottle (<G4>; Fig 29). Consumption of other types of beverages was represented by a refined white ware cup and saucer. Simply painted with under-glaze, silver lustre line banded decoration, both have matching three-leaved clover applied in the same colour to the inside of the base. This group was deposited together during the second to third quarter of the 19th century, perhaps marking the changeover in the usage of the building from a tavern to offices (c.1876).",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "The 17th-century coal cellar in Open Area 35 was backfilled during the mid-19th century with rubbish from the French Horn (Fig 27).",
+        "page_numbers": [
+          49
+        ]
+      },
+      {
+        "text": "As with the backfill of the cellar drain, glass bottles formed the bulk of the finds from this feature. Up to 34 black-coloured bottles with a crude mineral rim finish blown in a three-part-type mould (Jones 1986, 98-9, fig 67) were recovered. Different-sized measures were being served from these bottles, dividing approximately equally between wine-sized and under-sized beer quarts (ibid, 74-82). Complete examples of each size have survived along with two green-coloured Continental wine bottles, probably once containing cognac, and were discarded together during the second quarter of the 19th century, perhaps the result of a selective clear-out of the public house.",
+        "page_numbers": [
+          51
+        ]
+      },
+      {
+        "text": "In contrast to the well-preserved range of glass bottles, small quantities of fragmented ceramics were found, representing a mixture of tea drinking and dining vessels accumulated during the second quarter of the 19th century. This material largely comprised pearlware (PEAR) or refined white ware (REFW) vessels with blue transfer-printed decoration in a range of prints common to this period such as the ubiquitous willow pattern (on a tureen lid, a sauceboat and plates) and a number of English countryside views (mostly teacups etc). The best preserved vessel, a slop bowl for tipping tea dregs into, depicts a large country house or hall. The fragmentary state of the ceramics is best interpreted as representing broken objects taken from incidental floor or yard sweepings and redeposited here over a period of time. The rim of a PEAR dinner plate with blue, shell edge decoration is painted in blue with the inscription 'French, Ho...' (<P17>; Fig 29), presumably the mark of the French Horn public house suggesting this establishment used china marked with its name either as wall mounted decorative pieces or for serving meals. The marking of the plate also provided proof of ownership in the case of theft. Successful prosecution of Catherine Gower in 1812 for the Old Bailey criminal court for the theft of three pewter tankards from the French Horn was no doubt made easier for the fact that James Child, who kept the French Horn during this period, had his name and that of the pub marked on these items (Old Bailey Proceedings Online, t18120513-35).",
+        "page_numbers": [
+          51
+        ]
+      },
+      {
+        "text": "The clay tobacco pipes recovered from the primary and secondary fills of the coal cellar were dated c.1780-1820 and c.1820- 60 respectively. The latter included nine marked pipe bowls, of which eight are of the same form (type AO28; dated c.1820-40) and made by the same family of pipe-makers, the Leaches. The mark consists of the name LEACH in a roundel with the Masonic square and compasses below, stamped incuse on the back of the bowl, facing the smoker. The Masonic markings recall the recorded use of the pub as the site for their meetings in the early 19th century. The Leach family included pipe-makers John Leach, recorded in 1805-39 in Horsley Down, John Leach, 1832 in Shoreditch, and Mrs M Leach, recorded 1848-68 in Whitechapel (Oswald 1975, 140). Therefore it is not possible to determine exactly which of these individuals made the pipes found here. However, it is likely that one workshop alone was responsible for producing the batch from which these all came. The date ranges of the two groups of pipes suggest that the primary fills of the coal cellar represent the period immediately before the 1828 fire, and that the secondary fills were deposited during the following decades.",
+        "page_numbers": [
+          51
+        ]
+      },
+      {
+        "text": "The 19th-century faunal and botanical remains from the French Horn show that the tavern served relatively high-status fare. Amongst the usual cattle and sheep/goat bones were some rarer species, notably hare probably brown hare (Lepus europaeus), and birds, including chicken and goose but also game species pheasant and red grouse (Lagopus scoticus). The presence of the latter is particularly interesting as in this period grouse would only have been found in northern and western Britain (Yalden & Albarella 2009, 52) and may therefore represent the importation of food by railway into London.",
+        "page_numbers": [
+          51
+        ]
+      },
+      {
+        "text": "The botanical assemblage was particularly informative, including some taxa rarely seen in archaeobotanical assemblages. A rare occurrence of tomato (Solanum lycopersicum) seeds may be the earliest recovered examples of the species from London. The tomato is a New World plant which did not become popular in Britain until the 19th century as they were thought to be poisonous. Another rare find were the seeds of the grass Setaria which were almost certainly imported as the genus is not native to Britain. In the past these have been imported as birdseed, which may explain its presence here. A number of spices were also present, which may have been imported from further afield: sweet/chilli pepper seeds (Capsicum sp) are native to South America, pepper (Piper nigrum) is native to India and allspice (Pimenta dioica) is native to Central America. Many fruit remains were also noted in the deposits, including grapes, figs, raspberries (Rubus idaeus) and blackberries (Rubus fruticosus).",
+        "page_numbers": [
+          51,
+          52
+        ]
+      },
+      {
+        "text": "These species reflect the range of local imported and exotic food stuffs that were available in 19th-century London. Following a decline in the use of spices during the 18th century, influences from the Empire, in particular India, led to a revival of their use in exotic dishes such as curries and appear in many classic recipes of the era such as jugged hare, which was made with a combination of spices (Hope 2005, 131).",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "The neighbouring property at 25 Crutched Friars (B16; Fig 27) was evidenced by the foundations of brick-built cellar walls and the fragmentary remains of successive floor surfaces.",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "Further evidence for contemporary tenements was limited to deep cut features. To the west of the French Horn, a brick-lined cesspit in Open Area 32 (Fig 27) was all that remained of this 17th-century property. The property was later incorporated into the late 17th-century Navy Office (see below) and the cesspit sealed beneath consolidation deposits associated with its construction.",
+        "page_numbers": [
+          52
+        ]
+      }
+    ],
+    "The Navy Office and East India Company Warehouses": [
+      {
+        "text": "The old Navy Office moved to the site of Crutched Friars (Tenement 8) in the 1650s but was destroyed by fire in January 1673 and moved to temporary premises on Mark Lane (see Fig 1 for street location). In 1683 it moved back to a permanent building on its old site in Seething Lane, designed by Sir Christopher Wren and built by Joseph Ward. The new building was approached from Crutched Friars and incorporated some tenements fronting on to the street which were acquired from the Carpenters' Company in the intervening years (Reddaway 1957, 91). $ ^{77} $ The office moved to Somer-",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "set House in 1788 and the site was sold to the East India Company which erected the Crutched Friars Warehouses on the site. The foundations of a nearby tea and drugs warehouse built by the East India Company in 1796 was extensively excavated in 1982 (site code RAG82; Bowler 1983, 17-18; Fig 1). In 1835 these warehouses were bought by the East India Dock Company and they eventually came into the possession of the Port of London Authority in the early 20th century. $ ^{78} $",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "Fenchurch Street Station was opened 2 August 1841 as the main terminus of the London and Blackwall Railway (later the Great Eastern Railway). The construction of the brick arch over Crutched Friars and Savage Gardens in 1839 sank a pier in property 22 Crutched Friars, clipping the north-eastern corner of the site (Fig 1).",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "By 1913 the East India bonded warehouse had disappeared and much of the site was open land with smaller warehouses or office buildings on the eastern side of the site. Colchester Street was renamed Pepys Street in about 1920 as a memorial to the diarist Samuel Pepys who lived nearby in Seething Lane.",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "The buildings were badly damaged during the Second World War. A basemented building was constructed in 1957 which was demolished in 1963 for Mariner House, designed by Carl Fisher and Associates (Pevsner 1973, 232).",
+        "page_numbers": [
+          52
+        ]
+      }
+    ],
+    "CONCLUSIONS": [
+      {
+        "text": "The excavations at Mariner House allow us to trace the development of an urban site from its 1st-century AD beginnings on the periphery of Londinium. The Roman sequence is consistent with previous discoveries identified at a number of nearby sites. First- and 2nd-century AD buildings were built along a Roman road, with a large open area to the rear (Period 2). Later Roman activity included an important assemblage of ceramics recovered from a well (S4, Period 3), one of which possessed an enigmatic Greek inscription.",
+        "page_numbers": [
+          52
+        ]
+      },
+      {
+        "text": "The pattern of early medieval pitting in the north part of the site argues for the presence of buildings and the establishment of Hertstrete, the medieval precursor to Crutched Friars, in the 10th century (Period 4). The dietary evidence from the medieval tenements that developed along the street frontage seems to suggest the coexistence of those enjoying quite a high level of affluence （eg Tenement 5, Period 5) alongside those of more modest means （eg Tenements 4 and 14, Period 5).",
+        "page_numbers": [
+          52,
+          53
+        ]
+      },
+      {
+        "text": "Thanks to a long-running programme of excavation and research, we have a remarkable range of archaeological and documentary evidence for many of London's medieval monastic houses. However, there is rather less published evidence for the London friaries and this excavation therefore provides important evidence for one of London's lesser monastic houses. In particular, archaeological evidence for the church (albeit limited) allows us to track its development from a simple 13th-century chapel to a more complicated late medieval church with several chapels and aisles (Figs 9 and 15; Periods 6 and 7). There is also tantalising documentary evidence for a 16th-century addition to the church, apparently a grand retro-choir at the east end (Period 7). This never-completed chapel might have been a rare example of late Perpendicular ecclesiastical architecture, had the project not been cut short by the Dissolution of the friary in 1538 (Period 8). The other major discovery of the excavation was the square cellared building interpreted as the prior's house (B4; Fig 15), apparently a secular town house for the prior built in the late 14th or early 15th century (Period 7). The surviving documentary evidence for the friary includes, unusually, several original property deeds (preserved in Chester Record Office) and we can therefore sketch the development of the friary precinct from the founders' bequest of a bundle of urban plots occupying a third of an acre (0.1ha) to a moderately sized urban monastic precinct of 2 $ \\frac{1}{4} $ acres (0.9ha) in the 16th century.",
+        "page_numbers": [
+          53
+        ]
+      },
+      {
+        "text": "From the 1530s until c.1560-70 the former monastic precincts of the City of London were generally transformed into prestigious urban houses, but after c.1560-70 these large properties were often subdivided, in some cases for industrial premises (Schofield 1993, 29). This dramatic pattern of transformation was also seen at Crossed Friars, with the establishment of the Carré/ Verzelini glassmaking workshop on site during the late 1560s (Period 8). Fieldwork revealed a small but significant glass-working assemblage, providing a rare insight into the production of late 16th- and 17th-century vessel glass in London (Fig 26). Further analysis of the samples may well reveal more on the manufacture and origins of the Crutched Friars glass-workshop and its links with the Aldgate and Old Broad Street finds.",
+        "page_numbers": [
+          53
+        ]
+      },
+      {
+        "text": "The range of glass goblets and wine bottles from the backfilled well in Open Area 35 gives convincing evidence for a 17thcentury predecessor to the well-documented 18th-century French Horn tavern (Period 9). Both appear to have been high-end establishments, serving high-status and exotic produce.",
+        "page_numbers": [
+          53
+        ]
+      },
+      {
+        "text": "Much of the later post-medieval development, including the 17th-century Navy offices had been wiped away by the 19th- and early 20th-century warehouses. However, it is clear from the surviving wall foundations and cesspits of the post-medieval buildings along the Crutched Friars street frontage that there was a good deal of continuity in the property boundaries dating back to the medieval tenements.",
+        "page_numbers": [
+          53
+        ]
+      }
+    ],
+    "APPENDIX": [
+      {
+        "text": "Museum of London Archaeology (MOLA) would like to thank Mint Hotels, in particular David Orr, for generously funding the fieldwork, post-excavation analysis and publication of this site. Thanks are also extended to Kathryn Stubbs (Senior Planning and Archaeology Officer, City of London) for the curatorial advice and interest shown in this project. Sarah Paynter (then of English Heritage) and Brice Girbal are thanked for the analytical work they carried out on the pigment contained in the oyster shell palette and the chemical composition of the post-medieval glass. Roger Tomlin kindly transcribed the inscription on the Roman",
+        "page_numbers": [
+          56
+        ]
+      }
+    ],
+    "ACKNOWLEDGEMENTS": [
+      {
+        "text": "vessel. Many MOLA specialist staff have produced comprehensive reports which can be consulted in the site archive: Ian Betts (ceramic building material), Lyn Blackmore (accessioned glass and finds), Tony Grey (clay tobacco pipes), Nigel Jeffries (post-Roman ceramics and bulk glass), James Morris and Alan Pipe (faunal remains), Beth Richardson (leather), Karen Stewart (environmental), Amy Thorp (Roman pottery), Roger Tomlin, Don Walker (osteology) and Angela Wardle (Roman accessioned finds). Finally, thanks are extended to all the MOLA field staff who worked on the site.",
+        "page_numbers": [
+          56
+        ]
+      }
+    ],
+    "NOTES": [
+      {
+        "text": "1 MOLA Resource Library, www.mola.org.uk/ resource-library (accessed 3 January 2016).\n2 Sir John Soane Museum, London, 41/5/39 and /40.\n3 Chester Record Office (CRO), DCH/O/56/6.\n4 CRO, DCH/O/56/6.\n5 CRO, DCH/O/56/1 and /8.\n6 CRO, DCH/O/56/1.\n7 For example in c.1276: CRO, DCH/O/56/8.\n8 For example in 1317: London Metropolitan Archives (LMA), microfilm X109/403, Husting Roll 45 (183).\n9 For example in an agreement of 1509: CRO, DCH/P/1.\n10 CRO, DCH/O/56/8.\n11 CRO, DCH/O/56/1; LMA, microfilm X109/ 404, Husting Roll 53 (5).\n12 The National Archives (TNA), E403/1226, m. 5.\n13 TNA, E40/2666; CRO, DCH/O/56/2.\n14 TNA, E40/2666; CRO, DCH/O/56/2.\n15 LMA, microfilm X109/407, Husting Roll 77 (145).\n16 Ibid.\n17 Ibid.\n18 CRO, DCH/O/56/3, /6, /7.\n19 LMA, microfilm X109/407, Husting Roll 83 (100).\n20 LMA, microfilm X109/404, Husting Roll 56 (110).\n21 Ibid, Husting Roll 56 (126), Husting Roll 57 (24); TNA, E40/2392.\n22 LMA, microfilm X109/401, Husting Roll 28 (33); X109/403, Husting Roll 53 (5).\n23 CRO, DCH/O/56/1 and /8.\n24 LMA, microfilm X109/404, Husting Roll 56 (126).\n25 Ibid, Husting Roll 63 (66).\n26 Staffordshire Record Office, Stafford (SRO), D593/A/1/18/15.\n27 TNA, E40/12598.\n28 British Library, London (BL), Topham charters 33.\n29 CRO, DCH/O/56/5.\n30 BL, IA.55480.\n31 Guildhall Library, London (GL), MS 4887, fol 21.\n32 CRO, DCH/O/56/13; DCH/P/7; DCH/P/1; TNA, SP1/89, fol 134, no. 114.\n33 TNA, C1/486, no. 4; C1/534, nos 4 and 5; C1/767, no. 6; C1/832, no. 19; BL, Additional charter 24490.\n34 Drapers' Company, London (DC), A VII 45 and 48.\n35 TNA, E40/12598.",
+        "page_numbers": [
+          57
+        ]
+      },
+      {
+        "text": "36 TNA, SC6/Hen VIII/2396, fol 63.\n37 TNA, C66/229, m. 3; C66/258, m. 2.\n38 LMA, COL/CA/01/01/004, Repertory Book 4, fol 122v; Repertory Book 5, fol 52.\n39 TNA, C1/534, no. 5; E314/76 ('London: Crutched Friars').\n40 TNA, SP1/100, fol 57, no. 46.\n41 DC, A VII 48.\n42 CRO, DCH/X/13/2.\n43 TNA, C66/815, m. 16; WARD 2/58/215/8; CRO, DCH/O/56/9.\n44 TNA, C66/815, m. 16; WARD 2/58/215/8; CRO, DCH/O/56/9.\n45 TNA, SC6/Hen VIII/2396, fol 63.\n46 TNA, C54/290, m. 12v.\n47 Ibid, m. 11v.\n48 TNA, SC6/Hen VIII/2396, fols 63-6v; C66/700, m. 10.\n49 TNA, SC6/Hen VIII/2396, fols 63-4.\n50 LMA, CLA/023/DW/01/240, Husting Roll 240 (25).\n51 LMA, microfilm X109/407, Husting Roll 77 (145); microfilm X109/413, Husting Roll 117 (17); microfilm X109/414, Husting Roll 118 (51); microfilm X109/416, Husting Roll 136 (11).\n52 LMA, CLA/023/DW/01/240, Husting Roll 240 (25).\n53 LMA, microfilm X109/407, Husting Roll 83 (100); X109/412, Husting Roll 103 (206); X109/412, Husting Roll 109 (63); CLA/023/DW/01/240, Husting Roll 240 (25).\n54 BL, Additional charter 26586, m. 10v; LMA, microfilm X109/404, Husting Roll 56 (110).\n55 LMA, microfilm X109/410, Husting Roll 95 (167); CLA/023/DW/01/251, Husting Roll 252 (121).\n56 TNA, SC6/Hen VIII/2396, fol 63v.\n57 SRO, D593/A/1/18/15.\n58 TNA, E40/12598.\n59 TNA, SC6/Hen VIII/2396, fol 63.\n60 TNA, E40/12598.\n61 TNA, C66/694, m. 14; E315/156.\n62 TNA, C66/700, m. 10.\n63 TNA, C66/815, m. 16; WARD 2/58/215/8; CRO, DCH/O/56/9.\n64 CRO, DCH/P/1.\n65 TNA, C66/694, m. 14.\n66 TNA, SP1/153, fol 219, no. 171.\n67 TNA, SP4/1, fol 35, no. 73.\n68 LMA, CLA/023/DW/01/266, Husting Roll 267 (77).\n69 TNA, WARD 2/58/215/7.\n70 LMA, COL/CA/01/01/022, Repertory Book 20, fol 1; CLA/023/DW/01/266, Husting Roll 267 (77).\n71 LMA, CLA/023/DW/01/266, Husting Roll 267 (77)",
+        "page_numbers": [
+          57
+        ]
+      },
+      {
+        "text": "History of the Company's Properties and Trusts 2 vols, London\nAtkinson, D R, & Oswald, A, 1969 'London clay tobacco pipes' J Brit Archaeol Ass 32, 171-227\nBarron, C M, 1985 'The parish fraternities of medieval London' in C M Barron & C Harper-Bill (eds) The Church in Pre-Reformation Society: Essays in Honour of F R H du Boulay, Woodbridge, 13-37\nBarron, C M, & Davies, M, (eds) 2007 'The Crossed Friars'in The Religious Houses of London and Middlesex [reprint of the 1909 London and 1969 Middlesex Victoria County History articles with revisions], London, 139-42\nBarron, K, 2004 'Lumley, John, first Baron Lumley (c.1533-1609)' in Oxford Dictionary of National Biography, http://www.oxforddnb.com/view/article/17179 (accessed 1 June 2011)\nBarton, KJ, 1966 'The medieval pottery of Paris' Medieval Archaeol 10, 59-73\nBentley, D, 1984 'A recently identified valley in the City' London Archaeol 5, 13-16\nBetts, I M, 2002 Medieval Westminster Floor Tiles MoLAS Monograph Series 11, London\nBiddle, M, 2005 Nonsuch Palace: The Material Culture of a Noble Restoration House, Oxford\nBlackmore, L, 2011a Glass Production and Vessel Glass from Mariner House, Crutched Friars, London EC3 (MCF06), Period 8 unpub MOLA report\nBlackmore, L, 2011b The Post-Roman Accessioned Finds from Mariner House, Crutched Friars, London EC3 (MCF06): Specialist Report 2 unpub MOLA report\nBluer, R, & Brigham, T, with Nielsen, R, 2006 Roman and Later Development East of the Forum and Cornhill: Excavations at Lloyd's Register, 71 Fenchurch Street, City of London MoLAS Monograph Series 30, London\nBond, J, 1993 'Water management in an urban monastery' in Gilchrist & Mytum (eds) 1993, 43-78\nBowler, D, 1983 'Rangoon Street' Popular Archaeol 5, 13-18\nBraithwaite, G, 1984 'Romano-British face pots and head pots' Britannia 15, 99-131\nBrewer, J S. (ed) 1862-1932 Letters and Papers.",
+        "page_numbers": [
+          58
+        ]
+      }
+    ],
+    "BIBLIOGRAPHY": [
+      {
+        "text": "Foreign and Domestic, of the Reign of Henry VIII 22 vols, London\nBull, R, Davis, S, Lewis, H, & Phillpotts, P, with Birchenough, A R, 2011 Holywell Priory and the Development of Shoreditch to c 1600, MOLA Monograph Series 53, London\nBurch, M, & Treveil, P, with Keene, D, 2011 The Development of Early Medieval and Later Poultry and Cheapside: Excavations at 1 Poultry and Vicinity, City of London MOLA Monograph Series 38, London\nCal Lbk F: Calendar of Letter-Books of the City of London: F,1337-1352 (ed) RR Sharpe, 1904, London\nCam, H M, (ed) 1968-9 The Eyre of London 14 Edward II, AD 1321 2 vols Selden Society 85-6, London\nCCR: Calendar of Close Rolls (61 vols) 1892-1975, London\nCharleston, R, & Vince, A, 1984 'The glass' in A Thompson, F Grew & J Schofield 'Excavations at Aldgate, 1974' Post-Medieval Archaeol 18, 84-91\nCharleston, R J, 1984 English Glass and the Glass used in England, c 400-1940, London\nChew, H M, 1965 London Possessory Assizes: A Calendar London Record Society 1, London\nCLR: Calendar of Liberate Rolls (6 vols) 1916-64, London\nColson, J, 2010 'Alien communities and alien fraternities in later medieval London' London J35, 111-43\nColvin, H M, (ed) 1963-82 The History of the King's Works 6 vols, London\nCPR: Calendar of Patent Rolls (36 vols) 1893-1971, London\nDaniell, C, 1997 Death and Burial in Medieval England 1066-1550, London\nDavies, B J, Richardson, B, & Tomber, R S, 1994 The Archaeology of Roman London: Vol 5, a Dated Corpus of Early Roman Pottery from the City of London Council for British Archaeology Research Report 98, London\nde Raedt, I, 2001 Composition of 16th-17th-Century Façon de Venise Glass Excavated in Antwerp and Neighbouring Cities unpub PhD thesis, Faculteit Wetenschappen, Universitaire Instelling Antwerpen\nDuffy, E, 2005 The Stripping of the Altars: Traditional Religion in England, 1400-1580, London\nDungworth, D, & Brain, C, 2009 'Late 17th-century crystal glass: an analytical investigation' J Glass Stud 51, 111-37\nEames, E S, 1980 Catalogue of Medieval Lead-Glazed Earthenware Tiles in the Department of Medieval and Later Antiquities, British Museum 2 vols, London\nEames, E S, 1982 'The tile pavement' in H Woods 'Excavations at Eltham Palace 1975-9' Trans London Middlesex Archaeol Soc 33, 214-65 Egan, G, & Pritchard, F, 1991 Dress Accessories c 1150-c 1450 HMSO Medieval Finds from Excavations in London 3, London\nGaimster, D, Goffin, R, & Blackmore, L, with Cowell, M, and Freestone, I, 1990 'The continental stove-tile fragments from St Mary Graces, London, in their British and European context' Post-Medieval Archaeol 24, 1-49\nGibson, S, 1988 SEA88 Site Archive unpub MOL report\nGilchrist, R, 2005 Norwich Cathedral Close: The Evolution of the English Cathedral Landscape, Woodbridge\nGilchrist, R, & Mytum, H, (eds) 1993 Advances in Monastic Archaeology British Archaeological Reports (British Series) 227, Oxford\nGilchrist, R, & Sloane, B, 2005 Requiem: The Medieval Monastic Cemetery in Britain, London\nGirbal, B, 2011 Analysis of the Glass from Mariner House, Crutched Friars, London EC3 (MCF06) unpub archive report\nGodfrey, E S, 1975 The Development of English Glassmaking 1560-1640, Oxford\nGreene, J P, 1992 Medieval Monasteries, Leicester\nGrew, F, (ed) 1984 'The finds' in A Thompson, F Grew & J Schofield 'Excavations at Aldgate, 1974' Post-Medieval Archaeol 18, 33-128\nGuildhall Library, 2006 London Buildings and Sites: A Guide for Researchers in Guildhall Library, London\nHayden, M, 1964 'The Crosiers in England and France' Clairlieu 22, 91-109\nHayden, M, 1989 'The Crutched Friars in England' Clairlieu 47, 145-75\nHayden, M, 1995 'The Crutched Friars revisited' Clairlieu 53, 64-85\nHayden, M, 2000 'Religious reform and religious orders in England, 1490-1540: the case of the Crutched Friars' Catholic Hist Rev 86, 420-38\nHervey, M, 1918 'A Lumley inventory of 1609' Walpole Soc 6, 36-50\nHippocrates, Die Hippocratische Schrift Prognostikon (1963) B Alexanderson (ed) Studia Graeca et Latina Gothoburgensia 17, Gothenburg\nHodgett, G A J, (ed) 1971 The Cartulary of Holy Trinity Aldgate London Record Society 7, London\nHohler, C, 1942 'Medieval paving tiles from Buckinghamshire' Rec Buckinghamshire 14, 1-49, 99-132\nHolder, N, 2011 The Medieval Friaries of London: A Topographic and Archaeological History, Before and After the Dissolution PhD thesis Royal Holloway (University of London), http:// digirep.rhul.ac.uk/items/6e458cf0-0d41-977f-37c6-2b863a139e2a/5/ (accessed 4 November 2013)\nHoneybourne, M A, 1929 The Extent and Value of the Property in London and Southwark Occupied by the Religious Houses Before the Dissolution of the Monasteries unpub MA thesis, University of London\nHope, A, 2005 Londoners' Larder: English Cuisine from Chaucer to the Present, London\nHorwood, R, 1813 Plan of the Cities of London and Westminster, the Borough of Southwark 3rd edn reproduced in H Margary (ed) The A-Z of Regency London Margary in assoc Guildhall Library, 1985, Kent\nHumphreys, K W, 1990 The Friars' Libraries, London\nHurst, J G, Neal, D S, & Beuningen, H J E van, 1986 Pottery Produced and Traded in North-West Europe 1350-1650 Rotterdam Papers 6, Rotterdam\nJones, O R, 1986 Cylindrical English Wine bottles 1735-1850, Ottawa\nKeay, A, 2001 The Elizabethan Tower of London: The Haiward and Gascoyne Plan of 1597 London Topographical Society 158, London\nKemp, R, 1935 Some Notes on the Ward of Aldgate, Its Neighbourhood and Its Ancient and Modern History (1935 reprint of 1904 edition with supplement), London\nKerling, N J M, (ed) 1973 Cartulary of St Bartholomew's Hospital: A Calendar, London\nKeys, L, 1998 'Glass vessels' in G Egan The Medieval Household: Daily Living c 1150-c 1450 HMSO Medieval Finds from Excavations in London 6, London, 220-38\nKnowles, D, 1948-59 The Religious Orders in England 3 vols, Cambridge\nLane, J, 1895 Masonic Records of England and Wales (1717-1894), http://freemasonry.dept. shef.ac.uk/lane/ (accessed 10 June 2011)\nLoades, D M, 2008 'Dudley, John, duke of Northumberland (1504-1553)' in Oxford Dictionary of National Biography, http://www.oxforddnb.com/view/article/8156 (accessed 1 June 2011)\nLondon Museum, 1954 London Museum Medieval Catalogue, Ipswich\nLyon, J, 2007 Within These Walls: Roman and Medieval Defences North of Newgate at the Merrill Lynch Financial Centre, City of London MoLAS Monograph Series 33, London\nMcHardy, A K, 1977 The Church in London, 1375-1392 London Record Society 13, London\nMarsden, P R V, 1967 'Archaeological finds in the City of London, 1963-4' Trans London Middlesex Archaeol Soc 21, 189-221\nMerrifield, R, 1987 The Archaeology of Ritual and Magic, London\nMilner, E, 1904 Records of the Lumleys of Lumley Castle, London\nMorris, J, 2009 Assessment of the Hand-Collected and Wet-Sieved Animal Bone from Mariner House, Crutched Friars, London, EC1 (MCF06) unpub MOLA report Nicourt, J, 1986 Céramiques médiévales parisiennes: classification and typologie, Villiers-le-Bel\nO'Connor-Thompson, S, 1984 Excavations at Fenchurch Street Station (FSS84) unpub MoLAS report\nOgilby, J, & Morgan, W, 1676 'Large and Accurate Map of the City of London' reproduced in H Margary 'Large and Accurate Map of the City of London' by John Ogilby and William Morgan, 1676, Margary in assoc Guildhall Library, 1976, Kent\nOld Bailey Proceedings Online, www.oldbailey. org (accessed 3 March 2010)\nOswald, A, 1975 Clay Pipes for the Archaeologist British Archaeological Reports (British Series) 14, Oxford\nPaynter, S, 2011 Analysis of Pigment Residues from Hill Hall, Essex English Heritage Centre for Archaeology unpub report\nPearce, J, 2007 Pots and Potters in Tudor Hampshire, Guildford\nPearce, J, & Vince, A G, 1988 A Dated Type-Series of London Medieval Pottery Part 4: Surrey Whitewares London and Middlesex Archaeological Society Special Paper 10, London\nPearce, J, Vince, A G, & Jenner, M A, 1985 A Dated Type-Series of London Medieval Pottery Part 2, London-Type Ware London and Middlesex Archaeological Society Special Paper 6, London\nPearce, JE, Vince, A G, White, R, & Cunningham, C M, 1982 'A dated type series of London medieval pottery part one: Mill Green ware' Trans London Middlesex Archaeol Soc 33, 266-98\nPevsner, N, 1973 The Buildings of England: London Vol 1, the Cities of London and Westminster, London\nReddaway, T F, 1957 'The temporary Navy Office 1673-1684' Trans London Middlesex Archaeol Soc 19, 90-4\nRees, U, (ed) 1997 The Cartulary of Lilleshall Abbey, Shropshire Archaeological and Historical Soc\nRocque, J, 1746 'Exact survey of the City of London Westminster and Southwark and the Country 10 Miles Round' reproduced in H Margary (ed) 'An Exact Survey of the City's of London Westminster ye Borough of Southwark and the Country near 10 Miles Round London' [and] 'A Plan of the Cities of London and Westminster and Borough of Southwark with the Contiguous Buildings from an Actual Survey' by John Rocque in 1746 Margary in assoc Guildhall Library, 1971, Kent\nRöhrkasten, J, 2004 The Mendicant Houses of Medieval London 1221-1539 Vita Regularis 21, Münster\nRoskell, J S, Rawcliffe, C, & Clark, L S, 1992 The History of Parliament, The House of Commons 1386-1421 4 vols, Stroud Sankey, D, 1995 Excavations at Colchester House, Savage Gardens and Pepys Street, and Wooduffe House, Coopers Row, EC3 (PEP89), unpub MoLAS report\nSchofield, J, 1993 'Building in religious precincts in London at the Dissolution and after' in Gilchrist & Mytum (eds) 1993, 29-41\nSchofield, J, with Maloney, C, 1998 Archaeology in the City of London, 1907-91: A Guide to Records of Excavations by the Museum of London and its Predecessors Museum of London Archaeology Gazetteer Series 1, London\nSchofield, J, Allen, P, & Taylor, J, 1990 'Medieval buildings and property development in the area of Cheapside' Trans London Middlesex Archaeol Soc 41, 39-237\nSeeley, F, & Wardle, A, 2009 'Religion and ritual' in F Seeley & A Wardle (eds) Roman Southwark Settlement and Economy: Excavations in Southwark 1973-91 MOLA Monograph Series 42, London, 143-57\nShepherd, J D, nd The glass from the Broad Arrow Tower, Tower of London unpub MOLA report\nSmith, C, 1998 'Dogs, cats and horse in the Scottish medieval town' Proc Soc Antiq Scotl 128, 859-85\nSteedman, K, Dyson, T, & Schofield, J, 1992 The Bridgehead and Billingsgate to 1200, Aspects of Saxo-Norman London III London and Middlesex Archaeological Society Special Paper 14, London\nSteer, C, 2010a \"Better in remembrance\": medieval commemoration at the Crutched Friars, London' J Church Monuments Soc 25, 36-57\nSteer, C, 2010b 'Royal and noble commemoration in the mendicant houses of London, c.1240-1540' in C M Barron & C Burgess (eds) Memory and Commemoration in Medieval England Harlaxton Medieval Studies 20, Donington, 117-42\nStow, J, 1908 (1603) A Survey of London 2 vols (reprinted 1971) C L Kingsford (ed), Oxford\nStrype, J, 1720 A Survey of the Cities of London and Westminster from 1633 to the Present 2 vols, London\nSturman, W M, 1961 Barking Abbey: A Study in its External and Internal Administration from the Conquest to the Dissolution PhD thesis, University of London\nSutton, A F, & Sewell, J R, 1980 'Jacob Verzelini and the City of London' Glass Technol 21, 190-2\nThorpe, W A, 1969 A History of English and Irish Glass, London\nTomlin, R, 2011 The Mariner House Graffito (MCF06) unpub MOLA report\nTyler, K, Betts, I, & Stephenson, R, 2008 London's Delftware Industry: The Tin-Glazed Pottery Industries of Southwark and Lambeth MoLAS Monograph Series 40, London Tyson, R, 2000 Medieval Glass Vessels Found in England c AD 1200-1500 Council for British Archaeology Research Report 121, York Van den Bosch, P, 1992 The Crosiers: They Share with Everyone Religious Order Series 5, Collegeville, Minnesota Vince, A G, 1985 'The Saxon and medieval pottery of London: a review' Medieval Archaeol 29, 25-93 Williams, T D, in prep The Archaeology of Roman London: Vol 4, the Development of Early Roman London East of the Walbrook Council for British Archaeology Research Report Willmott, H. 2002 Early Post-Medieval Glass in England, 1500-1670 Council for British Archaeology Research Report 132, York Wright, T, 1843 Three Chapters of Letters Relating to the Suppression of Monasteries Camden Society (1st series) 26, London Wyngaerde, A van den, c.1544 The Panorama of London circa 1544 reproduced in H Colvin & S Foister (eds) London Topographical Society 151,1996, London Yalden, D, & Albarella, A, 2009 The History of British Birds, Oxford Youings, J, 1971 The Dissolution of the Monasteries, London",
+        "page_numbers": [
+          58,
+          59,
+          60,
+          61
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        2
+      ],
+      "captions": [
+        "Fig 1. Site location also showing the areas of excavation and nearby sites (ARC81, FCC95, FSS84, PEP89, RAG82, SEA88, SEN91, SVA10, TRY88) (scale (left) 1:7500, (right) 1:2500, (inset) 1:50,000)"
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Fig 2. The early Roman landscape AD 50-120 (Period 2) (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Fig 3. The late Roman landscape AD 120-400 (Period 3) (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        7
+      ],
+      "captions": [
+        "Fig 4. Roman pot assemblage from well (S4): black-burnished-style ware (BBS) cavetto rim jars $ < P1> $ (height 110mm) and $ < P2> $ (height 150mm); north Kent grey ware (NKGW) poppy-head style beaker $ < P3> $ (height 115mm); unsourced oxidised ware face pot with frilled decoration $ < P4> $ (height 160mm); and east Gaulish samian ware (SAMEG) Dragendorff form 31 dish $ < P5> $ (height 37mm) (for context information see Table 2)"
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "captions": [
+        "Fig 5. The late Saxon landscape c.AD 950-1080 (Period 4), with Hertstrete to the north (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "captions": [
+        "Fig 6. (above) Tenements in the area of Crossed Friars in the 13th century (scale 1:1500), and (below) the 12th and 13th-century archaeological features in the tenements (Period 5) (scale: 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "captions": [
+        "Fig 7. An assemblage of 13th-century tableware from Tenement 3: London-type ware (LOND) pear-shaped jugs <P6> - <P8> ; and north French yellow-glazed ware (NFRY) jug <P9> (for context information see Table 2) (<P6> height 260mm)"
+      ]
+    },
+    {
+      "page_numbers": [
+        17
+      ],
+      "captions": [
+        "Fig 8. The north-south orientated east wall of the 14th-century church (B3) with the pier foundations spaced 2.5-3m apart, looking west"
+      ]
+    },
+    {
+      "page_numbers": [
+        18
+      ],
+      "captions": [
+        "Fig 9. (above) The 14th-century precinct of Crossed Friars and the adjacent tenements (outlined in green) (scale 1:1500), and (below) archaeological features of the 13th and 14th century (Period 6) (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        19
+      ],
+      "captions": [
+        "Fig 10. Decorated floor tiles from Crossed Friars: 'Westminster' floor tiles <T1> and <T2>; floor tile designs belonging to the Eltham/Lesnes group, <T3>—<T6>; and pre-Black Death Penn tile <T22> (for context information see Table 1) (scale 1:6, except <T1> and <T2> 1:3)"
+      ]
+    },
+    {
+      "page_numbers": [
+        20
+      ],
+      "captions": [
+        "Fig 11. An 'ash burial': a 26-35 year old man laid on a bed of charcoal in his coffin [1101], looking south (0.2m scale)"
+      ]
+    },
+    {
+      "page_numbers": [
+        22
+      ],
+      "captions": [
+        "Fig 12. Tool associated with the construction of the friary: stone-marking lead stylus < 41> [260] (scale 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        23
+      ],
+      "captions": [
+        "Fig 13. Ceramics from the friary: London-type ware (LOND) aquamanile <P10>; and Kingston-type ware (KING) anthropomorphic rounded jug <P11> and pear-shaped jug <P12> (for context information see Table 2) (<P10> height 140mm)"
+      ]
+    },
+    {
+      "page_numbers": [
+        24
+      ],
+      "captions": [
+        "Fig 14. The head of London-type ware (LOND) aquamanile <P13> from Tenement 4 (for context information see Table 2) (scale 1:4)"
+      ]
+    },
+    {
+      "page_numbers": [
+        29
+      ],
+      "captions": [
+        "Fig 15. (above) The friary precinct shortly before the Dissolution (scale 1:1500), and (below) the archaeological evidence of the late 14th to early 16th century (Period 7) (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        30
+      ],
+      "captions": [
+        "Fig 16. The early 16th-century friary (within the outline of the site) shown in the Billingsgate to Tower Wharf section of the panorama of London c.1544 by Anthonis van der Wyngaerde, view looking north; in the foreground south of the friary is the scaffold on Tower Hill ( $ \\circ $ Ashmolean Museum, University of Oxford, WA1950.206.9)"
+      ]
+    },
+    {
+      "page_numbers": [
+        32
+      ],
+      "captions": [
+        "Fig 17. Decorated Penn floor tiles $ < T7> - < T21> $ and $ < T23> - < T26> $ from the friary (for context information see Table 1) (scale 1:6)"
+      ]
+    },
+    {
+      "page_numbers": [
+        34
+      ],
+      "captions": [
+        "Fig 18. Choir burial [1122] with belt fittings: (above) overhead view, north is to the bottom of the photo (0.5m scale), and (right) belt buckle <29> [1120] on the pelvis (10cm scale), looking east"
+      ]
+    },
+    {
+      "page_numbers": [
+        35
+      ],
+      "captions": [
+        "Fig 19. Elements of the leather belt from burial [1122]: copper-alloy buckle $ < 29> $ , strap-connector $ < 30> $ and decorative cinqfoils $ < 27> $ and septfoil $ < 28> $ mounts, all from [1120] (scale 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        36
+      ],
+      "captions": [
+        "Fig 20. Lighting the friary: 15th-century socketed candlestick $ < 34> $ , $ < 35> $ [1209] recovered from Structure 8 in the cloister walkway (scale 1:2)"
+      ]
+    },
+    {
+      "page_numbers": [
+        37
+      ],
+      "captions": [
+        "Fig 21. 15th-century ceramics, artefacts and floor tiles from the cespit in Open Area 26: Langerwehe stoneware (LANG) jug <P14> (scale 1:4); copper-alloy skimmer <11> [809] and ferrule <15> [811] from the handle (ferrule scale 1:2, skimmer 1:4, reconstruction c.1:8), and mount <163> [811] (scale 1:1); glass pedestal beaker with optic-blown ribs <146> [810] (scale 1:2); and rare white slip-painted floor tiles <T27> and <T28> (for context information for ceramics see Tables 1 and 2) (scale 1:6)"
+      ]
+    },
+    {
+      "page_numbers": [
+        38
+      ],
+      "captions": [
+        "Fig 22. The chalk-lined cellar of the prior's house (B4) (the brick facing is post-Dissolution), looking south-east"
+      ]
+    },
+    {
+      "page_numbers": [
+        39
+      ],
+      "captions": [
+        "Fig 23. 15th-century ceramics from the prior's house (B4): Cheam white ware (CHEA) rounded jug <P15> and Merida-type micaceous ware (SPAM) costrel <P16> (for context information see Table 2) (scale 1:4)"
+      ]
+    },
+    {
+      "page_numbers": [
+        42
+      ],
+      "captions": [
+        "Fig 24. (above) Post-Dissolution tenement and property boundary division of the former friary precinct (scale 1:1500), and (below) the archaeological evidence of the mid-16th to later 17th century (Period 8) (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        44
+      ],
+      "captions": [
+        "Fig 25. Artefacts from Building 5 and the adjoining cesspit: iron slide key <88> [1041] (scale 1:2); copper-alloy book clasp or hinge <20> [941] (scale 1:1); and copper-alloy lantern or decorative mount <21> [941], as found (left) and in original form (right) (scale 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        45
+      ],
+      "captions": [
+        "Fig 26. Façon de Venise style glass waste <142>—<144> [786] from the backfilled cellar Building 4 and <133>, <134>, <136>—<141> [770] from a nearby pit in Open Area 31, possibly associated with the Carré/ Verzelini glass-house (scale 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        47
+      ],
+      "captions": [
+        "Fig 27. Post-medieval archaeological evidence (Period 9) overlaid on the Ogilby and Morgan map of 1676 with the footprint of the 1683 Navy Office (scale 1:600)"
+      ]
+    },
+    {
+      "page_numbers": [
+        48
+      ],
+      "captions": [
+        "Fig 28. Artefacts from the well in Open Area 35: 17th-century glass squat beaker <168> [922] and <182> [932] and façon de Venise style glass goblets <162> [927] and <354> [923], <173> [927] and <183> [932] made in the Low Countries or England; ivory handle of small knife <208> [927]; and tin-glazed floor tile <T29> (for context information see Table 1) (scale 1:2 except <208> 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        50
+      ],
+      "captions": [
+        "Fig 29. Objects associated with the French Horn: from the cellar drain, Dutch gin bottle <G1>, English cylindrical wine bottle <G2>, French champagne bottle fragment <G3> with a label and a colourless glass spirits bottle <G4>; and from the coal cellar, pearlware (PEAR) dinner plate <P17> with blue, shell edge decoration and painted blue inscription French, Ho' (for context information see Tables 2 and 3) (scale 1:2)"
+      ]
+    },
+    {
+      "page_numbers": [
+        54
+      ],
+      "captions": [
+        "Table 1. Decorated Eltham/Lesnes group and Penn floor tiles and illustrated ceramic building material <T1> - <T29>"
+      ]
+    },
+    {
+      "page_numbers": [
+        55
+      ],
+      "captions": [
+        "Table 1 (cont.)."
+      ]
+    },
+    {
+      "page_numbers": [
+        56
+      ],
+      "captions": [
+        "Table 2. Illustrated pottery <P1> - <P17>",
+        "Table 3. Illustrated bottle glass <G1>—<G4>"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "document_title": "CHEAPSIDE IN THE 16th TO 18th CENTURY, AN ARCHAEOLOGICAL HISTORY: EXCAVATIONS AT ONE NEW CHANGE, CITY OF LONDON EC4",
+  "abstract": "During the large-scale development at One New Change on Cheapside in the City of London, archaeological investigations recorded a number of cellars, cesspits and other features with associated artefactual assemblages from properties that once fronted Cheapside between Old Change and Bread Street. By using documents (when possible) related to property ownership, historic mapping and archaeological evidence, this article will take a holistic approach to the study of up to six properties here from the Tudor period, including those destroyed by the Great Fire of London, up to the mid-18th century.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "With contributions by Ian Betts (ceramic building material), Julian Bowsher (lead token), Sarah Jones (mapping), Alan Pipe (animal bone), Beth Richardson (accessioned finds) and Dave Saxby (stratigraphy)",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "SUMMARY": [],
+    "INTRODUCTION": [
+      {
+        "text": "Between May and September 2007 archaeological excavations by MOLA (Museum of London Archaeology) were undertaken at One New Change in the City of London (Fig 1), prior to its redevelopment by Land Securities. The site was bounded to the east by Bread Street, to the north by Cheapside, to the south by Watling Street and to the west by New Change (Fig 1: the centre of the site Ordnance Survey (OS) National Grid reference is 53225 18113). Excavations were focused in two trenches along Cheapside, after previous evaluations revealed that the majority of the site had been truncated by a double basement removing all of the archaeological deposits (MoLAS 2005;2007). The majority of the excavated material was of Roman date, including virtually all of the horizontal stratigraphy and, together with the few deeper cut features of medieval and later date, this will be published separately (Saxby in prep).",
+        "page_numbers": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "Located, however, in the north and northwestern extent of the site were the remains of a number of late medieval and Tudor (14851603) buildings that once fronted Cheapside between Old Change and Bread Street. This frontage was swept away by the Great Fire of London in 1666 but was quickly rebuilt largely along the same property boundaries. A feature of the excavation was the extent to which many of the buildings built after the Great Fire had retained elements of the previous medieval and Tudor infrastructure (in particular cellars and cesspits) within their fabric.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "The paper and digital archives, and the finds, from the site have been archived by Museum of London under the site code NCZ07. The archive may be consulted by prior arrangement at the Museum's London Archaeological Archive (LAA), Mortimer Wheeler House, 46 Eagle Wharf Road, London N1 7ED. $ ^{1} $",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "The archaeological sequence is expressed in terms of land use. The land-use entities, such as Buildings (B) and Structures (S), are unique to the site based on stratigraphic relationships combined with artefactual and documentary evidence. The individual context numbers assigned to each feature and deposit, also unique to the site, are shown within square brackets, for example [1234], and artefact accession numbers are within angle brackets, <1234>. Each category of illustrated finds is assigned to an alpha-numeric sequence, also presented within angle brackets. Illustrated finds are identified by the following letter prefixes: <G100> glass vessels; <P100> pottery; and <S100> accessioned finds.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Pottery (Jeffries 2009) and ceramic build-",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "ing materials (White 2009) were recorded using standard Museum of London fabric and form codes. Expansions of the fabric codes are given at the first mention in a text section. Detailed descriptions of the building material fabrics and complete lists of the pottery codes, their expansions and date ranges are available online. $ ^{2} $ Pottery is quantified by sherd count (SC), estimated number of vessels (ENV) and weight (g).",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "The accessioned finds (Egan 2009) and the clay tobacco pipes (Grey 2009) were recorded in accordance with current MOLA practice. Pipe bowls have been classified and dated according to the chronology of London bowl types (Atkinson and Oswald 1969), using the prefix AO, with 18thcentury types refined by reference to Oswald (1975) and prefixed OS. Quantification and recording follow guidelines set out by Higgins and Davey (1994; Davey 1997).",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "One further aspect of the methodology requires further brief explanation: the use of historic maps and the process of digital map regression. It was possible to locally georeference Ogilby and Morgan's 1676 map to the excavated land-use entities, such as walls, cellars and cesspits found on this site, in order to locate them with respect to the original properties and boundaries. A full georeferenced version of the Morgan map of 1682 was recently achieved under the Institute of Historical Research's 'Mapping London: A GIS Platform for the History of Early Modern London' programme, using the method detailed elsewhere for Rocque's 1746 map which formed part of the 'Locating London's Past' project. In addition, John Ward's c.1692 survey (Figs 5 and 16) of the Worshipful Company of Goldsmiths' properties (hereafter referred to as the 1692 Goldsmiths' Company survey) in south-west Cheapside is particularly useful for clarifying how the ground floors of their properties on this frontage were divided, in addition to consistently noting stairs, yard, kitchen and 'roome' locations. The numbers given to each plot were later additions made to the survey by a Goldsmiths' Company clerk, Thomas Bankes, in 1738 and are not contemporary to Ward's 1692 original.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Scanned image files of three historic maps were used in the map regression exercise.The maps used were the 1875 OS map (six inches to one mile scale), 1676 Ogilby and Morgan map and the 1692 Goldsmiths' Company survey (Figs 5 and 16). These were 'rubbersheeted'in ArcGIS (Geographic Information System), in reverse chronological order, so this meant initially fitting the 1875 OS map to the modern OS MasterMap data, primarily through using existing continuity features, such as churches. Once the 1875 OS map was 'pinned down' with multiple calibration points and transformed using a splining transformation, a rectified version exported as a georeferenced GIS dataset, then the same procedure was followed with the 1676 Ogilby and Morgan map, but fitting it to both the Mastermap, where possible, but mainly to the 1875 OS map. Finally, the 1692 Goldsmiths' Company survey was fitted in similar fashion, primarily to the Ogilby and Morgan map and to lesser degrees to the 1875 OS map and Mastermap. Building histories have been achieved therefore through weaving the stratigraphic, artefactual, mapping and documentary evidence in order to provide an integrated approach.",
+        "page_numbers": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "This article is divided into two sections, with discussions, focused on the pre- and post-Fire properties which yielded significant associated artefact assemblages. The first section concentrates on the archaeological remains of three of the late medieval and Tudor buildings of south-west Cheapside destroyed by the Great Fire: Star Court, 20 Cheapside and 44 Cheapside (property numbers are taken from Horwood's 1799 map: Horwood 1813) (B34, B38, S15, S19, S20; Fig 5). It also includes a summary of the famous Cheapside hoard of Elizabethan and Jacobean jewellery discovered in 1912 in a building that once stood close to these properties (Forsyth 2003; 2013). The discussion section also introduces the fragmentary remains of the other buildings and structures dated to the late medieval and Tudor period that survived (B33, B35- B37, B39, B42, S16, S17, S28; Fig 5). The second part of the article considers the reconstruction of Cheapside after the Great Fire and the archaeological remains of two properties -17 and 42 Cheapside (property numbers are taken from Horwood's 1799 map) (B40, S24, S28; Fig 16)-up to the mid-18th century, a chronology determined by the deposition date of the last significant artefactual assemblage found. This evidence is then brought together in a conclusion.",
+        "page_numbers": [
+          3
+        ]
+      }
+    ],
+    "SOUTH-WEST CHEAPSIDE FROM THE TUDOR PERIOD TO THE GREAT FIRE (1485-1666)": [
+      {
+        "text": "Cheapside, the principal commercial hub, medieval processional route and one of the main thoroughfares through the City of London since the Roman period, has been subject to numerous archaeological excavations (Burch & Treveil 2011; Schofield et al 1990; Watson in prep). It was also the focus of two extensive historical surveys. The first covered the five central and eastern Cheapside parishes of All Hallows Honey Lane, St Martin Pomary, St Mary le Bow, St Mary Colechurch and St Pancras Soper Lane (Keene & Harding 1987), a survey built upon by the 'People and Place: Families, Households and Housing in Early Modern London' project (Harding 2008). $ ^{6} $",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The properties that once stood between the medieval streets of Old Change, Friday Street (although since the Victorian period, Friday Street has been a small lane that runs between Queen Victoria Street and Cannon Street to the south; Weinreb & Hibbert 1983, 303) and Bread Street are less well understood. One building known to have lain on the site was the church of St Matthew on Friday Street, which was first mentioned in 1261 and largely rebuilt after the Great Fire of 1666 by Wren in 1681-7. There was probably a medieval burial ground attached to this church, but its location is not known.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "This section of Cheapside frontage was particularly associated with the goldsmith's trade. Forsyth suggests (2003, 20; 2013, 21) that the western end of Cheapside, between Old Change and Bread Street-the area which provided the focus of the archaeological investigations-acted as the main business hub for the trade and which would have been occupied by several hundred goldsmiths by the early 17th century. Just to the east of the site lay Goldsmiths' Row. A structure built in 1491 by Thomas Wood,a goldsmith and sheriff of London, in Goldsmiths' Row was a four-storey timber-framed structure of ten dwellings and 14 shops (Forsyth 2013, 21), located 'betwixt Bread Street end and the Cross in Cheap'in John Stow's (1908) 1603 account. Goldsmiths' Row became a term that was soon applied to all the goldsmiths' tenements and shops on this side of the street (ibid). By the 1620s, however, rising rents and market factors had caused this occupation group to move further afield, and a Parliamentary enactment noted 'the goldsmiths trade in the high road of Cheape is late years exceedingly decayed and many of the shops there shut up and other mean and unsuitable trades crept in to the great disgrace and ornament of this citie' (ibid).",
+        "page_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "By the mid-17th century, Cheapside and Poultry can be characterised as one of the most densely populated areas of the City (Burch & Treveil 2011, 144). Reconstructing the properties that once stood here before the Great Fire was achieved through a number of sources. Engravings of the building types that formed the south side of the western end of Cheapside up to Old Change are presented in the watercolour copy (made in 1785) of Edward VI riding through Cheapside in 1547 (Fig 2), a schematic elevation that depicts three-storeyed buildings with a gabled garret and shops on the ground floor.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "As Cheapside represented one of the main commercial areas of the City, shops could be found on the ground floor of most properties, with their frontage characterised by a board or stall beneath the street-facing window (Forsyth 2013, 29). The remaining three to four floors functioned as rented domestic dwellings that could be divided into several units of tenure (Keene 2000, 194). Higher land values in the area encouraged tall buildings (D Keene in Burch & Treveil 2011, 192) and it was not uncommon for many Cheapside properties to have between three to six storeys by the 17th century (ibid, 194). An example of plot size is given by Forsyth (2003, 25) who noted that the plot most likely to have contained the Tudor Cheapside hoard (later numbered 30-32 Cheapside) was a substantial building of five storeys with a shop on the ground floor, a hall, a closet, a staircase on the second storey and one chamber and a kitchen on the third. The fourth floor contained two chambers and the fifth was occupied by a garret with a gilding chamber at the southern end. Whilst Faithorne and Newcourt's map of 1658 of south-west Cheapside (Fig 3) is reproduced here, the grandeur of the timber-framed and jettied buildings of Cheapside prior to the Great Fire of London is most accurately presented in a 1638 engraving (Fig 4). Cheapside was entirely devastated by the Great Fire on 4 September 1666, the same day St Paul's Cathedral was destroyed (Bell 1923,92).",
+        "page_numbers": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "The three properties (B34, B38, S19, S20; Fig 5) under consideration which yielded significant artefact assemblages survived as a series of below ground structures, usually cellars and cesspits, in addition to fragmented remains of the building fabric itself, notably floor surfaces and foundation walls (almost all above ground building in the City surveyed by Ralph Treswell 1585-1614 would have been timber-framed: Schofield 1987, 28). The pre-Fire dating of these buildings has been achieved by a combination of artefact and stratigraphic relationships, in addition to evidence of burning.",
+        "page_numbers": [
+          5,
+          7
+        ]
+      }
+    ],
+    "Cellar in Star Court (B38)": [
+      {
+        "text": "Originally of medieval origin, this building was remodelled as a cellar (B38; Figs 5 and 6) during the Tudor period. The 1676 Ogilby and Morgan map and the 1692 Goldsmiths' Company survey (Fig 5) showed the cellar in the rear of a plot and accessed by an unmarked alley from Cheapside later marked as Star Court on Rocque's map of 1746. Star Court is a likely continuation of an earlier pre-Fire arrangement. Given the density of building in Cheapside, alleys provided the means of accessing the dwellings and retail units set back from the main street (Keene 1990,182).",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The original medieval structure survived as two truncated north-south aligned walls,",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "[1471] (Fig 6) survived to 1.05m north-south by 0.55m east-west wide and [2329] (not illustrated) survived to 0.50m north-south by 0.25m east-west. Both were constructed from chalk rubble and cemented with a light yellow sandy mortar. They were remodelled during the first half of the 17th century by the insertion of two east-west aligned walls, [1214] and [1368], which probably also acted as the foundation to support a timber-framed building. Wall [1471] was added to by a chalk, stone and brick wall, [1368] (Fig 6), with a brick inner face (brick size of 230 x 105 x 55mm) and survived to 1.60m east-west by 0.84m north-south. Positioned just over 1m to the south of [1368] was another east-west wall, [1214] (0.76m north-south by 1.75m east-west), similarly constructed from brick (fabric 3033: dated c.1450-1600) with occasional reused Caen stone and sandstone, and bonded with a light grey lime mortar.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Within this remodelled structure two sequences of floor joists were laid. The first floor survived as two decayed joists, [1355] and [1399], aligned north-south and eastwest, laid within a cut filled with sand. Overlying this was a bedding layer of sand and gravel, [1354], on to which a second gravel layer, [1325], was then dumped to support the laying of a second sequence of joists which survived as three north-south and one east-west aligned timbers, [1312] and [1348] (0.12-0.20m wide by 70mm deep). The consequence of raising the floor would have led to a reduction of the overall height of the cellar, closing further the distance between the structure's base and the ground floor of the building it served. The joists were again sealed with two further gravel dumps, [1253] and [1254], which contained a clay tobacco pipe bowl dated to c.1610-40. Capping this sequence were burnt layers of sand, ash and charcoal, [1213], [1274] and [1313], with a collapsed wall of stone and brick construction - likely to be parts of the above ground superstructure to this building - and decayed wood from its floor or superstructure. Dated c.1660-80 by the clay tobacco pipe bowl (AO15 type), the burnt layers are likely to represent Great Fire of London debris, either dumped into the building after this event or a direct result of its destruction by this conflagration. One layer contained a fragmented and incomplete dish, <551>, made from copper-alloy sheeting with a rolled rim and a suspension loop attached by a separate tag (from [1274]).",
+        "page_numbers": [
+          7,
+          8
+        ]
+      },
+      {
+        "text": "Cellar floors during this period could either be beaten earth, dumped hardcore, paved or, like this cellar, made of timber boards laid on joists. A contract dated to 1410 for the construction of houses on Friday Street (located just to the east; Fig 5) makes direct reference to the practice of laying timber floors in cellars in the 'Agreement by which a carpenter and a timber-merchant undertake to joist and floor the cellaring already dug on the site, and to erect thereon three houses' (Salzman 1952, 483).",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The pottery found within the floor joists and gravel deposits is dominated by Frechen stoneware (FREC) Bartmanner (Gaimster 1997) which supplied 29 of the 37 ceramic vessels (165 sherds; 3,300g) discarded here. Made in the town of Frechen located close to Cologne in the Rhineland, these ubiquitous bottles are arguably among the most recog-",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "nisable of pottery types of this period. Many of the examples from these floor joist and gravel dump sequences are decorated with the Arms of the City of Amsterdam (ibid, 220, no.67), which together with the eightpetalled rosette (Fig 13; <P5>] represents the most common medallion type found applied to FREC from London excavations. A more unusual medallion is present here (Fig 7; <P1>): this crowned example differs by having the face mask design usually applied to the neck instead presented as a medallion. Also found alongside the pottery were large pieces from two glass drinking vessels. Both are late 16th- or early 17th-century goblets, and are probably made in the City of London or Southwark (Willmott 2002,14). The first piece of glass, <561> from [1312], is the lower part of a flaring bowl from a simple rod stem goblet with an upper knop and merise on the surviving stem (ibid, 73, fig 84 no.15.1); the others, <563> and <564>, have an elongated inverted baluster stem with two merises and a foot with folded rim (ibid, 60, fig 58 no.10.4). Clay tobacco pipes are not common to these deposits. They are restricted to a few stems and two bowls dated c.1610-40 (type AO6).",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The composition and function of this group is similar to the glassware and pottery that formed the contents of another cellar sealed by the Great Fire of London serving a property on Rood Lane to the east (Jeffries et al 2014).",
+        "page_numbers": [
+          9
+        ]
+      }
+    ],
+    "20 Cheapside (B34 and S15)": [
+      {
+        "text": "The second property under consideration survived as an early 17th-century brick cellar (B34; Figs 5 and 8) and a medieval chalklined cesspit (S15) both filled around the time of the Great Fire of London. Located in the parish of St Vedast Foster Lane, the property this cellar served once fronted Cheapside and, adjacent to the west, by the last property before the entrance to Mitre Court. First named on Rocque's map of 1746 and later depicted on the 1876 OS map as reduced to an alley through building encroachment, Mitre Court linked Cheapside to the churchyard that served St Matthew Friday Street. Horwood's 1799 map (Horwood 1813) later numbers the plot as 20 Cheapside and during part of the 18th century it once housed the Rose Tavern.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "Originally square-shaped, the cellar (B34) was constructed using unfrogged red bricks built in a Flemish bond-a style thought to have been introduced to England during the early 17th century-and cemented with a yellow sandy mortar (Loth 2011). The cellar survived close to three-quarters in plan although its floor had been removed. The plot appears to conform to an earlier boundary demonstrating continuity of property divisions over the medieval to Tudor periods.",
+        "page_numbers": [
+          9
+        ]
+      }
+    ],
+    "Cellar (B34) and Great Fire Destruction": [
+      {
+        "text": "The cellar (B34) was infilled with a light yellow-brown sandy silt, [897], and a selection of rubbish (comprising a trade token, pottery and clay tobacco pipes), food refuse (animal bone) and structural demolition debris (delft floor tile and peg tile roofing material), an event dated by these materials to after 1640.",
+        "page_numbers": [
+          9,
+          10
+        ]
+      },
+      {
+        "text": "The selection of decorated tin-glazed (fabrics 1819,2196,2197 and 3067) and plain lead-glazed floor tiles (fabrics 1977,3075, 3287) in the cellar fill hints at the possible internal decoration of the building. The lead-glazed tiles probably derive from floors with alternating brown/green and yellow tiles set in a chequerboard pattern. Most of these are Low Countries imports of late 15th- to 16th-century date. There appears to be two groups of tin-glazed floor tile with one comprising polychrome tiles dating to the late 16th to early/mid-17th century and a second of blue on white tiles dating to the mid-17th century. The late 16th- to early/mid 17th-century group includes what appears to be an animal set in a circular border. Similar tiles were made at Aldgate in 1571-c.1615-20 (Betts & Weinstein 2010,99, nos 42-53). Two tiles have the popular Tudor rose pattern made in London at both Pickleherring and Rotherhithe (ibid, 111, nos 108-9) and in the Netherlands. A tile with the flower vase design was probably made at Pickleherring in c.1618-50 as was a tile with a geometric and floral pattern (ibid, 109, no.104).",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "From a later floor are two blue on white tiles with a flower vase design in a crenulated circular border. Tiles of this type were made at the Rotherhithe pothouse c.1638-50 (Tyler et al 2008, 91, D26). The quantity of peg roofing tiles, some reused, found in the cellar backfill is presumed to be from the roof of the building.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "Among the most noteworthy of the finds discarded here is a lead trade token, <260> (diameter 15mm, weight 0.48g, Ax 12, Wear B/C $ ^{7} $ ), issued at the Rose Tavern in Poultry (obverse: '*. A[T] THE ROSE TAVERN' around field in Roman capitals; device, a fivepetalled rose within field; reverse: '*. [IN T] HE.POVLTR[EY]' around field, 'T/D.E', triad of initials in Roman capitals, within the field; Dickinson 2004, 138, no. 2273). The TED triad of initials represents the first (T) and last name (E) of the issuing publican and the first name of this wife (D), an arrangement of lettering which is also replicated on (occasionally) English-made delftware (Britton 1987, 112, no. 37) and English glass bottles with seals.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "A few references to this tavern are noted by Akerman (1853, 161, no. 1533) between 1560 and 1709, with two tokens displaying the same design dated to 1648-73 in the Museum of London's collections. $ ^{8} $ Worth a farthing, this token would be issued by the publican for use in the Rose Tavern of Poultry in response to the 1644 proclamation by Parliament that no more licenced coins should be struck. This led to a shortage of small coinage (Noel Hume 1969, 155), and the use of tokens during the Commonwealth continued into the Restoration until Charles II again issued Royal coinage in small denomination in 1678.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "Up to 22 pottery vessels were retrieved from the cellar fill, chronologies of which when combined with the clay tobacco pipe found are consistent to material used during the mid-17th century. The pottery mostly served a variety of utilitarian kitchen and storage functions, with hygiene and tablewares also featuring. Among the better preserved pots are London-made red wares (London-area post-medieval red ware [PMR]) sourced from pothouses clustered on the south bank of the Thames (principally Deptford and Lambeth; see Nenk 1999; Divers 2004) and include the significant remains of up to two storage jars with thickened thumbed rims and a vertical looped handle. Glossy glazed red ware products from kilns centred on Harlow in Essex (PMFR) (Davey & Walker 2009) also feature and include the large joining sherds and upper profiles of two chamber pots and single-handled bowls retrieved. The pottery assemblage is dated by the various mid- 17th-century London-made tin-glazed (or delft) wares found, with the profile of an unusually shaped chamber pot (Fig 9; <P2>]",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "in London tin-glazed ware with plain white glaze (TGW C), similar to the form made at Norfolk House in Lambeth (Bloice 1971, fig 55 no. 78). London tin-glazed ware with blue- or polychrome-painted decoration (TGW A) supplied the tablewares, with a rounded bowl and a charger surviving well in addition to more fragmented examples. The polychrome painted rounded bowl has the 'cable' (Orton 1988, 325, fig 138 no. 1256) or 'chain link' design and the blue and white charger with the Chinese inspired Wan-Li style and the central daisy pattern (Noel Hume 1977, 45, pl 45) are common to the first quarter of the 17th century. The clay tobacco pipe assemblage is limited to two scorched clay tobacco pipes (of the AO9 bowl type dated c.1640-60) with partially milled rims.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "The cellar fill also contained a large group (159 fragments) of animal bone derived largely from poultry, cattle (Bos taurus) and sheep/goat (Ovis aries/Capra hircus), with smaller groups of pig (Sus scrofa), fish and game. This differs from the general pattern of meat diet observed on this site, which can be mainly characterised by beef, mutton and pork, with lower levels of lamb and poultry, and occasional consumption of marine fish, and game birds and mammals; in Building 34 the contribution of poultry, specifically chicken (Gallus gallus), exceeds that of pork, and the recovery of goose (Anser sp) is also substantial.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "The cattle group was derived largely from skeletal areas of prime meat-bearing quality with some recovery of upper jaw and toe, areas respectively of moderate and poor meat-bearing quality. The bones largely comprised thoracic (upper back) and lumbar (lower back) vertebrae, upper hind-leg and toe, with occasional recovery of elements of the upper jaw, sternum (breast bone) and lower fore-/hind-leg. Cattle bones indicated a range of age groups: foetal or neonate calves from three innominates (pelvis); infants from single fragments of maxilla (upper jaw), thoracic and lumbar (upper and lower back) vertebrae and humerus (upper fore-leg); juveniles from single fragments of sternum, radius (lower fore-leg) and femur (upper hind-leg); and adults from two fragments of innominate and all phalanges (toe). Although there is clear tool-mark evidence for butchery there is no indication of working, burning gnawing or pathological change.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "Sheep/goat produced a substantial group derived mainly from juvenile and adult vertebrae, and upper and lower fore- and hind-leg, areas of prime meat-bearing quality. In addition, there was a fragment of metacarpal (fore-foot) and two fragments of infant lamb mandible (lower jaw), areas of much poorer meat quality. Dental evidence from two sheep mandibles indicates an adult animal in at least the third year, with an infant lamb no more than two months old providing definite indications of consumption of mutton as well as young lamb. The smaller group of pig mainly consisted of single fragments of juvenile upper and lower fore and hind-leg with juvenile metatarsal (hind-foot) and infant innominate -areas of a range of meat-bearing quality. The recovery of very young calves, sheep/goat and pig here suggests some consumption of veal, young lamb and suckling pig, and may imply therefore some degree of affluence.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "The fish group consisted entirely of head elements of whiting (Merlangius merlangus) probably all derived from one fish. This fish is a small member of the cod family (Gadidae), attaining a maximum weight of 3kg. It is a valuable food species common in shallow inshore waters, with young fish particularly abundant in onshore waters and estuaries such as the Thames (Wheeler 1979, 178). This small group probably represents a head discarded during preparation or postconsumption.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "The poultry group was dominated by 37 fragments of chicken with four fragments of goose, probably domestic goose (Anser anser domesticus), but no recovery of mallard/ domestic duck (Anas platyrhynchos). Chicken remains derived almost entirely from skeletal areas of prime meat-bearingvalue, particularly the breast and upper and lower elements of the wing and leg, with no recovery of head, feet or toes, the areas usually removed and discarded during initial preparation of the carcase. Calculation of minimum numbers of individuals (MNI) from each skeletal element indicates significant differences in the frequencies of recovery, possibly an indication of preference in carcase-part selection or perhaps differences in post-",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "consumption waste disposal. Thus, elements of the upper and lower wing respectively indicate MNI values of three and four birds compared with MNI values of one and two birds for the upper and lower leg. These discrepancies, together with the absence of head and toe elements, perhaps suggest that chicken generally arrived on site as dressed carcases rather than as complete birds, and that at least some of the birds may have been purchased and cooked as butchered joints, perhaps in casseroles or stews, possibly with some degree of preference for wing as opposed to leg joints.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "Similarly, the four bones of goose (single fragments of adult humerus and metacarpal (upper wing and wing tip); adult innominate and femur (pelvis and thigh)) all derived from skeletal areas of prime meat quality. All four bones could have derived from the same bird.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "Game species were very much a minor component of the context group, represented by a metatarsal (foot) of a small wild duck (Anatidae); a humerus (upper wing) of adult woodcock (Scolopax rusticola) and a small group of adult and juvenile rabbit (Oryctolagus cuniculus) upper and lower foreand hind-leg, areas of good meat-bearing quality, derived from at least two animals. Woodcock are medium-sized, solitary waders breeding in moist woodland but also found in drier scrub or bushy terrain (Svensson et al 2009, 160). Active mainly at dusk, the species is still an esteemed game and table bird seasonally available in London; it is one of the most frequently recovered game species from London archaeological sites.",
+        "page_numbers": [
+          12
+        ]
+      }
+    ],
+    "Cesspit (S15)": [
+      {
+        "text": "An existing medieval cesspit, [1692] (S10; Figs 5 and 10; Saxby in prep), was divided during the Tudor period by the insertion of an east-west wall, [919], to create a new feature (S15; Fig 5). Constructed largely of unworked chalk blocks (0.34 x 0.16 x 0.29m) and flint nodules, with some red and yellow bricks (fabric 3033: dated c.1450- 1700), this dividing wall was cemented by a light brownish grey mortar. The cesspit was internal to the property it once served, but its division suggests it was now serviced by more than one privy and perhaps reflected a new tenancy arrangement. The sharing of a underlying cesspit between adjoining tenancies was widespread in London from the 14th century (Schofield 1987, 23), and when the location of this cesspit is mapped on to the (later dated) Ogilby and Morgan map of 1676 and the 1692 Goldsmiths' Company survey (Fig 5) it is under the boundary wall of two separate properties (nos 12 and 13 on the latter).",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "After being regularly cleaned, the northern compartment of this remodelled cesspit was filled by two deposits. Accumulating around this structure's cleaning out slot, the first fill, [2481], did not contain any rubbish and/or refuse. The main episode of filling was a deep deposit of cess/silt, [918], and other than a Low Countries 'Flemish' unglazed floor tile, dating from the late 16th century, this fill was similarly absent of rubbish and refuse. The evidence from the northern compartment therefore suggests this side of the cesspit accumulated noisome matter.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "The processes involved in filling the southern compartment of this cesspit were very different. It contained no cess and was instead filled with lenses of burnt material deposited after c.1630. The first filling event comprised a dump, [895], of charcoal mixed with clay-silt, with a ceramic cucurbit (Medieval Pottery Research Group 1998,9.1) and crucible (ibid, 9.6) providing evidence of localised industrial activity. Overlying this was a 0.80m thick deposit of mid brown-grey silty sand, [888], which contained lenses of fire and charcoal debris in addition to fragmented ceramic building material, burnt pottery and a large quantity of food refuse. The small quantity of fragmented pottery suggests this occurred after c.1630 and it is possible the southern compartment was filled with Great Fire debris raked into the pit as part of post-Fire clearance and levelling.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The most common material retrieved is animal bone with a group of 73 fragments derived largely from cattle and sheep/goat, with smaller groups of poultry and pig with occasional recovery of fish and game. Pieces of cattle rib and radius and pig metacarpal displayed severe rodent gnawing; and fragments of cattle rib, pig metacarpal and cod (Gadus morhua) cleithrum had been charred indicating combustion at 400-500 degrees Celsius (Lyman 1994, 386). Whilst this charring could be the result of cooking and disposal, it remains consistent with the southern compartment filling with fire debris.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The cattle group mainly included fragments of rib, adult thoracic and lumbar vertebrae, upper fore- and hind-leg and lower hind-leg, areas respectively of good and moderate meatbearing quality, with occasional recovery of elements of the head and toe, areas of much poorer quality. Dental evidence from single cattle and sheep/goat mandibles indicates animals respectively in at least the fourth year and in the second year.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Sheep/goat produced a moderate group derived mainly from adult and juvenile cervical (neck) vertebrae, rib and upper and lower fore- and hind-leg, areas of good meatbearing quality, with a single infant radius. Pig produced a small group derived from single fragments of adult and juvenile upper and lower hind-leg, fore-foot and hind-foot.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Fish included only a single cleithrum of adult cod; this robust and distinctive bone from the pectoral fin area is often removed and discarded when the head is detached from the body.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "A small group of game bird and mammal species included a femur of adult partridge probably grey partridge (Perdix perdix) with two fragments of fallow deer (Dama dama), an adult radius and a metatarsal -areas of moderate and negligible meat quality. Poultry included only a fragment of chicken tibia ('drumstick').",
+        "page_numbers": [
+          13
+        ]
+      }
+    ],
+    "30-32 Cheapside and the Cheapside Hoard": [
+      {
+        "text": "Between the two (trench) excavation areas, 30-32 Cheapside once stood (Fig 5), the building that yielded the famous Cheapside hoard - the finest collection of Elizabethan and Jacobean jewellery ever found in the United Kingdom. Uncovered by workman in 1912 in a pre-Fire cellar located under 30-32 Cheapside during the demolition of this post-1666 building, the hoard was buried in an assortment of bags and boxes. Newspaper accounts of the find further describe a wooden box, a casket with trays and drawers, and a leather bucket (Forsyth 2013, 17). The hoard was buried after 1640/1 (ibid, 214) in one of the five cellars that serviced this large plot of three buildings owned by the Goldsmiths' Company, and as a collection represents a goldsmith's stock-intrade of both finished and unfinished pieces dated 1590-1620 (Forsyth 2003, 35-7). It is not intended here to describe in detail this historically significant hoard as it has been published elsewhere (ibid; Forsyth 2013) and featured in a Museum of London exhibition that ran from October 2013 to April 2014.",
+        "page_numbers": [
+          13
+        ]
+      }
+    ],
+    "44 Cheapside (S19 and S20)": [
+      {
+        "text": "Located in All Hallows Bread Street parish between Friday Street and Bread Street, 44 Cheapside survived as a medieval stone-built cellar (S19) and a Tudor brick-lined cesspit (S20) (Fig 5). Both features were filled either during or directly after the Great Fire although there is evidence that Structure 19 was rebuilt and reused after this event. The building lay within the Bread Street Ward, and on the (post-Fire) 1676 Ogliby and Morgan map it is presented as a small plot divided on the ground floor into two rooms by a east-west aligned partition wall. Its southern room is marked as a kitchen on the 1692 Goldsmiths' Company survey (Figs 5 and 16), and the overall plot is later numbered 36-37 by Thomas Bankes in 1738. Horwood's 1799 map numbers this plot as 44 Cheapside.",
+        "page_numbers": [
+          13,
+          14
+        ]
+      }
+    ],
+    "Stone-Built Cellar (S19) and Great Fire Destruction": [
+      {
+        "text": "The medieval cellar (S19; Figs 5, 11 and 16) survived as an L-shaped structure constructed from squared chalk and ragstone blocks bonded by a yellow sand mortar. Remnants of a robbed brick and ragstone floor were laid on a compacted chalk base, [305]. The cellar was later repaired with a roughly squared ragstone wall, [73] (0.15m by 0.15m by 0.10m), and cemented by a yellow sandy mortar before it was filled with a cess-like deposit, [29]. The rubbish in the fill is mostly comprised of building material with a selection of different Tudor bricks (fabrics 3032, 3033 and 3046), a Penn floor tile, ridge tile and medieval carved Reigate stone, a rough block gutter of Hassock roofing stone and one decorated polychrome tin-glazed floor tile. The tile, which has a geometric design (Betts & Weinstein 2010, 107, no. 85) was probably made at Pickleherring, London, c.1618-50. Purbeck limestone paving was also found, with evidence of their use within Cheapside from leases dated 1652 which recorded two properties located to the west of Friday Street served by large yards paved with this stone (Forsyth 2003, 25). In addition, structural iron fittings include a hook, <51>, a binding for a barrel, <53>, and a hinge, <54>. A few pottery fragments, including a vessel that had been burnt, and a clay tobacco pipe bowl dated c.1660-80 represent other rubbish discarded. Given the dominance of medieval and Tudor dated building material mixed with a small collection of burnt pottery and a pipe bowl dated c.1660-80, it is suggested that the cellar was filled with Great Fire debris.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "After the Great Fire the structure was incorporated and retained within a new build (Fig 16), and further heightened by the addition of a chalk and brick wall, [72] (fabric 3032: dated c.1666-1900), cemented with a grey-brown coarse sand and gravel mortar. With no evidence having survived to suggest the original cellar floor was replaced, it is possible this structure functioned as a cesspit.",
+        "page_numbers": [
+          14,
+          15
+        ]
+      }
+    ],
+    "Cesspit (S20)": [
+      {
+        "text": "A truncated brick-lined cesspit (S20; Fig 5) survived as two east-west aligned walls, [8] (0.28m thick by 1.25m deep), constructed from red unfrogged brick (fabric 3046: dated c.1450-1600) common to Tudor buildings and cemented by a grey coarse sand mortar with chalk flecks. It had no floor, and the base revealed a cleaning out scoop, [421], which allowed noisome contents to percolate into the ground. The cesspit was regularly cleaned before filled with an ash and silt deposit, [4], and a variety of rubbish (pottery, pipes, glass and other objects) dated c.1660-80. As a structure it was internal to the property and is located in the same pre-Fire plot as the stone-built medieval cellar located to the north (S19; Fig 5).",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "There is a clear emphasis on pharmaceutical and apothecary functions in the 39 pottery vessels (100 sherds; 4,030g) and 29 variably preserved glass bottles (1,408g) discarded with deposit [4]. Most of the glass comprised two different sizes of case bottles which served as medicinal or spirits containers. First are the natural greencoloured glass square-shaped case bottles (up to six examples) which held a range of remedies and closely resemble in shape those examples illustrated in Noel Hume (1991,73,fig 17 no.4) and Willmott (2002, 87-8,fig 112). Three globular phials with everted rims and high pointed kick bases were similarly used and also comparable to published types (Noel Hume 1991,73,fig 17 no.3; Willmott 2002,90,fig 116).",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Pharmaceutical and apothecary vessels are also provided by London-made delftware. An intact London tin-glazed ware with plain white glaze (TGW C) ointment pot (Fig 12; <P3>）was used for cold creams. The two TGW C vessels (including <P4>; Fig 12) and a third squat cylindrical jar in the blue- or polychrome-painted variant (TGW D), decorated in a style common to the second to third quarter of the 17th century, are forms referred to as drug jars or apothecary wares (Britton 1987, 103-4) or, in contemporary documents, as stallens (Britton 1990, 91) or gallyware (Noel Hume 1977, 24). Thought to be containers of dry herbs for medicinal remedies, therefore, the common occurrence of these drug jars in London's archaeological record indicates they were widely used. Noel Hume (1977, 24), however, recognised that both drug jar and ointment pot were imprecise terms that needed better defining. A TGW C chamber pot (ibid, 102, fig XVIII nos 1-3) was the only example of this vessel form from this pit.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Distillation equipment is suggested by two thin-walled, long and notably narrow tubular neck fragments, $ < 7 0 9> $ and $ < 7 1 0> $ . Whilst the first is likely to be a flask, the second might be either a funnel or alembic spout that once formed part of a set of distillation equipment. A horizontal rim of a urinal, $ < 1 0 1> $ , may also have had an industrial use as they were often used as receptacles in the process of medicinal and chemical distillation. It is an unusually late example as urinals are normally 16th century or earlier (Willmott 2002, 103, fig 145 no.34.1).",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Used as storage containers for alcohol, principally beer and ale, are two Frechen stoneware (FREC) Bartmanner, including one nearly intact example (Fig 13; <P5>) which both have the common eight-",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "petalled rosette medallion applied. Their shape suggests they are dated to the second quarter of the 17th century. The fragments of up to three larger sized square-shaped case bottles probably once contained either gin or medicine (Noel Hume 1961, 106). In addition, there are two examples of the first type of the English glass wine bottle-the shaft and-globe type-comprising base fragments and a complete rim and neck, in this group of glass. Whilst English wine bottles are not thought to be earlier than 1650, based on the earliest dated bottle seal (Willmott 2002, 86), the case bottles are a longer lived shape.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Providing evidence for smoking during this period is a selection of clay tobacco pipes (27 bowls plus three stems). The majority (24) are of types consistently dated c.166080 (AO13 and AO15). Pipes represent an object in everyday use which was rapidly discarded. This coherent group supplies the main dating tool for the filling of this cesspit. Some pipes are fully milled around the rim, part of the overall finish which can be seen as an indication of quality of the pipe and its making. It was common practice in the 17th century, but not later, to add a band of milling or rouletting around the outside of the rim of the bowl. A fully milled pipe was regarded as of better quality than one that was only milled around a quarter of the bowl or not at all. The large number of fully milled pipes, therefore, is significant, with the rest quarter or half milled. Some of the pipes are also burnished, a further indication of quality, although burnishing is an otherwise uncommon technique applied to the remaining pipe assemblage from this site.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Representing a decorative ceramic tableware, the Chinese blue and white porcelain (CHPO BW) rounded bowl (<P6>; Fig 13) internally decorated with a bird perched on a rock with bamboo appears to be a Ming dynasty product and therefore dated to the mid-17th century. It was acquired some 50 years before the East India Company was able to directly export porcelain to British markets after the establishment of a trading post in the port of Canton in 1699.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Evidence of diet is provided by a small group of animal bone found; this is limited to single fragments of cattle-sized rib, cattle lumbar vertebra and scapula (shoulder blade), with fragments of sheep-sized rib and single fragments of sheep/goat cervical and thoracic vertebra and radius. Poultry comprises the tibia of adult mallard or domestic duck.",
+        "page_numbers": [
+          16,
+          17
+        ]
+      },
+      {
+        "text": "The remaining pottery vessels were used for cooking and food serving and are supplied by the fragmented Surrey-Hampshire border white ware with clear (yellow) glaze (BORDY) (Pearce 2007) and Essex-type post-medieval fine red ware (PMFR) (Davey & Walker 2009). Porringers, vessels used for serving sloppy foods, are most common among the white-fired Surrey-Hampshire border wares, with up to three vessels represented with sherds from skillets and tripod pipkins also found.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Completing the material discarded in this cesspit is a complete small knife, made entirely from bone (Fig 14; <S1>). It has a flat handle with a pierced leaf-like terminal and (on both faces) two incised bands of ring-and-dot decoration, which are probably intended to look like studs or rivets. The integral blade is gently curved, with an oval tip. It could be a specialist tool, such as a small paper knife, or a child's implement or toy.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Although the dating of the artefacts discarded in the cespit combine to suggest it was filled after 1660 (but no later than 1680), there is an absence of burnt material that characterises other properties here. The last levelling deposit, [2], contained medieval peg tile, a reused medieval moulded stone, <625>, lead waste sheeting, <43>, and broken chalk and brick fragments derived from surrounding structures.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "DISCUSSION: URBAN TOPOGRAPHY AND INFRASTRUCTURE OF TUDOR AND STUART CHEAPSIDE (1485-1666)": [
+      {
+        "text": "This section is focused on discussing the location of building plots (and their cellars) in addition to the evidence of different types of infrastructure （eg, cesspits, drainage and water supply) which supported this section of Cheapside, and, when possible, construction techniques. Extensive bodies of work on London's Tudor and later buildings and the topography of the City of London (Schofield 1987), including Cheapside (Keene 1990, 178-89), are drawn upon. Whilst the above text focused on the three properties that yielded significant artefactual and animal bone assemblages, here the archaeological evidence of a number of additional buildings in this sequence (as presented on Fig 5) is introduced to the discussion.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Most of the pre-Fire plots in southwest Cheapside would have conformed to Schofield's Type 1 and Type 3 properties, who defined the building types presented in Treswell's London surveys of 1585-1614 in order of increasing size of ground floor plan (Schofield 1987, 11-16). As noted,",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "the attribution of the fragmented material remains of buildings dated before the Great Fire to individual building plots presented on the later 1676 Ogilby and Morgan map and the 1692 Goldsmiths' Company survey made shortly after this conflagration confirms the widely held opinion that plots and frontages, alleys and housing built after 1666 was largely made along the same lines as before (Harding 2008, 9; Fig 5; cf Fig 16). The individual buildings and plots are therefore presumed to be consistent to both the period before and after the Great Fire.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Whilst the evidence of the Great Fire is presented in the sequences of burnt floor layers in the cellar of the building in Star Court (B38; Fig 5) and in the levelling and abandonment with burnt material of a later medieval cellar (S19) and Tudor cesspit (S20), further signs of this conflagration is presented by the heavily burnt floor surface of a fragmented brick cellar (B42; Fig 5) in the south-west of the site. Evidence of the Great Fire was also found on another site nearby, where the cellar of a property fronting Wood Street was robbed and demolished after the Fire, an event which also led to a quantity of pottery and clay tobacco pipes from the apothecary of Dr Scarborough being discarded (Watson in prep).",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "The site also provided further confirmation of how the fabric of the medieval city had survived and was rebuilt or modified in later centuries as well as demonstrating how property boundaries remained constant over this time. This is best evidenced through the remains of a late medieval building in the north-east of the site (B39; Fig 5). It survived as three truncated walls built of ragstone and chalk which were repaired and rebuilt into the 17th century and respected the property division of a previous Saxo-Norman building (S32, not illustrated; Saxby in prep).",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "The majority of the structural remains of the Tudor buildings of south-west Cheapside have survived as cellars (B34-B36, S19, S24; Figs 5 and 8). Either wholly or partly underground, most would have had trapdoors or short stairs leading up to the street (Keene 1990, 186), and the cellar wall may have also supported the foundation or ground wall. Cellars are best interpreted as functioning as unheated storage spaces, with only two examples of occupied cellars marked as a kitchen and a dwelling in Treswell's various London surveys (Schofield 1987, 26). Records nevertheless suggest that the goldsmiths of Cheapside used their cellars (and garrets) for storage and as workrooms (Forsyth 2013, 43). Whilst two cellars (B34 and S19) have been described in detail (above), the walls (B35 and B36) of two further Tudor cellars built of both brick and stone with brick floors, when plotted on to later mapping (using the method described above) are shown as located within the plot later numbered 16 Cheapside on Horwood's map of 1799 and, to the east, Star Court (an alley first named on Rocque's 1746 map). This plot and building was also served by a brick-lined cesspit (S16; Fig 5; below) positioned under what is (later) marked as a yard on the 1692 Goldsmiths' Company survey (Fig 5). A fifth Tudor cellar (S24; Figs 5 and 16) was retained and used after the Great Fire; this structure is therefore discussed later under 17 Cheapside (below). Two further walls (B33 and B37; Fig 5) are too fragmented to make any significant interpretations about their function and placement within a particular property.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Evidence of the infrastructure that supported these Cheapside buildings, in particular their cesspits, also survived. Whilst the supply of water to Cheapside benefited from the Great Conduit pipe which connected with springs outside the City (Burch & Treveil 2011, 109-11, 179-80, fig 147), the take-up for this system appears rather small, and thus it is assumed that other sources of water supply, principally wells, remained important (ibid, 181).",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Of the five cesspits (S15-S17, S20, S28; Fig 5) located in the pre-Fire sequence, the two (S15 and S20; Fig 5) which contained significant finds assemblages are discussed under 20 and 44 Cheapside (above). Serving Building 34 (20 Cheapside), the division of cesspit Structure 10 by the insertion of an east-west dividing wall (S15) might have reflected a new tenancy arrangement and suggests this internal feature would have now been served by two or more privies above. Treswell's surveys indicated that when internal to a building, privies (and their underlying cesspits) are usually shown on the ground floor often next to or entered from the kitchen or (in two cases) on the staircase (Schofield 1987, 23). Privies on higher floors communicated to a cesspit via a system of chutes and funnels (ibid) The reconstruction of a large three-storey Cheapside house on the south side of Pancras Lane show it was serviced by two cellars with a latrine pit attached and an additional common latrine (D Keene in Burch & Treveil 2011, 195, fig 154). Both Structures 15 and 20 appear to have been filled in different episodes with the southern compartment of Structure 15 containing Great Fire debris. The third Tudor dated brick-lined cesspit (S28; Figs 5 and 16) survived the Great Fire and was not filled until the 1750s; this structure is therefore discussed later under 42 Cheapside (below). Like Structure 28, the fourth cesspit (S16; Fig 5), serving Buildings 35 and 36, was brick-lined and square in plan, reflecting a change in the construction of these features from the stone- or chalk-built earlier medieval antecedents.",
+        "page_numbers": [
+          18,
+          19
+        ]
+      }
+    ],
+    "SOUTH-WEST CHEAPSIDE AFTER THE GREAT FIRE (1666-1750)": [
+      {
+        "text": "On4 September 1666 Cheapside was entirely devastated by the Great Fire of London.The Ogilby and Morgan map of 1676 nevertheless shows reconstruction was swift and a dense building pattern was quickly achieved. The opportunity was also taken after the Great Fire to make road improvements, with the west end of Poultry widened to enable Cheapside and Poultry, perhaps for the first time, to form a largely continuous thoroughfare (Fig 15; Burch & Treveil 2011, 178).",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "The Hearth Tax returns of 1692 showed the average number of hearths for the parish of St Vedast Foster Lane as 4.42, with St Matthew Friday Street the eighth highest of all London parishes with 6.32 hearths per property (Locating London's Past 2011). Whilst houses were rebuilt on much the same lines as before (Harding 2008,9), Forsyth (2003,24) has noted that precise correlation between the same pre- and postGreat Fire plots, tenements and occupants proved difficult. Archaeological evidence for the redevelopment of Cheapside after the Great Fire (Fig 16) is limited for a number of reasons, but the two properties, 17 Cheapside (S24) and 42 Cheapside (B40, S28), that yielded significant associated finds assemblages will be discussed in detail. The discussion section will introduce the fragmentary remains of the other structures and features of this period that have survived (Fig 16; B41, S12, S14, S22, S23, S25, S26) or represent those retained from the medieval and Tudor sequence (Figs 5 and 16; B35, B36, S19, S24, S28).",
+        "page_numbers": [
+          19,
+          21
+        ]
+      },
+      {
+        "text": "All the buildings and structures have been mapped to the 1676 Ogilby and Morgan map and, significantly, to properties included on (and therefore owned by) the 1692 Goldsmiths' Company survey (Figs 5 and 16). This useful survey of all the Company's holdings presents a property portfolio centred on Cheapside between Old Change and Bread Street, with an apparent gap on Friday Street.",
+        "page_numbers": [
+          21
+        ]
+      }
+    ],
+    "17 Cheapside (S24)": [
+      {
+        "text": "The archaeological evidence of 17 Cheapside (as presented on Horwood's 1799 map of London: Horwood 1813) survived as a brick cellar (S24; Fig 16). Like many properties on this frontage, 17 Cheapside was owned and leased from the Goldsmiths' Company as surveyed by John Ward in 1692 and (later) numbered 10 by Thomas Bankes (Figs 5 and 16). It was located in the parish of St Vedast Foster Lane and is presented on the 1676 Ogilby and Morgan map as a property with a narrow frontage on to Cheapside and flanked by Star Court to the west and to the east by the property on the corner of the alleyway leading to Mitre Court. Both Star and Mitre Courts are first named on Rocque's map of 1746 and Mitre Court linked Cheapside to the churchyard of St Matthew Friday Street.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Built during the Tudor period but retained and incorporated after the Great Fire, the cellar (S24) remained in use for up to 60 years before it became a receptacle for rubbish and refuse and abandoned during the 1730s. By 1709, 17 Cheapside was occupied by Vizic Haslefoot $ ^{9} $ whose occupation is recorded as a 'Stuffman' at the baptism of his son James at St Vedast Church, Foster Lane, 11 January 1707-8 (Littledale 1902; 1903). The Land Tax assessments then note a succession of named male individuals on this plot, some of whom are known to be goldsmiths, with little else known about the other occupants of 17 Cheapside. With the cellar filled by the 1730s, the Land Tax assessments successively record William Tanner (1713-16), $ ^{10} $ Joseph Barrett (1721-8), $ ^{11} $ John Wells (1730), $ ^{12} $ John Knight (1735-9) $ ^{13} $ and John Walker (1741-60) as occupiers of 17 Cheapside. $ ^{14} $",
+        "page_numbers": [
+          21
+        ]
+      }
+    ],
+    "Cellar (S24):1730s Finds Assemblage": [
+      {
+        "text": "The cellar was constructed from red brick (fabric 3033: dated c.1450-1600) cemented with a coarse white mortar and built in an English cross bond with a compacted mortared floor. It survived the Great Fire and remained in use until the 1730s when, upon its abandonment, the structure was finally filled ([1125]) with a selection of ceramics (50 vessels), clay tobacco pipes (ten bowls and five stems), several English glass wine bottles and glasses, and glass pharmaceutical phials. Food waste included a significant quantity of oyster (Ostreidae) shell. Taken together, there is an emphasis on alcohol containers and drinking vessels, pharmaceutical and sanitary wares in both the ceramic and glass assemblages.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Much of the pottery is fragmented, suggesting most of the 50 vessels (107 sherds; 3,471g) had accumulated in dust heaps and floor and yard sweepings before this material finally entered the cellar. In addition, a chronological lag of up to 20-30 years between when most of the ceramics and pipes where in circulation compared to the glass bottles discarded (which are contemporary to the 1730s) is also observed. This suggests the cellar had been allowed to slowly fill since at least the early part of the 18th century before it was finally sealed. During this period the building it served is known to have been occupied by a series of goldsmiths (above).",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Most of the wine bottles (up to six) are of the mallet shape, retrieved mostly as complete bases/lower profiles. The mallet shape first appeared in the 1720s in response to the need for bottles that could be laid on their sides to aid the maturing of port wine, which became increasingly popular at the expense of French wines after tax was lowered on its import following the Methuen Treaty of 1703. There was a period of overlap between the earlier onion and mallet shape, and the latter was comparatively short-lived, spanning only 30 years. Whilst the mallet shape has been traced to c.1722 (Dumbrell 1983, 63), most date from c.1730; the change in the form began c.1750 leading to the development of the cylindrical wine bottle. There are also up to seven lead-glass wine glasses, <542> - <548>. Dated to the mid-18th century, this glassware is typical of the period with funnel- or bell-shaped bowls, baluster or plain drawn stems and domed feet. Three stems have single decorative ball knops and/ or tear-shaped bubbles. They are simple heavy glasses of types which were used in the tavern trade and in a domestic environment.",
+        "page_numbers": [
+          21,
+          22
+        ]
+      },
+      {
+        "text": "Used in conjunction with the glassware were Rhenish sourced stonewares, with a few ubiquitous Frechen stoneware (FREC) Bartmanner present together with a Westerwald sourced globular mug (Gaimster 1997, 264-5, fig 121). The small group of smoked and well used clay tobacco pipes are in bowl types commonly made and used c.1680-1710 (types AO15 and AO22).",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "Tea drinking is evidenced by the few fragmented Chinese blue and white porcelain (CHPO BW) vessels found as a few tea bowls and a rounded bowl (probably for slops) decorated in a variety of common landscape and floral decoration employed on Jingdezhan products during the second quarter of the 18th century.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The ceramic and glass objects in this pit also show evidence of heirloom or well looked after examples. The first, a north Italian marbled slipware (NIMS) costrel with its characteristic applied lion head lug (Hurst et al 1986,37) provides an uncommon pottery type to London, one of only up to two dozen thus found from London excavations. It would have been in circulation for at least 80 years before it was discarded, as these costrels usually dated c.1600-50 (ibid). A second possible heirloom is the fragment of an earlier 17th-century opaque white glass lid or base, <182>. It is decorated with raised white glass trails and closely spaced cobalt blue spots and splashes marvered into the surface. It is probably Venetian-made and would have been a prestigious item.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "Pharmaceutical items comprised three natural green-coloured cylindrical phials with both low and high pointed kick bases of the type published elsewhere. $ ^{1 5} $ The glass is supplemented by a few London tinglazed wares with plain white glaze (TGW C) ointment pots (similar to Nöel Hume 1991, 73, fig 17 no.10) that once contained cold creams and other similar preparations. The fragmented TGW C chamber pots supplied the sanitary wares.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "includes the significant portion of a deep dish used for all manner of food preparation and serving (including dairy) and a singlehandled flared bowl in addition to a few other bowls and/or dishes represented by a few sherds each.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "London-area post-medieval red ware (PMR)",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "42 Cheapside (B40 and S28)": [
+      {
+        "text": "Located in All Hallows Bread Street parish between Friday Street and Bread Street, 42 Cheapside survived in the archaeological record as two sections of brick wall (B40; Fig 16) and a Tudor brick-lined cesspit (S28; Figs 5, 16 and 17) retained after the Great Fire and finally filled in the 1750s. Owned and leased from the Goldsmiths' Company, this Cheapside-fronted property is presented on the 1676 Ogilby and Morgan map as occupying a small narrow plot with a rear yard that backed on to and might be shared with a property fronting Bread Street (Fig 16). The cesspit appears to be located within a small room presented on the 1692 Goldsmiths' Company survey (Fig 16) close to the return of the wall that divided this property and the one to the west. The survey also records the plot had a small shop fronting Cheapside.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The evidence for Building 40 survived as two parallel east-west aligned dividing walls and a brick pier base constructed from red brick of a type used after the Great Fire (fabric 3032: dated c.1666-1900) built with occasional chalk blocks and bonded with a hard grey mortar with chalk flecks. The northern wall can be mapped as the load-bearing wall of the above property (numbered 37 by Thomas Bankes in his 1738 amendment to the 1692 Goldsmiths' Company survey). The southern of these two walls can be related to the load-bearing wall of two adjacent properties that once fronted Bread Street (again owned by the Goldsmiths' Company) and numbered 40 and 41 in 1738 by Thomas Bankes on the 1692 Goldsmiths' Company survey (Fig 16); a yard is displayed between both walls.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The Land Tax assessments record Francis Newman at this property in 1692-1722, $ ^{16} $ after whom (1730-44) Hammond and Singleton, $ ^{17} $ who are noted in Kent's Directory of 1740 as druggists, occupied the premises. Between 1747 and 1756, Lawrence Singleton & Co are listed in the Land Tax assessments. $ ^{18} $ The cesspit was filled in the 1750s, an event which coincides with Singleton & Co vacating the premises shortly after 1756. The artefacts present an emphasis on objects serving apothecary functions and it is tempting to link at least some (if not all) of these material remains to the druggists. By 1799 Horwood's map shows that the properties along this frontage had been much altered.",
+        "page_numbers": [
+          22,
+          23
+        ]
+      }
+    ],
+    "Cesspit (S28): 1750s Finds Assemblage": [
+      {
+        "text": "The brick-lined cesspit (Fig 17) was constructed from regularly coursed red brick build common to the Tudor period (fabric 3033: dated c.1450-1600) with occasional ragstone and chalk, and cemented by a grey coarse sand mortar with chalk flecks. There is the suggestion this structure had a brick and chalk block floor within a lime mortar, although part of it was lost or robbed prior to the last cleaning of this latrine. The presence of a floor suggests the cesspit was meant to be watertight. Like the cellar (S24) serving 17 Cheapside (above), Structure 28 was retained after the Great Fire and not filled until cess and rubbish ([36]) had accumulated during the 1750s.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "Among the rubbish are up to 22 ceramic vessels (87 sherds; 4,720g) and 20 variably preserved English glass wine bottles (3,964g) and pharmaceutical phials. Much of the pottery and glass discarded functioned as alcohol containers and decanters. The phials and ointment pots suggest a wellstocked apothecary. A large proportion of the assemblage was useable before it entered this pit and many vessels were probably intact when discarded. Among the ceramics are three Chinese blue and white porcelain (CHPO BW) plates (including <P7>; Fig 18): all bear the same tree peony, rock and bamboo garden scene and were presumably part of a set.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "Evidence of diet is provided by the small group of animal bone found. Much are from good cuts of meat, with the species represented including cattle, sheep/goat and pig with single examples of goose and brown hare (Lepus europaeus). Non-consumed domesticates were represented by cat (Felis catus) only: single fragments of subadult humerus and ulna (upper and lower foreleg) and tibia (lower hind-leg).",
+        "page_numbers": [
+          23,
+          24
+        ]
+      },
+      {
+        "text": "The cattle group included three fragments of adult innominate with a single juvenile humerus, all areas of prime meat-bearing quality. Similarly, there were sheep/goat fragments of rib and three fragments of juvenile femur, again evidence of good meat quality. Pig was present as single fragments of upper (femur) and lower (tibia, fibula) hind-leg, all possibly from the same juvenile animal. A fragment of sheep-sized rib showed severe rodent gnawing. Poultry and game each produced a prime quality joint, a humerus from an adult goose upper wing and an adult brown hare upper fore-leg.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Pottery and glass used as containers or to drink beer and wine from feature heavily. The CHPO BW saucer and handled cup (probably used for taking chocolate or coffee etc) was the only object used for taking hot drinks. Among the English-made green-coloured glass bottles are up to five of the distinctive mallet shape with high domed pushed up bases and bevelled single string rims. This includes one complete example (Fig 19; <G1>） of the type dated 1750 by Nöel Hume (1991, 66), in addition to a few fragmented mallet bottles. The two better preserved early cylindrical wine bottles represent the latest bottle type here (dated to the third quarter of the 18th century). These bottles, in addition to a similarly well preserved onion-shaped wine bottle (Fig 19; <G2>) dated to the 1720s, captures well the refilling and reuse that glass as a container affords, with this object in circulation for decades before being discarded. The two pottery vessels in this functional group comprise a London stoneware (LONS) tankard (Fig 19; <P8>) for taking smaller ale measures and punched with a poorly applied excise stamp, and a smashed jug for decanting drinks (Green 1999,155,fig 127 nos 333-4). These vessels were among the most common types made by London's numerous stoneware pothouses during the 18th century, an industry which concentrated on making durable 'tavern wares' such as bottles, jugs, gorges and tankards. Despite the dominance of vessels used for containing or drinking alcohol, clay tobacco pipes are limited to two smoked pipes in bowl types common to c.1780-1820 (AO27) and a small collection of stems.",
+        "page_numbers": [
+          24,
+          25
+        ]
+      },
+      {
+        "text": "There is also a strong emphasis on pottery and glass used as containers of liquid curealls and cold creams. Up to five complete white salt-glazed stoneware (SWSG) ointment pots (Fig 20; <P9>-<P13> ) were found in addition to two complete colourless glass phials. The first is a small cylindrical phial with a flat base, with an overblow at the top of the mould (Fig 20; <G3>), and the second is a tall slim cylindrical phial with a flat base (Fig 20; <G4>). Of interest is that both are products of a specialist glass tableware workshop, and therefore made of heavier bodied lead-glass. Completing the assemblage are two window panes, with at least one from a diamond quarry; both are cylinder blown 'broad' glass with gas bubbles and the angles are grozed or nibbled.",
+        "page_numbers": [
+          25,
+          26
+        ]
+      }
+    ],
+    "DISCUSSION: URBAN TOPOGRAPHY AND INFRASTRUCTURE OF SOUTH WEST CHEAPSIDE AFTER THE GREAT FIRE (1666-1750)": [
+      {
+        "text": "The artefactual assemblage contained within the cellar (S24) serving 17 Cheapside provided fragmented material remains (principally glass, ceramics and clay tobacco pipes) and food refuse (oyster shells) for successive goldsmiths who occupied these premises in the 1720s and 30s. Whilst no objects used in their trade were found, the chronologies of the rubbish that survived in the cellar indicated this structure's filling was a slow process, perhaps up to 20 to 30 years. The glass phials and ceramic ointment pots in the cesspit (S28; Figs 16 and 17) serving 42 Cheapside is illuminating for providing a material signature for Singleton & Co, the druggist business that occupied these premises.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Evidence of the other post-Great Fire buildings that once stood here is less compelling. A north-south aligned brick culvert (S23; Fig 16; 2.30m north-south by 0.70m eastwest surviving) is related to 19-20 Cheapside on Horwood's map of 1799. It appears to have once supported the load-bearing wall of these properties. To the east of 17 Cheapside (S24, above), another building (B41; Fig 16) survived as an east-west aligned wall (1.40m east-west by 0.37m north-south) built of red bricks (fabrics 3032, 3033) with occasional chalk and bonded with a grey sandy mortar with charcoal flecks - wall construction techniques used after the Great Fire. Associated with this wall was a brick floor, [969], and whilst another brick-built structure (S22; Fig 16) in the same plot might be a cesspit, its fragmentary nature makes assigning function difficult. Both Building 41 and Structure 22 are located in the same plot that communicated with Star Court to the west and Mitre Court to the east. Structure 22 is placed in a building owned by the Goldsmiths' Company and numbered 10 on the 1692 map (Fig 16).",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The water management infrastructure that supported this part of post-Fire Cheapside is evidenced by the four circular bricklined wells found (S12, S14, S25, S26; Fig 16) in properties clustered between Mitre Court and Fountain Court in the parish of St Vedast Foster Lane (Fig 16). Treswell's surveys of London (1585-1611) depict wells as brick-built (or at least the above ground parts), indicating that building in this material was common by at least 1600 (Schofield et al 1990, 173). Treswell often presents them in yards, in the middle of a yard or even in an alley, and several wells are shown built astride property boundaries suggesting a shared feature (Schofield 1987, 27). In south-west Cheapside the four wells found are located either internal to their property or are placed in shared yards. The first brick-lined well (S12) was largely built of reused Tudor brick but stratigraphically securely phased to the post-Fire sequence. Digital map regression placed it in a yard close to the dividing wall of two properties (Fig 16) later numbered 16 and 18 on the 1692 Goldsmiths' Company survey and corresponding to a business known by the sign of the Lamb (no.16) and the Nag's Head Tavern (marked no.18), later 23 Cheapside on Horwood's 1799 map. The well was not apparently used for long, and was backfilled ([852]) by the turn of the 18th century but yielded little artefactual evidence. A second truncated brick-lined well (S14) serving 20 Cheapside was similarly positioned in the yard of a property owned by the Goldsmiths' Company (nos 14-15 on the 1692 map; Fig 16). Number 20 later appears as a retail drinking establishment known as the Rose Tavern, a link established through the Land Tax records recording Edward Rose here in 1732-7 $ ^{19} $ and the account given during his admittance to a masonic lodge (that held its meetings here) where he described himself as landlord of the Rose Tavern of Cheapside (Apple 2010). The few bottle glass fragments in the fill, [892], of Structure 14 suggest it went out of use during the mid to late 18th century.",
+        "page_numbers": [
+          26,
+          27
+        ]
+      },
+      {
+        "text": "Two further brick-lined wells (S25 and S26) built in the 18th century are internal to the rear rooms of two properties both owned by the Goldsmiths' Company as recorded on the 1692 map (Fig 16) and later numbered 12 and 16 respectively by Thomas Bankes in 1738. Part of Structure 25 was further rendered in mortar, a technique used to keep water seepage from the surround to a minimum. Digital map regression situates Structure 26 under the ground floor stairs presented on the 1692 Goldsmiths' Company survey (Fig 16). In keeping with well Structure 12, the backfilling of both Structures 25 and 26 yielded little in the way of artefactual material to date their disuse.",
+        "page_numbers": [
+          27
+        ]
+      }
+    ],
+    "CONCLUSION": [
+      {
+        "text": "The redevelopment of properties destroyed by the Great Fire of London and the subsequent filling and abandonment of redundant features that sealed and preserved many rich domestic finds assemblages was first identified by archaeologist Ivor Noel Hume in the 1950s (as reviewed in Blair & Watson 2013). Further groups have been added to the Great Fire corpus, most recently by the varied contents of a Rood Lane cellar （Jeffries et al 2014) and a well in Philpott Lane (Jeffries & Wroe-Brown 2015).",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "The focus of this article is on the evidence for the retention of the lowest, below ground parts of a number of Tudor buildings (B35, B36) within the fabric of post-Fire buildings (Fig 16), with two cellars (S19 and S24) and a cesspit (S28) cleared of debris and reused after the Fire. Whilst 17 and 42 Cheapside (discussed above) presented evidence of this, two further Tudor dated cellars (B35 and B36; Figs 5 and 16) were incorporated into the fabric of what became 16 Cheapside (as presented on Horwood's map of 1799) and were only backfilled in the mid to late 19th century. Further remains of the medieval and Tudor built subterranean structures in the rebuilt metropolis have been observed in excavations close by. A site is located just to the south, excavated prior to the construction of Gateway House, where a brick wall was inserted into a medieval cellar, shortly after the Great Fire, to create a divided privy (Elsden 2002, 49-50). In addition, excavations in eastern Cheapside presented a Tudor well being refurbished for reuse within the cellar of a post-Fire building (Burch & Treveil 2011, 158-9), and the site of Regis House in Fish Street Hill also produced evidence of previous subterranean infrastructure being retained, relined and reused (Brigham et al 2010, 100-26). The excavations at New Change have therefore significantly added to this pattern.",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "The sources and methods used to interpret the immediate pre- and post-Fire properties that had survived archaeologically, notably combining digital map regression methodology with surviving historical sources and approached through urban topography and building fabric, have proved of value in understanding the building histories of a small number of properties in south-west Cheapside between the 16th and 18th centuries.",
+        "page_numbers": [
+          27
+        ]
+      }
+    ],
+    "ACKNOWLEDGEMENTS": [
+      {
+        "text": "MOLA would like to thank Land Securities for funding the excavation and postexcavation and the advice of Kathryn Stubbs of the City of London's Department of the Built Environment. Thanks are also due to Bovis and McGee for their practical assistance during the excavation.",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "The excavations were supervised by Dave Saxby and the assistant supervisor Sasathorn Pickering. MOLA archaeologists who worked on this site were Sian Anthony, Maddy Bacon, Ryszard Bartkowiak, Valeria Boesso, Tanya Bowie, Tim Braybrooke, Chloe Brown, Pete Cardiff, Neville Constantine, John Crisp, Tina Dolan, Margaret Feryok, Lucy Garnsworthy, Satsuki Harris, Robert Hartle, Charles Harwood, Richard Hewett, Sophie Hunter, Mark Ingram, George Loffman, Bilijana Milevska, Laura O'Gorman, Autumn Palmer, Sam Pfizenmaier, Patrizia Pierazzo, Jackie Pitt, Ken Pitt, Ashley Pooley, Nikki Rahmatova, Gideon Simons, Victoria Stanfield, Gemma Stevenson, Ruth Taylor, Elena Valtorta, Sadie Watson and Steve White. James Wright (MOLA) provided invaluable guidance and references on late medieval and Tudor building constructional techniques. The post-excavation programme was managed by David Bowsher and Nicola Powell. Studio photographs are by Andy Chopping; the figures for this article were prepared by Carlos Lemos and Judit Peresztegi.",
+        "page_numbers": [
+          27,
+          28
+        ]
+      },
+      {
+        "text": "njeffries@mola.org.uk",
+        "page_numbers": [
+          28
+        ]
+      }
+    ],
+    "NOTES": [
+      {
+        "text": "$^{1}$ London Archaeological Archive, http://www.museumoflondon.org.uk/collections-research/laarc/ (accessed 7 April 2016).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "3 Locating London's Past, http://www.locatinglondon.org/static/MappingMethodology.html (accessed 21 May 2013); 'Locating London's Past' was funded by JISC e-content programme 2011.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "4 Goldsmiths' Company: John Ward's survey of Goldsmiths' Company property, map no. 9, c.1692.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{6} $ This research programme was funded by the Arts and Humanities Research Council (AHRC) (RG/AN4417/APN16429).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{7} $ The physical properties include the diameter, weight and reverse axis (Ax) - identified as the number on a clock face - and wear: reverse axis is not always apparent in the case of illegible specimens; wear - a useful criteria for determining the length of circulation - is a difficult and often subjective value, and in cases of severe corrosion, let alone illegibility, cannot be determined. Nevertheless, wear is based on fig 3 in Brickstock (2004, 6), albeit listed as in descending order from A.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{8} $ Museum of London (MOL) catalogue nos A22195 and 96.66/913.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "9 London Metropolitan Archives (LMA) Land Tax MS 11316, [vol] $ ^{*} $ 31 ii: vol 31, 1709 (1709-9/10 ii). All volumes are from the Guildhall Library Manuscripts folder, City of London Land Tax Assessment books (organised by ward and street); those denoted $ ^{*} $ for ward of Farringdon within (from 1703, ii Candlewick to Farringdon within) and volumes denoted $ ^{**} $ in the ward of All Hallows Bread Street (from 1703, i Aldersgate within to Bread Street); www.ancestry.com (accessed January 2014).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{10} $ LMA, MS 11316, [vols $ ^{*} $ ] 43-52 ii: vols 43-52, 1713-16 (1713-13/14 ii - 1716-16/17 ii). A goldsmith with this name is noted earlier in another property under the sign of the Spotted Dog at 'Cheapside, over against Foster Lane' in 1707-13 (Grimwade 1990, 80).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{11} $ LMA, MS 11316, [vols $ ^{*} $ ] 67-88 ii: vols 67-88, 1721-8 (1721-21/2 ii - 1728-28/9 ii). Fifteen letters were written 1715-20 from Richard Barrett to his brother Joseph Barrett, a goldsmith in Cheapside (Beinecke Rare Book and Manuscript Library, Yale University Library OSB MSS 89, http://brbl-dl.library.yale.edu/vufind/Record/3831784 (accessed June 2015)). $ ^{12} $ LMA, MS 11316, [vol $ ^{*} $ ] 94 ii: vol 94, 1730 (1730-30/1 ii).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{13} $ LMA,MS11316,[vols*] 109-21 ii:vols 100- 21,1732-9(1732-32/3ii-1739-39/40ii).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{14} $ LMA,MS 11316,[vols*] 127-84 ii:vols 127- 84,1741-60 (1741-41/2 ii - 1760-60/1 ii).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{15} $ See also glass curated by MOL, accession no. 21455.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{1 6} $ LMA,MS11316,[vols**] 1-69 i: vols 1-69, 1692-1722 (1692-3-1722-22/3 i).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{1 7} $ LMA,MS11316,[vols**] 93-135 i: vols 93- 135,1730-44 (1730-30/1 i-1744-44/5 i).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{1 8} $ LMA, MS 11316, [vols**] 144-71 i: vols 144- 71, 1747-56 (1747-47/8 i - 1756-56/7 i).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "$ ^{19} $ LMA, MS 11316, [vols**] 100-15 i: vols 93- 135, 1730-44 (1730-30/1 i - 1744-44/5 i).",
+        "page_numbers": [
+          28
+        ]
+      }
+    ],
+    "BIBLIOGRAPHY": [
+      {
+        "text": "Akerman, J Y, 1853 Tradesmen's Tokens Current in London and its Vicinity Between the Years 1648 and 1672, London\nApple, R, 2010 'Jewish lodges' OzTorah, http:// www.oztorah.com/2010/02/jewish-lodges/ (accessed November 2013)\nAtkinson, D R, & Oswald, A, 1969 'London clay tobacco pipes' J Brit Archaeol Assoc 32, 171-227\nBell, W G, 1923 The Great Fire of London, London\nBetts, I, & Weinstein, R I, 2010 Tin-Glazed Tiles from London, London\nBlair, I, & Watson, B, with Pearce, J, 2013 'The Great Fire of London: Ivor Noel Hume's investigation of the 17th-century material culture of the metropolis' in E Klinghofer (ed) A Glorious Empire Archaeology and the Tudor-Stuart Atlantic World, Oxford, 106-18\nBloice, B, 1971 'Norfolk House, Lambeth: excavations at a delftware kiln site, 1968' Post-Medieval Archaeol 5, 99-159\nBrickstock, R J, 2004 The Production, Analysis and Standardisation of Romano-British Coin Reports, Swindon\nBrigham, T, Dyson, T, & Watson, B, 2010 'Saxo-Norman, medieval and post-medieval development at Regis House, London, EC4' Trans London Middlesex Archaeol Soc 60, 89-130\nBritton, F, 1987 London Delftware, London\nBritton, F, 1990 'The Pickleherring potteries: an inventory' Post-Medieval Archaeol 24, 61-92 Burch, M, & Treveil, P, with Keene, D, 2011 The Development of Early Medieval and Later Poultry and Cheapside, Excavations at 1 Poultry and Vicinity, City of London MOLA Monograph Series 38, London\nDavey, P, 1997 Clay Pipes from Bolsover Church unpub report\nDavey, W, & Walker, H, 2009 The Harlow Pottery Industries Medieval Pottery Research Group Occasional Paper 3, London\nDickinson, M J, 2004 Seventeenth Century Tokens of the British Isles and Their Values, London\nDivers, D, 2004 'Excavations at Deptford on the site of the East India dockyards and the Trinity House almshouses, London' Post-Medieval Archaeol 38, 17-132\nDumbrell, R, 1983 Understanding Antique Wine Bottles, Woodbridge\nEgan, G, 2009 'The post-Roman accessioned finds' in Saxby 2009\nElsden, N, 2002 Excavations at 25 Cannon Street, City of London: From the Middle Bronze Age to the Great Fire MoLAS Archaeology Studies Series 5, London\nFaithorne & Newcourt, 1658 'An Exact Delineation of the Cities of London and Westminster and the suburbs thereof together with the Borough of Southwark' reproduced in H Margary A Collection of Early Maps of London (1981) Margary in assoc Guildhall Library, Kent\nForsyth, H, 2003 The Cheapside Hoard, London\nForsyth, H, 2013 The Cheapside Hoard: London's Lost Jewels, London\nGaimster, D, 1997 German Stoneware 1200-1900: Archaeology and Cultural History, London\nGreen, C, 1999 John Dwight's Fulham Pottery: Excavations 1971-79 English Heritage Archaeology Report 6, London\nGrey, T, 2009 'The clay tobacco pipes' in Saxby 2009\nGrimwade, A G, 1990 London Goldsmiths 1697-1837: Their Marks and Lives, London\nHarding, V, with Barker, P, Davies, M, Merry, M, Newton, G, Myhill, O, & Smith, R, 2008 People in Place, Families, Households and Housing in Early Modern London, London\nHiggins, D A, & Davey, P, 1994 Draft Guidelines for using the Clay Tobacco Pipe Record Sheets unpub report\nHorwood, R, 1813 (1799) 'Plan of the Cities of London and Westminster, the borough of Southwark, 3 edn' reproduced in H Margary The A-Z of Regency London (1985), Kent\nHurst, J G, Neal, D S, & Beuningen, H J E van, 1986 Pottery Produced and Traded in North-West Europe 1350-1650 Rotterdam Papers 6, Rotterdam\nJeffries, N, 2009 'The post-Roman pottery' in Saxby 2009 Jeffries, N, & Wroe-Brown, R, 2015 'Material evidence from the Great Fire: burnt artefacts discarded in a well in Philpot Lane, City of London' London Archaeol 14, 59-63\nJeffries, N, Featherby, R, & Wroe-Brown, R, 2014 \"Would I were an alehouse in London!\": a finds assemblage sealed by the Great Fire of London from Rood Lane, City of London' Post-Medieval Archaeol 48, 261-84\nKeene, D, 1990 'The character and development of the Cheapside area: an overview' in Schofield et al 1990, 178-93\nKeene, D, 2000 'London from the post-Roman period to 1300' in D M Palliser (ed) The Cambridge Urban History of Britain: Vol 1, 600-1540, Cambridge, 187-216\nKeene, D, & Harding, V, 1987 Historical Gazetteer of London before the Great Fire: 1, Cheapside, Cambridge\nKent's Directory, 1740 Rootsweb, http://freepages. history.rootsweb.ancestry.com/ (accessed June 2015)\nLittledale, W A, (ed) 1902 The Registers of St. Vedast, Foster Lane, and St. Michael Le Quern, London: Vol. I, Christenings Harleian Society Registers, no place\nLittledale, W A, (ed) 1903 The Registers of St. Vedast, Foster Lane, and St. Michael Le Quern, London: Vol. II, Marriages and Burials, London\nLocating London's Past, 2011 www.locating london.org (accessed 13 May 2013)\nLoth, C, 2011 'Flemish bond: a hallmark of traditional architecture' The Classicist [blog], http://blog.classicist.org/?p=3931#_edn1 (accessed October 2013)\nLyman, RL, 1994 Vertebrate Taphonomy, Cambridge\nMedieval Pottery Research Group, 1998 A Guide to the Classification of Medieval Ceramic Forms Medieval Pottery Research Group Occasional Paper 1, London\nMoLAS, 2005 One New Change, an Archaeological Evaluation Report unpub MoLAS report\nMoLAS, 2007 One New Change, London EC4, City Of London: An Archaeological Evaluation Report unpub MoLAS report\nNenk, B, with Hughes, M, 1999 'Post-medieval redware pottery of London and Essex' in G Egan & R L Michael (eds) Old and New Worlds: Historical/Post-Medieval Archaeology Papers from the Societies' Joint Conferences at Williamsburg and London 1997, Oxford, 235-45\nNoel Hume, I, 1961 'The glass wine bottle in Colonial Virginia' J Glass Stud 3, 90-117\nNoel Hume, I, 1969 A Guide to Artefacts of Colonial America, New York\nNoel Hume, I, 1977 Early English Delftware from London and Virginia Colonial Williamsburg Occasional Papers in Archaeology 2, Williamsburg Noël Hume, I, 1991 (1970) A Guide to Artifacts of Colonial America, New York\nOgilby, J, & Morgan, W, 1676 'Large and Accurate Map of the City of London' reproduced in H Margary 'Large and Accurate Map of the City of London' by John Ogilby and William Morgan, 1676 (1976) Margary in assoc Guildhall Library, Kent\nOrton, C R, 1988 'Post-Roman pottery' in P Hinton (ed) Excavations in Southwark 1973-6, Lambeth 1973-9 Joint Publication of London and Middlesex Archaeological Society/Surrey Archaeological Society 3, London, 295-364\nOswald, A, 1975 Clay Pipes for the Archaeologist British Archaeological Reports (British Series) 14, Oxford\nPearce, J, 2007 Pots and Potters in Tudor Hampshire, London\nRocque, J, 1746 'A Plan of the Cities of London Westminster and Southwark with contiguous buildings from an actual survey' by John Rocque, reproduced in H Margary (ed) 'An Exact Survey of the City's of London Westminster ye Borough of Southwark and the Country near 10 Miles Round London' [and] 'A Plan of the Cities of London and Westminster and Borough of Southwark with the Contiguous Buildings from an Actual Survey' by John Rocque in 1746 (1971) Margary in assoc Guildhall Library, Kent\nSalzman, L F, 1952 Building in England Down to 1540: A Documentary History, Oxford\nSaxby, D, 2009 1 New Change London EC4, City of London: A Post-Excavation Assessment and Updated Project Design unpub MOLA report Saxby, D, in prep 'The Roman, Saxo-Norman and medieval discoveries at One New Change, Cheapside'\nSchofield, J, 1987 The London Surveys of Ralph Treswell London Topographic Society Publication 135, London\nSchofield, J, Allen, P, & Taylor, C, 1990 'Medieval buildings and property development in the area of Cheapside' Trans London Middlesex Archaeol Soc 41, 39-327\nStow, J, 1908 (1603) A Survey of London 2 vols (reprinted 1971) C L Kingsford (ed), Oxford\nSvensson, L, Mullarney, K, & Zetterstrom, D, 2009 Collins Bird Guide, London\nTyler, K, Betts, I, & Stephenson, R, 2008 London's Delftware Industry MOLA Monograph Series 40, London\nWatson, S, in prep Urban Development in the North-West of Londinium, Excavations at 120-122 Cheapside to 14-18 Gresham Street, City of London, 2005-7 MOLA Archaeology Studies Series 33, London\nWeinreb, B, & Hibbert, C, 1983 The London Encyclopedia, London\nWheeler, A, 1979 The Tidal Thames: The History of a River and its Fishes, London\nWhite, S, 2009 'The building material' in Saxby 2009\nWillmott, H, 2002 Early Post-Medieval Glass in England, 1500-1670 Council for British Archaeology Research Report 132, York",
+        "page_numbers": [
+          28,
+          29,
+          30
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        1
+      ],
+      "captions": [
+        "Fig 1. Site and trench location (City of London scale 1:50,000,site plan 1:5000)"
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Fig 2. Detail from a watercolour copy by SH Grimm, 1785, of a lost Tudor painting showing Edward VI riding through Cheapside in 1547 (C Society of Antiquaries of London)"
+      ]
+    },
+    {
+      "page_numbers": [
+        5
+      ],
+      "captions": [
+        "Fig 3. Faithorne and Newcourt's 1658 map showing south-west Cheapside Fig 4. Scene in Cheapside during the visit in 1638 of Marie de Medicis, mother of Henrietta Maria. This engraving by James Basire, 1775, presents a view of Cheapside's south-facing frontage, looking east towards Poultry with the Great Conduit on the right (reproduced courtesy of London Metropolitan Archives, City of London, Collage q2823993)"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Fig 5. (top) Site plans presenting the principal pre-Fire archaeological land-use entities discussed in the text. below) Site plans superimposed on (middle) Ogilby and Morgan's map of 1676 and (lower) John Ward's survey of Goldsmiths' Company property, map no. 9, c.1692, with property numbers added in 1738 (reproduced courtesy of The Goldsmiths' Company) (site plans scale 1:500, historic maps 1:1200)"
+      ]
+    },
+    {
+      "page_numbers": [
+        7
+      ],
+      "captions": [
+        "Fig 6. View of cellar (B38) in Star Court during excavation, looking west. Medieval wall [1471] is in the foreground with brick wall [1368] adjacent to the right. Walls [1214] and [2329] have been removed at this point of the excavation"
+      ]
+    },
+    {
+      "page_numbers": [
+        8
+      ],
+      "captions": [
+        "Fig 7. Frechen stoneware (FREC) Bartmann jug fragment <P1> bearing an unusual face mask medallion design, from [1325], floor joist in Building 38 (scale 1:2)"
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "captions": [
+        "Fig 8. Early 17th-century brick cellar (B34) during excavation, looking south-west"
+      ]
+    },
+    {
+      "page_numbers": [
+        10
+      ],
+      "captions": [
+        "Fig 9. London tin-glazed ware with plain white glaze (TGW C) chamber pot $ < P 2 > $ , from [897], the fill of Building 34 (scale 1:4)"
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "captions": [
+        "Fig 10. Medieval cespit (S10) during excavation looking north. The later dividing wall (S15) has been removed during excavation"
+      ]
+    },
+    {
+      "page_numbers": [
+        14
+      ],
+      "captions": [
+        "Fig 11. Stone-built cellar (S19) during excavation, looking south-east (0.5m scale)"
+      ]
+    },
+    {
+      "page_numbers": [
+        15
+      ],
+      "captions": [
+        "Fig 12. Apothecary vessels: London tin-glazed ware with plain white glaze (TGW C) ointment pot <P3> (height 21mm) and cylindrical jar <P4>, from [4], the fill of Structure 20"
+      ]
+    },
+    {
+      "page_numbers": [
+        16
+      ],
+      "captions": [
+        "Fig 13. Frechen stoneware (FREC) Bartmann jug $ < P 5> $ (height 215mm) with applied rosette medallion and Chinese blue and white porcelain (CHPO BW) rounded bowl fragment $ < P 6> $ , both from [4], the fill of Structure 20"
+      ]
+    },
+    {
+      "page_numbers": [
+        17
+      ],
+      "captions": [
+        "Fig 14. Bone knife $ < S1 > $ , from [4], the fill of Structure 20 (scale 1:1)"
+      ]
+    },
+    {
+      "page_numbers": [
+        19
+      ],
+      "captions": [
+        "Fig 15. The Church of St Mary Le Bow, Cheapside, view looking east. Engraving by Thomas Bowles, 1738 (Crown copyright: UK Government Art Collection)"
+      ]
+    },
+    {
+      "page_numbers": [
+        20
+      ],
+      "captions": [
+        "Fig 16. (top) Site plans presenting the principal post-Fire archaeological land-use entities discussed in the text. (below) Site plans superimposed on (middle) Ogilby and Morgan's map of 1676 and (lower) John Ward's survey of Goldsmiths' Company property, map no. 9, c.1692, with property numbers added in 1738 (reproduced courtesy of the Goldsmiths' Company) (site plans scale 1:500,historic maps 1:1200)"
+      ]
+    },
+    {
+      "page_numbers": [
+        23
+      ],
+      "captions": [
+        "Fig 17. Cesspit (S28) during excavation, looking east (0.5m scale)"
+      ]
+    },
+    {
+      "page_numbers": [
+        24
+      ],
+      "captions": [
+        "Fig 18. One of three matching Chinese blue and white porcelain (CHPO BW) plates, <P7>, from [36], the fill of Structure 28 (scale 1:4)",
+        "Fig 19. Mallet-shaped bottle $ < G1> $ (height 240mm), onion-shaped bottle $ < G2> $ and London stoneware (LONS) tankard $ < P8> $ , from [36], the fill of Structure 28"
+      ]
+    }
+  ]
+}

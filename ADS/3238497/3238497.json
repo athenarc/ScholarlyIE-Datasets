@@ -1,0 +1,464 @@
+{
+  "document_title": "Viking Age Repton: Strontium evidence for the mobility and identity of the channel dead",
+  "abstract": "In the 1970s and 80s, Archaeological excavations around St Wystan's Church in Repton revealed evidence of the 873 AD Viking Great Army winter camp, along with a number of burials with Scandinavian-type gravegoods. A channel underneath a low mound in the Vicarage garden contained the disarticulated remains of at least 264 individuals, proposed to have been associated with the Great Army's presence in Repton. Here, strontium isotope analysis is used on burials from Repton to investigate geographical origins. The results show diverse origins among those buried in the channel, consistent with locations across north-western Europe.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "Catrine Jarman, Martin Biddle, Paul Fullagar, and Mark Horton According to the Anglo-Saxon Chronicle, in 865 AD, the Viking Great Army first appeared in England, proceeding to raid and seek political conquest in the Anglo-Saxon kingdoms for a decade or so (Swanton 2000). Between 1974 and 1992, excavations around St Wystan's Church in Repton, Derbyshire (Figure 1) uncovered evidence for the 873-4 AD Great Army winter camp in the form of a large defensive enclosure and several furnished graves with Scandinavian grave goods (Biddle and Kjolbye-Biddle 1992; 2001). The excavators also found a channel deposit containing the commingled remains of at least 264 individuals under a mound in the Vicarage garden to the west of the church, inside the cut-down and deliberately destroyed remains of an Anglo-Saxon building, likely part of the monastery established at Repton in the late 7th century (Figure 2). The burial mound incorporated desecrated Anglo-Saxon carved stonework (Biddle 2019), whilst Viking artefacts and coins datable to 872-875 AD were found within the skeletal deposit. This associated the mound with the Viking presence in Repton, as the Anglo-Saxon Chronicle places the Great Army's winter camp there in 873 AD (Swanton 2000). The Great Army was a large, composite force likely numbering in the thousands, which used a strategy of seasonal raiding on Anglo-Saxon territories (see e.g. Hadley et al. 2016).",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "Although early radiocarbon dates from the channel seemed to suggest that some of remains dated to the 7th and 8th centuries AD (Biddle and Kjolbye-Biddle 2001), it has now been proven by Jarman et al. (2018) that those seemingly early date determinations were affected by marine reservoir effects. This is a process whereby marine food consumption can cause radiocarbon dates to seem artificially too old because carbon in oceans, which is passed through the food chain into human tissues, is on average 400 years older than that from terrestrial sources (see e.g. Ascough et al. 2012). Correcting for this, it can now be shown conclusively that the channel remains are all consistent with a date in the late 9th century (Jarman et al. 2018). Nevertheless, although the burial deposit as a whole and a number of the individual graves are consistent with a Viking attribution, it is still unclear whether the remains belong to individuals of Scandinavian origin. Further, although Biddle and Kjolbye-Biddle (2001)",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "proposed that several among the burial populations contemporary with, and subsequent to, the Great Army camp may have had Scandinavian origins or associations, this has to date not been possible to prove This paper aims to investigate the extent of mobility among the Repton dead and specifically whether the charnel remains and the burials around the chancel could be consistent with a migrant Scandinavian population. Further, the paper aims to investigate whether these new data can provide further support for the hypothesis that the Repton channel and individual graves contain members of a Great Army population.",
+        "page_numbers": [
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The area around St Wystan's Church appears to have been used for monastic burial from the late 7th century and up until the suppression of the Augustinian priory in 1538, and the graveyard around the church is still in active use today. During the excavations in the 1970s and 80s, Biddle and Kjolbye-Biddle assigned graves to cemeteries representing temporally or spatially distinct phases of use. Cemetery 1 contains graves dating from the late-7th to the early-8th century and Cemetery 2 graves date from the mid-8th century to 873 AD. Cemetery 3 encompasses graves dating from the Viking winter camp of 873 AD until the 12th century, and includes a number of individuals thought to be associated with the Great Army: among these are the double graves of G511 and G295, where the former was buried with a Scandinavian-type sword, a Thor's hammer pendant and several other artefacts; and grave G529, who was buried with a finger ring of a Scandinavian style and coins dating to 873-875 AD. A subdivision of Cemetery 3, entitled Cemetery 3M, relates to a distinct set of burials located to the west of St Wystan's church, cut directly into and around the channel mound.",
+        "page_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "Recently, the addition of isotope analysis to the repertoire of bioarchaeological analysis of human remains has provided an unprecedented opportunity to better understand mobility. The method offers a means to identify first-generation migrants in the archaeological record, whereby the use of strontium isotope analysis, in particular, has been hugely successful (e.g. Bentley 2006; Groves et al. 2013; Haak et al. 2008). Isotopes of strontium (Sr) are found naturally in most rocks and minerals, and the ratio of two of these, $ ^{87} \\mathrm{Sr} $ and $ ^{86} \\mathrm{Sr} $ (expressed as $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ ) is dependent on a rock type's geological age and chemistry. This means that older rocks, such as granites, usually have higher ratios (typically above 0.710) than recently formed rocks such as basalts (ratios typically below 0.704) (Bentley 2006; Budd et al. 2004). As rocks weather and decay into soils and sediments, the $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ ratio of the initial rock remains essentially unaltered.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "Through biological processes, these strontium ratios then enter the food chain (Figure 3). In human and animal tissues, strontium substitutes for calcium (Bentley 2006; Chesson et al. 2012), meaning that bone and teeth reflect the geology of a geographic region where the ingested food and ground water originated. This means we can compare Sr ratios in an individual's tissues with values expected from a particular region to assess whether he or she is likely to have resided there during the period in which the tissue was formed. Tooth enamel is particularly suited for investigating mobility because once formed, enamel does not alter during the lifetime of the individual. Thus, isotope ratios incorporated from food during tooth development preserve a lifelong signature of childhood residence locations. Enamel is also highly resistant to diagenesis, meaning that the strontium values are relatively unaffected by changes caused by the burial environment.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "Although strontium isotope ratios are largely dependent on the underlying geology, matching measured strontium ratios in, for instance, tooth enamel to a specific geographic area is not always a straightforward exercise. A number of factors can affect strontium isotope ratios in food sources: e.g. seawater through sea-spray, consumption of marine foods, or use of seaweed as a food or fertiliser (Evans et al. 2010, 2; Price et al. 2015). For meaningful interpretations of strontium isotope data from a burial population, it is common practice to establish a baseline $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ ratio for the local region. This can be done in a number of ways: by analysing local soils (Budd et al. 2004); through analysis of animals with limited foraging range that are likely to have consumed food sources from the local region (e.g. Bentley 2006); or by analysing dentine from teeth, as this is likely to be diagenetically altered and therefore representative of the burial environment (Budd et al. 2000; Trickett et al. 2003; Trueman et al. 2004). Considerable work has been carried out on archaeological material over the past two decades, resulting in relatively well determined strontium reference values and baseline maps from Britain (Evans et al. 2010) and elsewhere in northern Europe (Frei and Price 2012; Price et al. 2015; Price and Gestsdóttir 2006; Price and Naumann 2015).",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "An early pilot study by Budd et al. (2004) analysed strontium and oxygen isotope ratios in skeletal remains from Repton. Oxygen isotope analysis provides similar evidence to strontium isotopes, but is reflective of variation in drinking water caused by factors including climate, altitude, and distance from the sea. The study showed that the two individuals in the double burial （G511/G295）displayed values inconsistent with the local region but compatible with origins either in parts of southern England, northern France, the Low Countries, or the west coast of Denmark. Four individuals from the channel were also analysed, yielding mixed values and diverse origins consistent with either places in the UK or north-western Europe. The oxygen data suggested that some originated in colder climates, with the Baltic as a possible origin for skull X17 from the Repton channel. However, a more recent reappraisal of these data has shown that these conclusions are problematic, as they relied on inaccurate conversions between measured oxygen values and drinking water equivalents, meaning that other locations, such as inland Norway for X17 must also be considered (Jarman 2018). To better understand the Repton material and the evidence for mobility, new strontium isotope analyses were carried out to address these questions.",
+        "page_numbers": [
+          4,
+          5
+        ]
+      }
+    ],
+    "Material and methods": [
+      {
+        "text": "For this study, 50 individuals were sampled for strontium isotope analysis (Table 2). Twelve of these were from the channel deposit. All samples were taken from unique skulls or mandibles to ensure separate individuals were studied. In addition, individuals thought to predate 873 AD (Cemeteries 1 and 2, n=4 and n=2 respectively), from 873 AD onwards (Cemetery 3, n=22), from the late $ 1 2^{th} $ to the early 16th century (Cemetery 4, n=2), and from the late 9th or early 10th century burials cut directly into the channel mound (Cemetery 3M, n=9) were sampled. Where possible, second molars were sampled to ensure isotopic values measured relate to the postweaning period, i.e. to ensure that the strontium in the enamel came entirely from the individual's independent diet and not their mothers' tissues during breastfeeding (see Table 2 for details). Second molars are thought to form between the ages of two and twelve years of age, thus formation begins after infants are likely to be weaned (Schroeder et al. 2009). However, in several cases this was not possible if the tooth was unavailable or damaged. Nonetheless, all samples represent teeth formed in childhood.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "Ethical approval for research on these remains was sought and granted from the University of Bristol Committee for Research Ethics in 2012.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "All teeth were cleaned of any visible adhering debris with ultraclean MilliQ water and/or a scalpel, followed by gentle abrasion of the enamel surface using a fine dental burr. A vertical section of enamel was then cut using a diamond-edged cutting disc attached to a rotary drill, and all adhering dentine was removed mechanically and the enamel was cleaned in MilliQ water. Aliquots of 8-10mg were analysed at the University of North Carolina (UNC) Department of Geological Sciences. Standard strontium isotope geochemistry procedures (see Dickin 2005; Faure and Mensing 2005) were used to separate strontium from enamel: Samples were dissolved in nitric acid, and strontium was separated for analysis using Teflon cation-exchange columns containing Eichrom Sr-Spec resin. A VG (Micromass) Sector 54 mass spectrometer in dynamic multi-collector mode was used for the strontium analyses. Internal precision, expressed as percent standard error for the $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ isotopic ratio for each sample, was 0.0006 to 0.0009. Our analyses of strontium carbonate standard SRM 987, done during the time these Repton samples were analysed, give an average $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ ratio of 0.710260 $ \\pm $ 0.000014 (2 standard deviations). The Repton $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ ratios are reported relative to a value of 0.710250 for the SRM 987 standard (i.e., if $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ ratios for the 10- 15 standards analysed with each group of samples averaged 0.710260, then 0.000010 was subtracted from each sample $ ^{87}\\mathrm{Sr}/^{86}\\mathrm{Sr} $ ratio).",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "In order to provide a baseline reference range for Repton, one faunal sample from Trench 8 (cow) was analysed and used alongside data from an already published soil sample (Budd et al. 2004) and three dentine samples analysed previously (Table 1) (Jarman 2012), in accordance with common methodologies (Jarman 2018). Expected values for Repton were also obtained from predictive maps and the underlying geology.",
+        "page_numbers": [
+          5
+        ]
+      }
+    ],
+    "Results": [],
+    "Baseline values": [
+      {
+        "text": "The geology of southern Derbyshire is in general characterised by Triassic sandstones and soft red marls, with small layers of Carboniferous rocks beneath (Stroud 1999). More specifically, geological maps produced by the British Geological Survey (BGS) $ ^{1} $ show that in the area around Repton the bedrock consists of Triassic mudstones and sandstones, including areas of Helsby sandstone formation, Chester formation sandstone, and Tarporley siltstone. The floodplain to the north of St Wystan's church is largely overlain with superficial deposits of Hemington member silt and gravel. Further to the south, outcrops of Coal Measures can be found, and to the north-east, outcrops of millstone grit.",
+        "page_numbers": [
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The dentine samples reflecting local conditions yielded strontium isotope ratios of 0.71084 to 0.71174 and the faunal sample R901 a value of 0.71168. Combining all of these values with the soil sample measured by Budd et al. (2004), gives an average local value of 0.71150 for Repton (Table 1). Following the recommendations of Lightfoot and O'Connell (2016),",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "an estimated local range, i.e. a range into which any individuals growing up locally should fall, can be produced using 1.5 times the interquartile range from these samples. For Repton, this is 0.71123-0.71203. This is higher than expected from the predictive map produced by Evans et al. (2010), but likely reflects local variation as areas nearby on the reference map fall in the 0.711-0.712 range.",
+        "page_numbers": [
+          6
+        ]
+      }
+    ],
+    "Overall results": [
+      {
+        "text": "The full isotope dataset of the human remains is presented in Table 2, and as a bar chart in Figure 4. The data here also include the values published by Budd et al. (2004); those samples are reported with a suffix of D. Overall, the $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ of human enamel samples from Repton show a very wide range from a minimum value of 0.70925 (R295), to a maximum of 0.71439 (R410). The wide variety of values is also reflected in a relatively high standard deviation of 0.00113. When using the local range defined above, this yields a total of 37 non-local individuals, or 66% of all those sampled. These outsiders fall both above and below the Sr values defining the local region. There are no clear clusters apparent in the overall results, with the exception of a somewhat larger group of individuals plotting in the 0.7090 to 0.7100 range.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "As detailed osteological data from this material are yet to be published $ ^{2} $ , the material will only be categorised as 'adult' or 'child' here, whereby the former include individuals approx. $ \\geq 1 8 $ years of age and the latter $ \\leq 1 7 $ years of age. Figure 4 shows a bar chart of the full dataset divided by age category. This shows that of the six children sampled from all cemeteries, five (83%) plot in the defined local range, meaning that the majority of children therefore have values consistent with local origins. Of those adults where the sex has been determined (n=36), 10 are female, and 26 are male. A non-parametric Mann-Whitney test was performed on the dataset to investigate differences in isotope values between male and female samples, yielding a p-value 0.02391 (W=183). This demonstrates statistical significance at a 0.05 level, meaning that the observed difference is unlikely to have occurred by chance and instead reflects a genuine difference in the dataset. Both the mean and median strontium values for women are elevated relative to men, with the latter clustering towards the lower end and below the 'local' values. There are a relatively higher proportion of non-local men (77%) than women (60%).",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "Pre-Viking burials": [],
+    "Cemetery 1 (7th-8th century AD)": [
+      {
+        "text": "The three measured samples from the earliest cemeteries at Repton and the Budd et al. (2004) result for R097 range in values from 0.711245 for R409 to 0.712768 for R410. The average strontium ratio is 0.711949 and standard deviation 0.000627. Only one of these individuals, R410, plots marginally outside the local range. Both the two juveniles (R97 and R409) have strontium isotope values consistent with a childhood in the local region. The younger of these two, R409, is a child aged c. 3-4 years old.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "The $ ^{8 7} \\mathrm {S r} /^{8 6} \\mathrm {S r} $ ratio for R410 could fit with a number of locations with more radiogenic bioavailable strontium than Repton. In Britain, this would most likely be certain parts of Scotland, Wales, or Cornwall. Values above 0.7125 are, however, also common in inland Scandinavia (particularly Norway and parts of Sweden), and other parts of continental Europe. It is not possible to narrow this down to one unique location.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "With a small number of samples and only one adult individual in this cemetery with a secure sex determination, no meaningful comparisons between the sexes can be made.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "Cemetry 2 (8th century-873 AD)": [
+      {
+        "text": "The three samples from Cemetery 2 ranged in Sr isotope values from 0.709387 for R043, to 0.712034 for R146. The average $ ^{87} \\mathrm{Sr}/^{86} \\mathrm{Sr} $ ratio is 0.710647 and standard deviation 0.00133. The only individual who fits with the local region (albeit near the upper limit) is R146. The other two have values with lower $ ^{87} \\mathrm{Sr}/^{86} \\mathrm{Sr} $ ratios. Such values are common across central and southern England, and can also be found in parts of Scotland. They are also common in southern Scandinavia and parts of continental Europe. Insufficient osteological data precludes any further analysis on the basis of age or sex from this cemetery.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "Post-873 AD burials": [],
+    "Cemetery 3 (873 to 12th century AD)": [
+      {
+        "text": "Overall, the 22 individuals sampled from Cemetery 3 display a very broad range of values, from a minimum of 0.70925 for R295 and a maximum of 0.71432 for R433. The mean Sr ratio is 0.711574, the median 0.711632, and the standard deviation 0.00136.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "Only six individuals fall within the local range, with the remaining 16 yielding values both above and below this range. Cemetery 3 contains the individual with the second highest value of all the samples from Repton: R433 with a Sr ratio of 0.714319. There are also a further three individuals with values above 0.713 (R512, R515, and R198). Values above 0.713 are very rare in the UK, and only appear to be found in areas in the far north of Scotland according to the Evans et al. (2012) dataset. They are, however, common in regions with more radiogenic geology, which includes inland Norway and parts of Sweden.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "There is a cluster of four individuals with values between 0.709 and 0.710, a range which is clearly not consistent with the local region. Importantly, this includes individuals R511 and R295 in the double grave, whose samples yielded $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ values of 0.70974 and 0.70925 respectively. Both results are close to those from the same individuals measured previously by Budd et al. $ (2004)^{3} $ , which were reported as 0.709597 and 0.708979 respectively.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "Of the four juveniles in Cemetery 3, three fit within the local range and are therefore consistent with local origins. Of these three, two are infants aged c.1 and c. 2.5 years, and the third a child aged 11-15 years old. The fourth juvenile (R425), aged approx. 7-10 years old, yielded a Sr ratio of 0.71011, which is lower than expected for the immediate local region but relatively common in western areas of central England.",
+        "page_numbers": [
+          8,
+          9
+        ]
+      },
+      {
+        "text": "There are three female individuals identified in this dataset, and 12 males. The range of values for the females in particular shows a very wide spread. A Mann- Whitney non-parametric test confirms no statistically significant difference in isotopic ratios between the sexes (p= 0.8396, W = 20), and a T-test assuming unequal variances (variance test F=0.4475, p=0.3067) gives a similarly high p-value (p=0.8352, T=-0.2309). Hence, it does not appear that there are any systematic differences between the sexes in this cemetery.",
+        "page_numbers": [
+          9
+        ]
+      }
+    ],
+    "Charnel (late 9th century AD)": [
+      {
+        "text": "Enamel samples from 12 individuals from the channel were sampled, with a further four sample values available from Budd et al. (2004). These yielded $ ^{87}\\mathrm{Sr} / ^{86}\\mathrm{Sr} $ data ranging from a minimum value of 0.70960 for X53, to a maximum value of 0.71299 for X15. The average value is 0.71138, and the standard deviation 0.00115. These values are shown graphically in Figure 5, which also shows that five of these individuals fit immediately within the local range. The remaining individuals fall both above and below the local range, with no clear clusters. It therefore appears these originate from a variety of locations. However, it is notable that a number of individuals plot in the 0.7095 to 0.7101 range, in which a number of burials in Cemetery 3 also plot. This range of values is widespread across north-western Europe, making it impossible to pinpoint definite origins; this is discussed in more detail below. Figure 5 suggests the women sampled may have come from different geographical regions to most of the men, with none of the women yielding $ ^{8 7} \\mathrm {S r} /^{8 6} \\mathrm {S r} $ ratios below the local range. However, a non-parametric Mann-Whitney test between the sexes gave a p-value of 0.6667 (W = 19), which suggests this difference is not statistically significant at a 0.05 level. This may be due to the small number of female individuals with certain sex determinations (female=3, male=7, undetermined =6).",
+        "page_numbers": [
+          9
+        ]
+      }
+    ],
+    "Cemetery 3M (873-10th century AD)": [
+      {
+        "text": "For the nine individuals sampled from Cemetery 3M, the average $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ ratio is 0.711507, and the standard deviation is 0.00087. The individual values range from a minimum of 0.710323 to a maximum of 0.712795. Four individuals plot within the local range. Of the five non-local individuals, three fall in the 0.7103-0.7109 range, and the last two in the 0.7126-0.7127 range. The lower values are relatively common both in Britain and elsewhere in Europe, but the higher values less so; in the UK they can largely be found in Wales, Scotland, and parts of Cornwall, but they are also common in Norway and Sweden.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "The strontium isotope values of the individuals buried in Cemetery 3M appear to cluster in three groups; three individuals in a lower range of 0.7103 to 0.71095; four individuals close to the average local baseline value of 0.7115, and two individuals with values around 0.7127. It is therefore plausible that several of these individuals grew up in the local region.",
+        "page_numbers": [
+          9,
+          10
+        ]
+      },
+      {
+        "text": "Using a non-parametric Mann-Whitney test on isotope ratios between the sexes gave a p-value of 0.09524 (W=10), suggesting that there are no statistically significant differences between the sexes. However, as this dataset only contains two women and six men, the sample size is too small to determine whether this is a reliable representation of the entire population.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "Cemetery 4 (12th to 16th century)": [
+      {
+        "text": "Only two individuals were available for sampling from cemetery 4. These gave strontium ratios of 0.71172 (R100) and 0.71224 (R016), with the former therefore plotting within the local range.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "Discussion": [],
+    "Mobility in Repton": [
+      {
+        "text": "The high degree of variability observed in the samples from Repton is likely to be a reflection of the nature of the site. Because of Repton's high status in the early medieval period, the site is unlikely to have been used merely as a cemetery for the local population, but can be argued to contain a more select group instead. A similar example is the $ 7^{th}-9^{th} $ cemetery in Bamburgh Northumbria, where strontium isotope analysis demonstrated a high proportion of around 50% nonlocal individuals associated with the royal settlement at Bamburgh Castle, with immigrants originating from diverse locations including Scandinavia and the Mediterranean (Groves et al. 2013).",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The results from Repton should also be seen with some caveats on the material selection in mind, as it is unclear whether the results here are influenced by the relative lack of pre-Viking Age samples. From the limited available evidence from Cemeteries 1 and 2, which are both thought to date to the 7th-9th century monastic use of the site, there is also a range in $ ^{87}\\mathrm{Sr} / ^{86}\\mathrm{Sr} $ values, but with less diversity than the later cemeteries. For these cemeteries, all values observed are consistent with origins in England (see Figure 6); perhaps with the exception of R410, a woman with an $ ^{87}\\mathrm{Sr} / ^{86}\\mathrm{Sr} $ ratio of 0.71277. This relatively radiogenic value is more common in parts of Scotland and Wales than in central and southern England. However, as noted above, with such a small sample number and a lack of direct radiocarbon dates, broader conclusions should not be drawn from these data points. It is notable, however, that strontium isotope values above 0.7128, which are rare in England, can only be found in Cemetery 3 and the Charnel.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "There is a considerable degree of overlap in $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ values in Northern Europe, as illustrated in Figure 6, which is a significant problem for assessing mobility in the Viking World. As shown, the range of values found in Britain is not unique, and can equally be found in parts of Scandinavia and elsewhere on the continent. Montgomery et al. (2014) have pointed out that as much as around 80% of the currently published dataset for archaeological enamel samples in Britain and Ireland are found within the range of 0.7090 to 0.7110, which is a similar to what can be found elsewhere in Northern Europe. Hence, it is most helpful to use the method to rule in or out points of origin as possibilities, and to comment on the degree of heterogeneity within a group, rather than to pinpoint specific regions for certain geographical provenance. Analysis of different isotope data, such as oxygen or lead (Pb), from the same individuals is in progress, and it is hoped that this will help to further refine estimates. Nevertheless, meaningful inferences can be made from the current dataset.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "The identities of the Repton channel dead": [
+      {
+        "text": "Although several individuals (31% of those sampled) have values that can be consistent with the strontium isotope range expected for Repton, those with values of 0.710 and below are unlikely to have grown up in the local region. Four individuals from the channel have $ ^{87} \\mathrm{Sr} / ^{86} \\mathrm{Sr} $ values of 0.712 or above, with the female skull X15 yielding the highest value of 0.712989. In the British Isles, values above 0.712 are predicted to be most commonly found in parts of Scotland and Wales, and seem rare or unlikely from England where they appear to only be found in parts of Cornwall and Hereford (Evans et al. 2012; Evans et al. 2010). These higher values are also commonly found in inland Scandinavia, including Norway and Sweden (Price et al. 2015), as well as other regions in Europe with relatively more radiogenic geology. Based on the strontium evidence alone, it is not possible to give conclusive points of origins for the individuals sampled here. Similarly, due to the overlapping values in Northern Europe, it is not possible to prove whether these individuals were members of the Great Army. However, as it is also unclear what strontium values such a group would have, a comparison with other likely Viking army populations is helpful here.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "Recently, two mass graves have been excavated in England that are thought to be those of late 10th or early 11th century Viking army groups; a group of 51 decapitated men discovered at Ridgeway Hill in Weymouth (Chenery et al. 2014a; Chenery et al. 2014b), and 37 men in a mass grave at St John's College, Oxford (Pollard et al. 2012). A notable similarity is that the isotope data from both sites show a high degree of heterogeneity of geographical origins, with individuals whose childhoods were spent in regions at a considerable distance from their burial locations (Figure 7). If we accept the identification of these two mass burials as containing Viking Age military groups, this suggests that they contained individuals with disparate origins under a joint leadership as opposed to geographically constrained military units. This ties in with isotopic evidence from military sites elsewhere in Scandinavia such as at Harold Bluetooth's military cemetery in Trelleborg in Denmark, where strontium evidence showed a diverse group with a large number of non-local individuals (Price et al. 2011). This is also consistent with the historical understanding of the make-up and composition of Viking armies (Abrams 2014; Raffield et al. 2016). The results from the Repton channel thus fit well within this picture, making them consistent with a possible Great Army identification.",
+        "page_numbers": [
+          11,
+          12
+        ]
+      },
+      {
+        "text": "The question of why the remains in the channel had been moved and reinterred has been discussed by several authors (Biddle and Kjolbye-Biddle 2001; McLeod 2013; Richards et al. 2004), and most of this has centred on the reasons for incorporating bones of an earlier date within the channel. Although these earlier dates have now been shown to be incorrect (Jarman et al. 2018), the fact remains that the skeletons are not primary burials and therefore had been moved following an initial interment. If we now accept that all skeletons date to the late 9th century and could therefore be consistent with members of a Viking army, we need to consider why they were moved at all. New osteological information from recent analyses by Bob Stoddart has demonstrated that contrary to early reports, the channel bones do in fact show evidence of trauma, although the frequency with which these occur has not yet been determined (pers. comm.). This could make the Repton deposit consistent with a burial of battle dead exhumed from other locations.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "There are surprisingly few historical sources relating to treatment of the medieval war dead (Curry and Foard 2016), although this must have been a very significant issue. It is likely that the outcome of a battle would have impacted upon an army's ability to recover those who were killed or injured. There would also be practical concerns limiting the options for burial of the battle dead, especially whilst in territory where permanent ownership of land was not held. Temporary curation through burial may have occurred, for bones to be moved at a later date if possible. Cremation is a likely way to deal with battle dead, and this is supported in one of the stories of 12th century Saxo Grammaticus, who mentions cremation fires of large numbers of battle dead (Davidson 1979). According to Saxo, there may have been arrangements between chieftains before commencement of battle on the burial of the casualties of the defeated. In one example, the victor had an obligation to provide a proper funeral for his enemy along with their weapons and equipment (Richards et al. 2004:106). A recent survey of medieval sources on the burial of battle victims (Curry and Foard 2016) includes references to 15th century battles where the war dead were buried near the battlefield in shallow ditches; for instance at the Battle of Towton in 1461, where historical sources describe that Richard III exhumed remains of the dead from this battle more than 20 years later for reburial in consecrated ground (ibid).",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "Charnel burials of the kind from Repton are not known from any other locations in the Viking age, where a wide range of burial practices are observed, including This story emphasises both the idea that a proper (Christian) burial was significant, and also that the idea of defleshing corpses to facilitate movement was not unheard of at the time. This can further be taken to suggest that the bones, rather than the whole, complete body, could be significant. Another example is the Saga of Lik-Lodin, found in the Codex Flateyensis. Lik-Lodin (\"Corpse-Lodin\") according to the saga, lived in the 11th century and used to sail to search for the remains of victims of shipwrecks and hunting accidents, taking them home to Iceland for proper burial. It is thus fully possible that the movement of a large number of bones from a battlefield or temporary burial place to a more permanent location would fit in with Viking Age worldviews and practices seen elsewhere, although there is to date no evidence to suggest a Christian context of seeking burial in consecrated ground for the Repton charnel.",
+        "page_numbers": [
+          12,
+          13
+        ]
+      },
+      {
+        "text": "The presence of women in the Repton channel and their possible roles is a complex topic that is beyond the scope of this paper, but will be discussed in detail in a forthcoming article by C. Jarman. However, it should be noted here that the strontium data presented here cannot prove whether the men and women in the channel are from different geographical locations, in part due to the small sample size. Nevertheless, it is notable that one of the women (X15) displays an Sr value that is rare in England, suggesting she may well have migrated from areas with older geology. It is now thought that women accompanied the Great Army (Hadley et al. 2016:54), and although their roles within the Army are unclear, the recent discovery of a woman buried with weapons in Birka, Sweden (Hedenstierna-Jonson et al. 2017), opens for the possibility that Viking Age women also undertook military roles.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The construction of a mound on top of the channel is significant for understanding its importance. Mound burials are widely accepted as a common trait of Viking funerary rites (Price 2008; Solberg 2003), and one which was no longer in common use in 9th century England. The only contemporary location with funerary mounds on a large scale is at Heath Wood, near Ingleby, less than four miles away from Repton. Here, 59 barrows are situated on a hill overlooking the Trent, and excavation has revealed that the mounds cover cremation burials of a late 9th or early 10th century date, many of which contain Scandinavian artefacts (Richards et al. 2004). While the full interpretation of the Heath Wood cemetery and its relationship with Repton and the Great Army is currently unclear, it appears likely that the sites may have been created and used contemporaneously and possibly by the same group. This is important as it demonstrates the association of burial mounds with Scandinavian funerary rites, albeit with a contrast in the choice of cremation and inhumation. It should be noted here that such diversity in burial rite is common across the Viking Worlds (see e.g. Price 2008).",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Evidence from stone sculpture found in the Vicarage Garden suggests that the original use of the cut-down Anglo-Saxon building, into which the channel deposit was placed, was as a royal burial place (Biddle 2019). If this was the case, then the construction of the channel and burial mound may represent the deliberate destruction and repurposing of a prominent Mercian royal tomb into a Viking funerary monument. It is possible, and indeed likely, that the channel had an inscribed marker of some kind (Biddle and Kjolbye Biddle 2001). A grave containing four juveniles and a sheep jaw was located immediately to the south west of the outer kerb of the mound, and this appears to have held a marker. Similarly, the double-grave G511/G295 featured a square post-hole likely to have held a timber marker. This raises an important point. If both the mound and the double-grave held markers, the purpose of these must have been to communicate the identities of those buried there. In addition, several fragments of a carved stone cross-shaft were discovered in the stone cairn covering the double grave (Biddle 2019; Biddle and Kjolbye-Biddle 2001). Another cross-shaft fragment was recently discovered in a context relating to the Viking camp in the Vicarage garden, to the south of the channel mound, during excavations in 2016 directed by Catrine Jarman and Mark Horton. This suggests that such Christian emblems were specifically targeted (Biddle 2019) and possibly replaced by pagan equivalents.",
+        "page_numbers": [
+          13,
+          14
+        ]
+      },
+      {
+        "text": "The channel mound itself should be seen as a monument, interpreted within the framework of burial mounds elsewhere in the Viking worlds. The association between mounds and demarcations of power distribution and land ownership is well discussed (Gansum 1997; Gansum and Oestigaard 2004; Moen 2011). Burial mounds are often found in prominent locations, often in proximity to water or communication routes (e.g. as seen in Vestfold (Norway), Kaupang, and Birka). The original height of the Repton mound is unknown, but it may well have been visible from the River Trent. Torun Zachrisson (1994) argues that burial mounds relate to the concept of odal, or inherited land rights, as an explanation for why they are often seen on the outskirts of family farms. The permanence of both the mound and the grave markers implies an intention to remain and communicate control over the landscape, which should be seen in relation to Repton's role as an important royal and ecclesiastical centre prior to the arrival of the Great Army.",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Other Viking graves?": [
+      {
+        "text": "Biddle and Kjolbye-Biddle (2001) showed that there were further Viking graves in the immediate vicinity of the crypt in Cemetery 3. This included a grave with a bearded axe of Viking type found in 1923 in a grave immediately south of the crypt (Biddle and Kjolbye Biddle 2001, 55), and two other double graves, including that of two men in graves G083 and G084. Of these, G083 was sampled for the present study, yielding a strontium ratio of 0.712806. This places him at the higher end of what is expected for Britain, but the value could equally fit inland locations in Scandinavia.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "It is also notable that there appears to be a clear cluster of individuals with strontium ratios below 0.7101 to which R511/R295 belong, including several individuals from the channel (e.g. M168, M172, X53 and X70), which could indicate that several of the channel individuals have similar geographical origins. This cluster also includes R043 and R044, who were buried next to each other immediately to the south of the crypt of St Wystan's. R044 was assigned to Cemetery 2, i.e. pre-873 AD, likely because R043 cuts the grave of R044. With the results of the isotope data presented here, however, it seems very possible that both of these burials should be associated with the Viking presence in Repton. Double grave R083/R084 was also located near the chancel. This is an important result as it could suggest that the area immediately around the crypt contained a high number of Viking graves that were not accompanied by grave goods or differentiated in any other way.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "It has been proposed that the burials found in Cemetery 3M, on top of, and around the channel mound, could also have Scandinavian affinities: possibly second or subsequent generations descendant from 9th century migrants (Biddle and Kjolbye-Biddle 2001). Grave goods and burial forms show that these were differentiated from the remaining population in Repton and appear to be of high status, with several inclusions of elaborate gold embroidery and artefacts. Recent osteological analysis shows that trauma was relatively common among this group, with several individuals showing evidence of violent injury (Bob Stoddart, pers. comm.). Clearly, this was a population in which many individuals were involved in conflicts; it is possible that these individuals had military roles or were otherwise involved in combat situations. The strontium data presented here show a mix between individuals consistent with local and non-local origins. It is notable that at least one of the individuals (R387), who was buried with a very large number of gold threads thought to have formed part of embroidery on his clothing, displayed a strontium ratio consistent with the local baseline (0.71160), whereas, R394, who was also buried with gold thread embroidery, yielded a non-local strontium ratio of 0.71037, indicating that this cannot be taken to indicate status among a solely local or immigrant population. Still, in comparison to Cemetery 3, Cemetery 3M displays a proportionally larger number of individuals consistent with local origins (44% versus 27% of individuals sampled), which would support the suggestion that it contained individuals from a local group different somehow in status or ancestry, asserting a connection with those buried in the channel by means of their burial location. A possible explanation is that the cemetery contained the remains of subsequent generations, for whom the individuals buried in the mound were real or assumed ancestors, or people they otherwise wished to asserted an association with.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The likelihood of a subsequent population asserting real or perceived links with the Great Army and its war dead is important for our wider understanding of not only Repton and this part of Mercia, but also for the study of continued political conflicts between Scandinavian- and Anglo-Saxon leaders in the late- 9th and 10th centuries. It has been suggested that little resistance was offered by the Mercians during the attack on Repton in 873; at least, the historical sources do not mention a battle at the site (Walker 2000:58). Although architectural analysis of the structure of St Wystan's church and excavations beside the crypt in 1974-88 demonstrated damage to the structure, possibly dating to the late 9th century, it was not completely destroyed and was rapidly repaired: continuation of burial around the chancel demonstrates its lasting role in the community. The Scandinavian presence in this part of Mercia would represent a new, incoming group, who would need to both assert and subsequently reaffirm their political and social rights in the local area. As with the mound and the odal concept, places of burial near the crypt appear to have been deliberately used in this manner. Whether this accommodation relates to the site's political status or a transition towards Christianity remains unclear.",
+        "page_numbers": [
+          14,
+          15
+        ]
+      }
+    ],
+    "Conclusions": [
+      {
+        "text": "Strontium isotope analysis has demonstrated very diverse origins among those buried in all cemeteries in Repton. The most notable result from the channel is the wide range of strontium isotope values and high standard deviation, which demonstrates that these individuals are not from a single origin, with less than a third of the overall sample having values that could be consistent with a childhood in the local region. This evidence is fully consistent with similar analyses of assumed Viking age military groups elsewhere, such as from Weymouth, Oxford, and Trelleborg, as well as with our historical understanding of the make-up and composition of Viking armies from elsewhere. While it is not possible because of overlapping reference values to conclusively pinpoint this population's origins, the group is certainly consistent with origins in southern parts of Scandinavia, and the data here can therefore fully support the identification of the cemetery as containing the Great Army war dead. However, it is important to emphasise that alternative interpretations and geographical origins are also possible, but crucially the isotope results must be seen in light of the wider context of the creation of a mound burial, possibly representing a symbolic territorial claim. This can be supported by its subsequent use by a distinct social group differentiated by grave goods and burial types, as shown by burials in Cemetery 3M. The strontium data shows these individuals have mixed local and non-local origins.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "The current dataset suggests that a greater number of those buried immediately outside the crypt could be associated with the Great Army than previously assumed, including individuals R043 and R044, as well as potentially the second double grave, R083 and R084. Several of these may have had Scandinavian origins. It is possible that it was the association with the former burial site of the Mercian royal dynasty that was significant in placing these graves around the crypt, rather than an expression of religious beliefs. The Viking graves around the crypt have previously been interpreted as 'transitional' by McLeod (2013) or displaying hybrid pagan/Christian rites whilst standing in contrast to the cremation burials at the possibly contemporary cemetery at Heath Wood (Richards et al. 2004). Whilst it is demonstrated elsewhere that conversion to Christianity could have been used as a political tool (e.g. as seen in the baptism of Guthrum in 878 AD in the Anglo-Saxon Chronicle), several features of these graves around the crypt seem inconsistent with Christian associations. The gravegoods associated with G511 are the obvious example, but so too are the broken pieces of a carved cross shaft used to create the shallow cairn over the double grave (Biddle and Kjolbye-Biddle 2001). It is likely that the incoming Viking army recognised the political importance of Repton and therefore deliberately chose this location for the burial of their own high-status companions. In this way, much like with the channel, the burial of the dead was an active means for manipulating and expressing power and status, or other social identities we have yet to discover.",
+        "page_numbers": [
+          15
+        ]
+      }
+    ],
+    "Acknowledgements": [
+      {
+        "text": "The research presented here forms part of a Catrine Jarman's doctoral research, a multi-isotope bioarchaeological study of the human remains from Repton, carried out whilst in receipt of an AHRC doctoral studentship at the University of Bristol. The strontium analyses were funded by generous grants from the Society for Church Archaeology and the Council for British Archaeology East Midlands. The authors would like to acknowledge the contributions of Alex Bentley in the early stages of this research, and the considerable work by the late Birthe Kjolbye-Biddle in excavating, recording, and interpreting the archaeology of Repton.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Catrine Jarman is an honorary senior research associate at the University of Bristol and director of the archaeological research unit Munin Archaeology. She currently directs excavations at Repton and Foremark, Derbyshire, and at Vypovsiv in Ukraine.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Martin Biddle (CBE, FBA) is an Emeritus Fellow of Hertford College, Oxford, an Honorary Fellow of Pembroke College, Cambridge, and the director of Winchester Research Unit. He directed the original excavations at Repton between 1974 and 1992 with his late wife Birthe Kjolbye-Biddle.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Paul Fullagar is an Emeritus Professor of isotope geochemistry at the University of North Carolina, Chapel Hill.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Mark Horton is Professor of Archaeology at the Institute for Cultural Heritage Institute, Royal Agricultural University. He co-directs excavations at Repton.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "Endnotes": [
+      {
+        "text": "1. BGS maps accessed via DigiMap GeologyRoam (DiGMapGB-50 Rock Unit), August 2017 2. All osteological determinations of sex, age, and evidence for trauma have been obtained from the Repton excavation archives and preliminary reports as the final publication is forthcoming.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "3. The Repton material analysed here forms part of a wider multi-isotope and aDNA study, with full results to be published in the near future. Material was therefore available to repeat previous strontium measurements without the need for any additional destructive sampling.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "Bibliography": [
+      {
+        "text": "Abrams, L, 2014, 'Historical background', in L Loe, A Boyle, H Webb & D Score (eds), 'Given to the Ground': A Viking Age Mass Grave on Ridgeway Hill, Weymouth. Dorset Natural History and Archaeological Society, Monograph Series 22\n\nAscough, PL, Church, MJ, Cook, GT, Dunbar, E, Gestsdóttir, H, McGovern, TH, Dugmore, AJ, Friðriksson, A, & Edwards, KJ, 2012, 'Radiocarbon reservoir effects in human bone collagen from northern Iceland', Journal of Archaeological Science 39, 2261-2271\n\nBentley, RA, 2006, 'Strontium isotopes from the earth to the archaeological skeleton: A review', Journal of Archaeological Method and Theory 13, 135-187\n\nBiddle, M, 2019, 'The Repton Sculptures', in J Hawkes & P Sidebottom (eds), Corpus of Anglo- Saxon Stone Sculpture, Volume XIII, Derbyshire and Staffordshire, Oxford\n\nBiddle, M, & Kjølbye-Biddle, B, 1992, 'Repton and the Vikings', Antiquity 66, 36-51\n\nBiddle, M, & Kjølbye, B, 2001, 'Repton and the 'Great Heathen Army', 873-4', in J Graham-Campbell (ed.), Vikings and the Danelaw: Select papers from the proceedings of the thirteenth Viking Congress, Nottingham and York, 21-30 August 1997, Oxford\n\nBudd, P, Millard, A, Chenery, C, Lucy, S, & Roberts, C, 2004, 'Investigating population movement by stable isotope analysis: a report from Britain', Antiquity 78, 127-141\n\nBudd, P, Montgomery, J, Barreiro, B, & Thomas, RG, 2000, 'Differential diagenesis of strontium in archaeological human dental tissues', Applied Geochemistry 15, 687-694\n\nChenery, C, Lamb, AL, Evans, J, Sloane, HJ, & Stewart, C, 2014a, 'Appendix 3: Isotope Analysis of Individuals from the Ridgeway Hill Mass Grave', in L Loe, A Boyle, H Webb & D Score (eds), 'Given to the Ground': A Viking Age Mass Grave on Ridgeway Hill, Weymouth. Dorset Natural History and Archaeological Society, Monograph Series 22\n\nChenery, CA, Evans, JA, Score, D, Boyle, A, & Chenery, SR, 2014b, 'A Boat Load of Vikings?', Journal of the North Atlantic 7, 43-53\n\nChesson, LA, Tipple, BJ, Mackey, GN, Hynek, SA, Fernandez, DP, & Ehleringer, JR, 2012, 'Strontium isotopes in tap water from the coterminous USA', Ecosphere 3, 1-17 Curry, A, & Foard, G, 2016, 'Where are the dead of medieval battles? A preliminary survey', Journal of Conflict Archaeology 11, 61-77\n\nDavidson, HRE, 1979, Saxo Grammaticus: I. English Text; II. Commentary, DS Brewer\n\nDicken, A, 2005, Radiogenic Isotope Geology, Cambridge\n\nDubois, T, 1999, Nordic religions in the Viking Age, Philadelphia\n\nEvans, JA, Chenery, CA, & Montgomery, J, 2012, 'A summary of strontium and oxygen isotope variation in archaeological human tooth enamel excavated from Britain', Journal of Analytical Atomic Spectrometry 27, 754-764\n\nEvans, JA, Montgomery, J, Wildman, G, & Boulton, N, 2010, 'Spatial variations in biosphere 87Sr/86Sr in Britain', Journal of the Geological Society 167, 1-4\n\nFaure, G, & Mensing, TM, 2005, Isotopes: Principles and Applications, Hoboken\n\nFrei, KM, & Price, TD, 2012, 'Strontium isotopes and human mobility in prehistoric Denmark', Archaeological and Anthropological Sciences, 4, 103-114\n\nGansum, T, 1997, 'Jernaldermonumenter og maktstrukturer: Vestfold som konfliktarena', in I Fuglestvedt & B, Myhre (eds), Konflikt i Forhistorien. Stavanger\n\nGansum, T, & Oestigaard, T, 2004, 'The ritual stratigraphy of monuments that matter', European Journal of Archaeology 7, 61-79\n\nGroves, SE, Roberts, CA, Lucy, S, Pearson, G, Gröcke, DR, Nowell, G, MacPherson, CG, & Young, G, 2013, 'Mobility histories of 7th-9th century AD people buried at early medieval Bamburgh, Northumberland, England', American Journal of Physical Anthropology 151, 462-476\n\nHaak, W, Brandt, G, De Jong, HN, Meyer, C, Ganslmeier, R, Heyd, V, Hawkesworth, C, Pike, AWG, Meller, H, & Alt, KW, 2008, 'Ancient DNA, strontium isotopes, and osteological analyses shed light on social and kinship organization of the Later Stone Age', Proceedings of the National Academy of Sciences of the United States of America 105, 18226-18231 Hadley, DM, Richards, JD, Brown, H, Craig-Atkins, E, Mahoney Swales, D, Perry, G, Stein, S, & Woods, A, 2016, 'The Winter Camp of the Viking Great Army, AD 872-3, Torksey, Lincolnshire', Antiquaries Journal 96, 23-67\n\nHedenstierna-Jonson, C, Kjellström, A, Zachrisson, T, Krzewiinska, M, Sobrado, V, Price, N, Günther, T, Jakobsson, M, Götherström, A, & Stora, J, 2017, 'A female Viking warrior confirmed by genomics', American Journal of Physical Anthropology 164(4), 853-860\n\nJarman, CL, 2012, Identities Home and Abroad: An isotopic study of VIking Age Norway and the British Isles. MPhil Dissertation University of Oslo\n\nJarman, CL, 2018, Resolving Repton: The nature and impact of the Viking winter camp. PhD, University of Bristol\n\nJarman, CL, Biddle, M, Higham, TFG, & Bronk Ramsey, C, 2018, 'The Viking Great Army in England: New dates from the Repton Charnel', Antiquity 92, 183-199\n\nKnudson, KJ, O'Donnabhain, B, Carver, C, Cleland, R, & Price, TD, 2011, 'Migration and Viking Dublin: Paleomobility and Paleodiet through Isotopic Analyses', Journal of Archaeological Science 39(2), 308-320\n\nKootker, LM, Van Lanen, RJ, Kars, H, & Davies, GR, 2016, 'Strontium isoscapes in The Netherlands. Spatial variations in 87Sr/86Sr as a proxy for palaeomobility', Journal of Archaeological Science: Reports 6, 1-13\n\nLightfoot, E, & O'Connell, TC, 2016, 'On the Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations', Plos One 11, e0153850\n\nMcleod, S, 2013, 'The Acculturation of Scandinavians in England: A Consideration of the Burial Record' Journal of the Australian Early Medieval Association 9, 61-87\n\nMoen, M, 2011, The Gendered Landscape. A discussion on gender, status and power in the Norwegian Viking Age landscape, Oxford\n\nMontgomery, J, Grimes, V, Buckberry, J, Evans, JA, Richards, MP, & Barrett, JH, 2014, 'Finding Vikings with Isotope Analysis: The View from Wet and Windy Islands', Journal of the North Atlantic 7, 54-70 Pollard, AM, Ditchfield, P, Piva, E, Wallis, S, Falys, C, & Ford, S, 2012, \"Sprouting like cockle amongst the wheat': The St Brice's Day massacre and the isotopic analysis of human bones from St John's College, Oxford', Oxford Journal of Archaeology 31, 83-102\n\nPrice, N, 2008, 'Dying and the dead: Viking Age mortuary behaviour' in Brink, S, & Price, NS (eds), The Viking world, London\n\nPrice, TD, Frei, KM, & Naumann, E, 2015, 'Isotopic baselines in the North Atlantic region', Journal of the North Atlantic 7, 103-136\n\nPrice, TD, Frei, KM, Siegried Dobat, A, Lynnerup, N, & Bennike, P, 2011, 'Who was in Harold Bluetooth's army? Strontium isotope investigation of the cemetery at the Viking Age fortress at Trelleborg, Denmark', Antiquity 85, 476-489\n\nPrice, TD, & Gestsdóttir, H, 2006, 'The first settlers of Iceland: an isotopic approach to colonisation', Antiquity 80, 130\n\nPrice, TD, & Naumann, E, 2015, 'The Peopling of the North Atlantic: Isotopic Results from Norway', Journal of the North Atlantic 7, 88-102\n\nRaffield, B, Greenlow, C, Price, N, & Collard, M, 2016, 'Ingroup identification, identity fusion and the formation of Viking war bands', World Archaeology 48, 35-50\n\nRichards, JD, Beswick, P, Bond, J, Jecock, M, McKinley, J, Rowland, S, & Worley, F, 2004, 'Excavations at the viking barrow cemetery at Heath Wood, Ingleby, Derbyshire', The Antiquaries Journal 84, 23-116\n\nSolberg, B, 2003, Jernalderen i Norge: ca. 500 f.Kr. - 1030 e.Kr, Oslo\n\nStroud, G, 1999, Repton. Derbyshire Extensive Urban Survey Archaeological Assessment Report.\n\nSwanton, M, 2000, The Anglo-Saxon Chronicle, London\n\nTrickett, MA, Budd, P, Montgomery, J, & Evans, J, 2003, 'An assessment of solubility profiling as a decontamination procedure for the 87Sr/86Sr analysis of archaeological human skeletal tissue', Applied Geochemistry 18, 653-658 Trueman, CNG, Behrensmeyer, AK, Tuross, N, & Weiner, S, 2004, 'Mineralogical and compositional changes in bones exposed on soil surfaces in Amboseli National Park, Kenya: diagenetic mechanisms and the role of sediment pore fluids', Journal of Archaeological Science 31, 721-739\n\nWalker, IW, 2000, Mercia and the making of England, Stroud\n\nZachrisson, T, 1994, 'The Odal and its Manifestation in the Landscape', Current Swedish Archaeology 2, 219-238",
+        "page_numbers": [
+          16,
+          17,
+          18
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        2
+      ],
+      "captions": [
+        "Fig 1 Location of Repton within Mercia (top left), the surrounding area (top right), and reconstruction of defensive enclosure and the location of the channel mound (bottom) (after Biddle and Kjølbye-Biddle 2001). Cemeteries discussed in the text are separated temporally, though cemeteries 1,2,3 and 4 are largely focussed around the church and 3M on top of and around the channel mound."
+      ]
+    },
+    {
+      "page_numbers": [
+        3
+      ],
+      "captions": [
+        "Fig 2 Plan of the channel remains (Biddle and Kjolbye-Biddle 2001)."
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Fig 3 The process for incorporating strontium isotopes into human tissues (PBS 2017)."
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Table 1: Strontium data from local reference samples and statistics Bar chart of all strontium data from Repton. Each bar represents one individual, and the grey band shows the estimated range expected from the local region. Those with values falling outside this range are considered 'non-local' (see Table 2 for individual values)."
+      ]
+    },
+    {
+      "page_numbers": [
+        7
+      ],
+      "captions": [
+        "Table 2: Full list of strontium data from Repton. Sample IDs with the suffix -D were analysed by Budd et al. (2004). Cemetery contexts and dates are described in the text."
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "captions": [
+        "Dot plot of the channel individuals, with grey band representing the expected local range. Each dot represents one individual."
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "captions": [
+        "Fig 6 Comparison of baseline ranges for selected locations in Northern Europe, showing the overlap in values. Data from (Evans et al. 2012; Frei and Price 2012; Knudson et al. 2011; Kootker et al. 2016; Price et al. 2015; Price and Gestsdottir 2006; Price and Naumann 2015)."
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "captions": [
+        "Fig 7 Box and whisker chart comparing strontium data from the mass graves in Weymouth and St John's College Oxford, and from the channel in Repton. Each dot represents one individual and the boxes show the lower and upper quartiles. Comparative data from Chenery et al. (2014a), Pollard et al. (2012)."
+      ]
+    }
+  ]
+}

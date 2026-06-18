@@ -1,0 +1,943 @@
+{
+  "document_title": "EXCAVATIONS ON RED LION STREET,AYLSHAM,2003",
+  "abstract": "In 2003 an archaeological excavation took place in advance of the redevelopment of a former garage site on Red Lion Street, Aylsham. Evaluation trenching the previous year had shown that several ditches (then thought to be of prehistoric date) and the remains of medieval buildings survived along the street frontage. The excavation uncovered numerous archaeological features including the ditches, which appeared rather to be of Romano-British origin, medieval buildings, pits and post-holes, a hollow way (a predecessor to Blofield's Loke at the northern edge of the site) and a series of post-medieval cellars to two inns built on the site during the 15th or 16th centuries.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "In 2003 the Norfolk Archaeological Unit (NAU) was commissioned by Anglia Secure Homes (South East) Limited to conduct an archaeological excavation in advance of redevelopment of the former Coopers Garage site at 8-12 Red Lion Street, Norfolk Historic and Environment Record (HER) Site 37376, on a parcel of land situated between Red Lion Street, Burgh Road and Blofields Loke, in Aylsham (TG 19372690: Figs 1 and 2, Plate 1). The work was undertaken in fulfilment of a planning condition set by Broadland District Council.",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "The site was subject to trench evaluation in September 2002 (Fig. 3, Trenches A-G: Shelley 2002). Possible evidence for prehistoric and Roman activity was found, as well as significant evidence for the settlement of the site during the medieval and post-medieval periods. As a result of the evaluation work, full excavation of the Red Lion Street frontage was requested by Norfolk Landscape Archaeology and this took place between February and April 2003, immediately after the former garage showroom had been demolished.",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "A total of 1444 fragments of post-Roman pottery, weighing 10.016kg, was recovered from the site. The assemblage spans the Early Saxon through to the post-medieval periods, and is the first significant ceramic assemblage of this date from Aylsham. The pottery is discussed below by period. The ceramics were quantified by number of sherds present in each context, estimated number of vessels represented and weight of each fabric. The fabric codes are based mainly on those identified by Jennings (1981) supplemented by additional ones compiled by Suffolk Archaeological Unit (Sue Anderson, unpublished fabric list).",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "The largest part of the pottery assemblage (96.4% by weight, 97.3% by sherd count) is medieval (1406 fragments weighing 9.659kg). The vast majority of the medieval pottery was made from a range of wheel-thrown coarseware fabrics, mainly in the form of cooking vessels and jars, with smaller numbers of bowls and jugs, and large open vessels which could be bowls or curfews.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "SUMMARY": [],
+    "Geology and topography": [
+      {
+        "text": "Upper chalk (BGS 1978) underlies the site, with an overlying soil landscape of loamy loess over glacial till or coarse outwash (Corbett and Dent 1994, 18). The site has an elevated position within Aylsham (Fig. 1). To the east the ground falls away towards the River Bure which lies some 1.4km distant. To the south the ground slopes gradually in the direction taken by Norwich Road. To the north the ground also falls away towards the River Bure, and the site is therefore 'perched' atop a modest promontory. This elevation is noticeable when one stands at the junction of Burgh Road and Norwich Road, and slopes can be seen in three directions. The marketplace to the west sits on a plateau, which is overlooked by St Michael's church in its north-western corner.",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "The site also has a favourable position within Aylsham's topography. It originally bordered the eastern side of the market and sits beside the crossing of the major north-to-south and east-to-west routes through the town. Both geographically and visually, it lies firmly within the medieval core of this market town.",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "Archaeological and historical background": [],
+    "(Figs 1-3)": [
+      {
+        "text": "Little is known of Aylsham's origins. With the exception of a bronze Antoninianus of Claudius II found in the garden of a house on Cromer Road (HER 7398), to the north of St Michael's church, the only recorded artefacts of great antiquity are hoards of Late Bronze Age metalwork from gardens in Sir Williams Way (HER 7396), c. 0.25km east of the site.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Domesday (Brown 1984) records that Gyrth Godwinson, Earl of East Anglia, held the parish of Aylsham (Elesham) prior to the Conquest. This was obviously an important manor, as it had several outliers as well as sixteen caracutes of land, twenty villagers, 88 smallholders, six ploughs in lordship, twelve acres of meadow, four hundred pigs and two mills. Aylsham may then have been a central administrative manor for the Earl, from where his north-eastern Norfolk lands might be managed (Andy Hutcheson, pers. comm.). After the Conquest Ralph Guader, Earl of Norfolk, held the manor for the King. It continued as a capital manor of the Duchy of Lancaster from 1371 and was governed by a bailiff (Blomefield 1807, 269), although there were three other minor manors. The tenants had significant privileges, being free of market tolls and other manorial dues (Blomefield 1807, 271-2).",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "Two other entries in the HER are of note. A possible 14th-century undercroft beneath 18 Market Place (Fig. 2) comprises a brick-barrelled vault with chamfered ribs (HER 34611). A human skull, probably relating to the adjacent Baptist Church, was found in 1987 in a trench to the rear of 36 Red Lion Street (HER 23474). Gale (2001, 13) records that the site of the 'Black Boys Hotel' (on the west side of Market Place) was described in 1471 as a messuage and a cottage called the stonenhus.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "A market existed in Aylsham before 1296 (Blomefield 1807, 270). During the medieval period the prosperity of the town derived from the manufacture of textiles (Pevsner and Wilson 1997, 366). It might be assumed, then, that Aylsham grew on the strength of its production of canvas and of an eponymous linen, also known as Aylsham Web. In 1291, for instance, the Bishop of Hereford purchased four yards of Aylsham linen, at the then considerable cost of 18 shillings (Aylsham Parish Council undated, 18). The Saturday market was re-granted in 1519 (Sapwell 1960, 60), by which time the population of Aylsham was approaching 1000 (Pound 1994, 94). By then, however, production of Aylsham linen had ended over a hundred years previously (Sutton 1990, 203) and by the early 17th century the inhabitants were chiefly employed in knitting items of woollen clothing (Blomefield 1807, 283-4).",
+        "page_numbers": [
+          3,
+          4
+        ]
+      }
+    ],
+    "Method": [
+      {
+        "text": "The area of the excavation totalled $ 2 6 4 \\mathrm{m}^{2} $ and lay immediately to the east of Red Lion Street. Modern deposits were removed with a $ 3 6 0^{\\circ} $ excavator, although two substantial concrete ground beams which acted as footings for the garage were left in situ. Where cellars were encountered their backfill was removed by machine.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "The weather during the excavation was generally sunny and dry. There was a marked contrast in conditions between the southern and northern parts of the site, with the former being in shade for most of the day whilst the latter was mainly unshaded and, therefore, drier with some strong shadows which sometimes hindered photography. However, despite some surface dryness soil conditions were quite good.",
+        "page_numbers": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "A full assessment of the results of the excavation has been produced (Bates and Shelley 2004). The site archive has been deposited with Norfolk Museums and Archaeology Service.",
+        "page_numbers": [
+          5
+        ]
+      }
+    ],
+    "Excavation results": [],
+    "Phase 1: Possible Romano-British ditches": [
+      {
+        "text": "A large ditch ran roughly parallel with, and extended beyond, the western side of the trench. Excavation showed that it had been cut into the natural sand and was truncated by medieval activity. Its base was reached at a depth of 0.92m in segment 375 (not figured) where a homogenous brown silt filled the lower eastern side with a main fill of lighter brown silty sand with thin laminations of yellow sand.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "Nine sherds of pottery of Roman date were found in the (largely unexcavated) fill of segment 749 and a piece of Roman tile came from the lower fill of 375. Some medieval pottery also came from the area of segment 375 but probably derived from later activity there. In the north-western corner of the site, segment 857 had a more mixed fill which included single pieces of tile and pottery, both of Roman date, and a sherd of Roman pottery came from another deposit (849) which was revealed beneath the floor of a medieval building in this area. The large ditch was clearly the same as ditch 169 seen in evaluation Trench A, to the south, where the recovery of a sherd of Iron Age pottery had led to a prehistoric date being suggested. Even then, however, the presence of five sherds of Roman pottery in an adjacent medieval feature suggested that the ditch might prove to be Romano-British.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "In the south-western corner of the site, in segment 756, the upper edge of the ditch was recorded as cutting through a deposit of subsoil (702) which was probably the same as that of medieval date recorded elsewhere across the site (see below). It is possible that the upper fill of the ditch was deliberately deposited to stabilise the area prior to building during the medieval period. Medieval pottery and a piece of lead waste from this upper 'fill' of the ditch, and the earlier evidence from the other excavated segments, support this suggestion.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "In the south-eastern part of the site a short length of another ditch (244) ran north-north-east to south-south-west. It was truncated by a cellar to its north and did not appear on the other side of a concrete beam to its south. A single piece of pottery of Roman date was found in its fill and the infilled ditch was sealed by subsoil (303). Roman pottery and tile found residually in later deposits in this area may support a suggestion that this ditch was also Roman.",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "Small amounts of Roman pottery, mostly single sherds, were also found in several other deposits at the site.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Phase 2: Initial occupation (13th-14th centuries)": [],
+    "(Fig. 5)": [
+      {
+        "text": "Ceramic evidence suggests that the earliest buildings on the site appeared between the 13th and 14th centuries and were represented by a significant number of pits and post-holes cut into natural geological deposits. These were concentrated in the central part of the excavation area.Many contained pottery broadly dated only to the 11th-14th centuries. Refinement of this dating is only possible where diagnostic pottery forms were uncovered; regrettably, much of the pottery was represented only by body sherds.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "What may have been an east-to-west aligned boundary across the site was marked by a number of post-holes. Two of these contained a sherd of pottery, each dated broadly to the 11th-14th centuries. These features may have divided the site into two plots, this division thereafter being maintained until the 1960s.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Plot 1": [
+      {
+        "text": "There was evidence for a possible street-fronting building (Building 1). The fill of the possible Roman ditch had been cut by the eastern edge of a ?hollow (853). This was well-defined and contained a dark grey silt. Its western edge was not seen. Above the silt a sandier deposit was overlaid by a thin clayey charcoal-flecked material with some burnt patches. This may have been a floor, with a distinct scorched patch representing a possible hearth. It was sealed by a layer of clayey sand mixed with straw and laid as a floor (753) of about 0.15m thickness. Post-holes 760 and 762, cut through the floor, may have represented a division within the building. No finds came from any of these deposits.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The most readily identifiable structure (Building 2), to the east, was represented by a right-angled gully (552), up to 0.40m in depth, which contained thirteen fragments of pottery of the late 12th-14th centuries. Depressions in its base may have been post-settings. Its northern and eastern ends became more shallow and may have been termini. Postmedieval activity in the area to the north would almost certainly have truncated that side of the building. A small circular pit (529) inside the building may have been a hearth. Its reddish brown sandy fill, interpreted as in situ scorched material, had a thin layer of chalk and charcoal-flecked silt at its upper interface. It was sealed by a thin layer of compacted buff-coloured silt (527) with charcoal and frequent flecks of chalk, a single body sherd of 11th-14th-century Local Medieval Unglazed (LMU) pottery and a few fragments of fired clay. The latter may have represented a surviving remnant of a floor. To the west of the building several pits and post-holes (including 706 and 712), most containing single sherds of medieval pottery, may have related to the building.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "Plot 2": [
+      {
+        "text": "A large number of post-holes lay within the area. A line of three equally-spaced post-holes (425,383 and 737) aligned parallel to Red Lion Street may have formed the rear wall to a structure (Building 3). The central post-hole contained fourteen sherds of LMU pottery broadly dated to the 11th-14th centuries. A southern wall may have been supported by 751, which contained two further body sherds of 11th-14th-century pottery and the slender remains of a timber post. A pit or large post-hole (397) may have originally formed part of the northern wall of this building and then, on abandonment of the building, was used for the disposal of rubbish. Its dark red/brown organic silt fill included large quantities of cockle shell and a sheep jaw bone. Charcoal fragments were present but other plant macrofossils were rare. In the top of the feature a burnt organic silt spread in a thin layer to the south and east (372/383). This spread extended a little beyond the suggested rear wall of the building, implying that it post-dated its destruction. A total of nine sherds of 11th-14th-century LMU pottery came from the fill of the pit and the spread. To the east, the burnt spread sealed several further infilled post-holes.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "A north-to-south aligned beam-slot (779) and a post-hole (755) might represent internal elements to Building 3. These were sealed by occupation debris 746 and possible hearth rakings or demolition debris 739, which were subsequently truncated to their north and south. Two pieces of pottery of 11th-14th-century date and two fragments of fired clay were found in 746 and three sherds of 12th-14th-century pottery came from 739.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "A second phase of construction, which followed the deposition of the burnt material, is suggested by a well-defined slot (730), 0.55m deep, beside the east wall of the building, and perhaps also by several other post-holes. Pottery in the slot included a spiral rod handle from a LMU jug and the base of an unusual LMU bottle or cylindrical jug. In addition,",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "several fragments of Grimston jugs were present, one highly decorated. The pottery indicates a 13th-14th-century date for this feature, which may have been a drain.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "A number of post-holes to the east of Building 3 may have formed another, small structure (Building 4). Presumably this was an outbuilding, later truncated by a cellar. Only one sherd of pottery, of 11th-14th-century LMU, was retrieved from these features.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "The area between the buildings appears to have been given over to pitting, perhaps originally dug for extractive purposes and later backfilled with refuse. Ten sherds of LMU pottery, some animal bone and a fragment of lead were retrieved from the fills of pit 391; pit 387 contained a large amount of pottery, most of it from LMU jugs, three fragments of fired clay and a piece of burnt animal bone.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "Evidence for several phases of a third building in Plot 2 (Building 5) was also uncovered. This included post-holes 626, 675 (and a post-pipe, 464) and 757, and a truncated pit (725), which were cut into the subsoil and contained 31 pieces of 13th-14th-century pottery, chiefly from 675. The pottery includes an unusual bowl with recessed rim and a small, well-made LMU cooking vessel with an everted but thickened rim. Pit 725 was truncated to its north by two further small post-pits, 740 and 742. An area of scorched subsoil (463) was revealed to the west of these features, and was perhaps contemporary with them. This phase of activity was overlaid by an orangey/brown clay silt sand (701), perhaps the ephemeral remains of a floor. Also of probably early date, but with an unknown relationship to the ?floor, was a possible beam-slot with two post-holes (847). This extended, at an oblique angle, beyond the southern edge of the trench. Another pit (733) lay to the north of post-pits 740 and 742. Its fill included patches of charcoal and burnt debris, some of it very similar in appearance to possible clay floor 701. No pottery was recovered from either deposit.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "The scorched subsoil was apparently post-dated by further structural elements which must also have formed parts of Building 5 and were also observed in evaluation Trench A. They included two sub-rectangular post-settings (562 and 564), and a slot (863) featuring two stake-holes containing remains of wooden stakes. The latter may have represented an internal east-to-west aligned partition within Building 5.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "Also relating to this later phase were further deposits of compact material which are thought to have formed make-up material within and to the east of the building. Over these was a layer of very compact silty clay and sand (606), interpreted as an exterior surface, and a mixed, but also compacted, clay silt sand with flecks of charcoal and red clay (572), seen only to the north of the internal partition. This is thought to be a floor to the building. Twenty-two sherds of medieval pottery, mostly 13th-14th-century, were found in this deposit and a further ten sherds, mostly of 11th-14th-century date came from nearby deposit 469, probably also part of the floor.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "The exterior surface to the rear of the presumed building, 606, was cut by rubbish pit 611, the fills of which included oyster shell. Seventy fragments of pottery were recovered from the pit. Most were small abraded sherds of LMU, but the complete profile of a cooking vessel was also present (Fig. 8.1), as were fragments of a Grimston ware pitcher with a large strap handle. The pit was cut by another feature (603), itself truncated, whose infill formed a levelling deposit for a later exterior surface (470) of close-set rounded cobbles, extending eastwards from the building. Three sherds of medieval pottery, one of 12th-14th-century date, were found in the deposit.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "The subsoil in Trench A had also been sealed by a layer of brown silty sand containing fired clay fragments (185). Several features had been cut through this soil. These included post-hole 183 (not illus.) which contained daub and a sherd of 11th-14th-century pottery, and post-pit 156 which contained four sherds of 11th-14th-century LMU. Additionally, two sherds of Bronze Age pottery were present in this fill, albeit close to its interface with the subsoil through which the feature was cut. Soil layer 185 was overlain by a thin patchy deposit of lensed charcoal and orange clay which may have been an internal floor to Building 5. It was to this level that modern truncation of the site had taken place.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "It is possible that another building (Building 6) was revealed in Trench A, immediately south of Building 5. This comprised post-holes 145, 154 and 173, the latter forming part of a north-to-south aligned beam slot (124). An iron strip, possibly a knife blade (SF1), and eight sherds of 12th-13th-century pottery (principally LMU) came from the fill of the beam slot which had been cut by a large, oval, flat-based feature (149). This contained a small amount of metallurgical debris and five sherds of residual pottery dating from the later Roman period.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "A large rectangular pit (695/715) cutting the soil layer within Building 5 was 0.30m deep with quite steeply sloping sides and a level base, and may represent the creation of a suspended floor within the northern part of the building. A few post- and stake-holes, some containing rotted wood, may have related to the feature. A patchy yellow sandy silt (720) filling hollows in the sides and base of the pit probably representing inwash or collapse. This was sealed by a very thin layer of black silt and charcoal which, possibly, fell through the floor during the use of the building The body of the feature contained a loamy sandy silt (719) with patches of reddish-coloured peat ash, which may have been deliberately dumped after the disuse of the building, and a more silty upper fill. A total of 53 sherds of medieval pottery were found in the feature. A single fragment of pottery of possible Early Saxon date, some Grimston ware (at least one of them perhaps of the 15th century) and a very abraded fragment of Grimston unglazed ware were present, the remainder being LMU.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "Pit 471 to the east of Building 5 contained sandy fills, with three fragments of LMU, a fragment of a rod handle with raised ribs of a Grimston ware jug likely to date to the 13th to 14th centuries, and a partially oxidised sherd of Grimston ware.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "A shallow linear feature (794) containing compacted sand lay a metre or so to the north of Building 5. This was about 1.5m wide and ran eastwards from Red Lion Street. It is interpreted as a track or path leading into Plot 2.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "A layer of sandy silt (547/879) over the inflilled Phase 4 pit in Building 5 and the sand of path or track 794 represented a build-up of soil in the area, and suggests that Building 5 had been abandoned or demolished. A small rounded Grimstontype ware jug was found in this deposit, its base and a large part of its body being present. The jug is undecorated apart from intermittent thumbing around the base and has an olive lead glaze over most of its surface. It shares some of the characteristics of jugs from King's Lynn (Clark and Carter 1977, 235, fig. 87, No 4) which are considered to be of a later 15th-century date, or even later. A thin layer of dark silt and charcoal sealed the soil build-up and was, possibly, a trampled surface associated with some lumpy patches of scorched sand and clay to the south-east.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "These deposits were sealed by a layer of compact clayey sand (581) with flecks of charcoal and numerous impressions of straw or other organic material which formed a floor or surface extending over a wide area within the limits of Phase 4's Building 5. Cereal grains, seeds and charcoal were present at a low density in the deposit. Three sherds of a highly abraded miscellaneous grey ware, a fragment of Early Medieval Ware and a sherd of Grimston unglazed ware dating to the 11th-mid-13th centuries were found in the deposit, which is interpreted as the floor to a rebuild of Building 5.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "More thin deposits lay above clay surface 581. These included ash and charcoal 817 and, to the north, alternating layers of silty sand and charcoal-rich burnt debris (479 and 576). Twenty-five sherds of pottery, some animal bone (including butchered fragments) and shell were recovered from the latter deposits. The pottery included a fragment of a 13th-14th-century LMU cooking vessel with developed rim and two sherds of oxidised Grimston-type ware which may be later 14th- or 15th-century.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "An area of concentrated burning in the clay surface (862) is tentatively interpreted as a hearth. The scorched sandy silt formed a shallow bowl-like hollow and was filled with alternating charcoal-rich and unburnt material 577. Cereal grains, seeds and fragments of charcoal were present at a low density in the unburnt material, as well as a single heataffected glazed redware pottery fragment (probably of Grimston-type ware) and some burnt animal bone. A predominance of cereal grains from occupation debris 576, which may have been associated with the hearth, suggests that it served a domestic purpose, with the grains being derived from accidental spillages during food preparation. Other food residues, including bone fragments, eggshell and fish bone, were also present, as were single specimens of burnt shells and operculi of freshwater obligate molluscs. The latter may possibly indicate the use of riverine mud/clay for the putative hearth.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "Two substantial post-holes (292 and 311), both 0.50m deep, lay to the east of these deposits and might have represented parts of Building 5. The pottery from 292 included a very large fragment of an LMU bowl (Fig. 8.9) and a number of highly abraded sherds of late 12th-14th-century Grimston-type ware. One sherd from an LMU cooking vessel or jar in 311 is of 13th-14th-century date.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "A stump of a possible clay wall, a possible post-hole and layers of yellowish brown clay silt and sand which may have been a floor and/or collapsed walls were recorded in section beneath the concrete beam to the south of post-hole 292, and may have represented further elements to Building 5.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "A mottled sandy silt (331) overlaid the infilled Phase 3 pit 355 against the Plot 1/Plot 2 boundary. This appeared to form a bank, and was perhaps upcast from localised levelling. Pottery from this material included a highly decorated fragment of a glazed Grimston-type ware jug, and the developed rim of a LMU cooking vessel, together with a fragment of medieval Dutch-type redware suggesting a 14th-century date. Parts of this deposit were sealed by a compact brown clay sand (327), possibly remnants of a yard surface.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "An ovate pit (203) lay at the northern edge of Plot 2. It contained a charcoal-rich fill with six sherds of medieval pottery, a piece of lava quernstone (SF 8), animal bone, shell, iron nails and smelting slag. A single fragment of a highly decorated Grimston-type ware jug with applied strip decoration of 13th-14th-century date was present, as was a large fragment of a sooted sagging base. The fabric resembles some types of LMU, but there is a small splattering of lead glaze on the interior. It may be an early type of Late Medieval and Transitional ware, and dates to the 14th-15th centuries. Twelve small stakeholes, all but one at the eastern end of the pit, lay beside the feature. A smaller linear pit (200) cut the fills of 203. A thin clay silt and charcoal deposit formed a 'lining' to the pit, and was overlain by a brown clay silt. It is possible that both features formed remote ovens to Building 5.",
+        "page_numbers": [
+          13
+        ]
+      }
+    ],
+    "Phase 3: Soil build-up (13th-14th centuries)": [],
+    "Abandonment of Phase 2 buildings": [
+      {
+        "text": "A deposit of soil (703) in Plot 1 overlaid the infilled pits of Phase 2. This soil was also seen in Plot 2 (441), where it sealed the thin spread of burnt organic silt 372 in the area of Building 3, and contained patches of burnt clay. Here, it was overlaid by a brown sandy silt (359) of up to 0.15m thickness (which, elsewhere in Plot 2, was recorded as 303, 333 and 702). Pottery, all of medieval date, a copper alloy pin, a piece of lead waste and a fragment of limestone from a possible mortar (SF 9) were recovered. The layers probably represented build-up of material in the area after abandonment of the Phase 2 buildings.",
+        "page_numbers": [
+          9,
+          10
+        ]
+      },
+      {
+        "text": "More than 100 sherds of pottery were retrieved from the soils in Plot 2 (with a further 76 fragments possibly also belonging to this group). They consist mainly of LMU with a range of cooking vessel rim types present. Several developed types dating to the 13th and 14th centuries were recorded in 359, as well as one vessel with an inturned rim (Fig. 8.6). Some medieval coarseware and sixteen sherds of Grimston ware are also present. The latter are not highly decorated, and are covered with a plain lead glaze. A small sherd of a late Grimston variant has an iron oxide strip, indicative of a 13th-14th-century date.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "A hiatus in building activity also seems to have followed occupation of Building 5. The internal division within the building was infilled with a dark silty sand containing charcoal and fragments of daub, possibly the charred remains of a wattle and daub wall. Burnt debris (797) sealed the slot, the floor and the later exterior surface. This, and the charred remains of the wall, must represent at least the partial destruction of the building. The burnt deposits were cut by a small pit (461) which contained 104 sherds of medieval pottery. Most were small sherds of LMU but two developed rims of 13th-14th-century date were also present. In addition one vessel had particularly delicate and carefully applied incised applied strips (Fig. 8.14). This pit may well have been dug to rob a timber post from the damaged building. A layer of compact grey silty sand with some flecks of charcoal (766) formed over the burnt material.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "This latter deposit may correlate with a dumped material behind the footprint of Building 3 which sealed soil 359, and consisted of a grey sand and charcoal and a grey ashy silt, much of it burnt. Low densities of cereal grains, seeds and charcoal fragments were present in the deposit and 35 fragments of pottery included two developed rims of LMU cooking vessels indicative of a 13th-14th-century date. Small quantities of medieval coarseware, fired clay and brick or tile were also found. Deposit 337 was cut by pit 355, which contained eleven sherds of medieval pottery, including one of 13th-14th-century date. Another pit (868) also post-dated the build-up of soil.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "A third pit (340) on the probable boundary line, further to the east, was 0.75m deep, with dark reddish brown patches and flecks of charcoal within its fill. Twenty sherds of pottery came from the pit, mainly LMU, with two bowls and a cooking vessel or jar with an inturned rim (Fig. 8.6). Two fragments of plain glazed Grimston ware indicate a late 12th-14th-century date. This feature probably indicates the continued use of the area for rubbish disposal.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "A number of sandy deposits lay on top of the soils in Plot 2 and may have resulted from the digging of pits or other activity in the area. A total of 103 sherds of medieval pottery (thirty-eight of these of 13th-14th-century date) and a few fragments of animal bone, some butchered, were recovered from the deposits.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "The soil which sealed the possible Roman ditch (244) in the south-eastern corner of Plot 2 was cut by another ditch, which was itself cut by ditch (364). A piece of tile of Roman date was found in the fill of the latter. These infilled ditches, and a small gully, were overlaid by a soil (379) from which three pieces of Roman pottery as well as 33 medieval sherds were recovered. The relative date of these ditches are uncertain, although they cut the 'subsoil'.",
+        "page_numbers": [
+          10
+        ]
+      },
+      {
+        "text": "Phase 4: medieval activity subsequent to the soil build-up (Fig. 6)",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "Phase 6: post-medieval inns": [],
+    "(Fig. 7)": [
+      {
+        "text": "The earliest documented buildings on the site were two public houses on Red Lion Street. No. 8 was a thatched timber cottage which formed part of the Bull Inn until 1907 (Gale 2001, 48). After the inn closed its ground-floor front was converted into a fishmonger's shop, and later into Arthur J. Dazely's Old Bull Motor and Cycle Works ibid, 49). The building was eventually purchased by the Cooper brothers, and thus formed the first part of the garage site. It was demolished in 1955.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "The second inn, at 12 Red Lion Street, was apparently larger and more prestigious. It existed from 1689 (if not earlier) until 1953 (Gale 2001, 50), changing its name in 1791 from the King's Head to the New Inn. Until its demolition in 1955 it had been joined at first-floor level to 16 Red Lion Street, which has a timber-framed east wing (Pevsner and Wilson 1997, 368). According to Gale (2001, 51) the area at the rear of the inn stretched as far as Oakfield Road and included a yard, stables, outbuildings, a garden and a bowling green. The inn, built with a jettied timber frame and a steeply-pitched pantile roof, was part of the Morgan brewery estate. The only parts of the New Inn complex to have survived above ground into 2003 were its brick-built stables, which lay beside Blofields Loke (Fig. 3).",
+        "page_numbers": [
+          13
+        ]
+      }
+    ],
+    "The Bull Inn": [
+      {
+        "text": "Few remains survived, but a backfilled cellar which must have lain at the rear of this building was discovered. This was a curious shape, with an alignment at odds to Red Lion Street. Its whitewashed walls were of brick and an off-white mortar. The floor was also of brick. Entry was via a set of shallow brick steps (235) in the south-western corner. The springers to a brick arch showed that a vault had been set against the northern wall. There was evidence that the vault had been sub-divided into a series of smaller spaces. A second barrel vault (232) sat in the south-eastern corner of the cellar. Entry to this had been blocked by a 1960s concrete block wall which bisected the cellar, but a small remnant of arch springing showed that entrance had been via the cellar. The vault had originally extended beyond the south wall of the Bull Inn. Two pits (366 and 367) lay immediately south of the vault. These included finds of post-medieval date, as well as LMU cooking vessels or jars (Fig. 8.1 and 8.2), in their fills.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Several other remnants of the Bull Inn survived. An east-to-west aligned foundation cut (330/768) on the western side of the site contained alternate layers of lime mortar and silty sand. A smaller north-to-south aligned trench (523) nearby contained the remains of a brick wall and several sherds of late 17th-18th-century pottery. The last remnant was a stable block against the gable of 6 Red Lion Street which was demolished in 2003. This had been converted into a narrow workshop/showroom by Cooper's Garage (Fig. 3).",
+        "page_numbers": [
+          13,
+          14
+        ]
+      }
+    ],
+    "The New Inn": [
+      {
+        "text": "Little remained of the New Inn other than its backfilled cellars, and a small area in the extreme north-western corner of the excavation where a series of alternating deposits of black silt (439 and 444) and orange clay (440 and 520), 0.27m thick in total, represented trampled floor material and make-up. Several residual fragments of LMU cooking vessels or jars (Figs 8.4 and 8.5) were recovered from 520. One deposit in particular (456) included organic material (straw, or more likely sawdust) from a floor.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The cellars survived in good order. Their street-fronting elements could not be examined, and it remains possible that barrel vaults extended into the street. The northern half was the earliest part of the cellar. Its walls were of rounded flint cobbles set in lime mortar and raised in a vertical cut. A deep-set lamp niche (584) helped light this part of the cellar. The eastern wall (587) may have carried an internal north-to-south wall within the inn. The southern wall of the cellar had been removed in antiquity and survived only where it had formed part of a load-bearing wall to the inn's superstructure. Entry to the cellar had once (but not originally) been gained via a set of brick steps (588) with timber treads. The eastern wall of the cellar had been broken into to allow these to be inserted, and until then entry may have been gained via a ladder. The stairwell had later been blocked; material which had gathered behind the blocking wall contained a sherd of transfer-printed pearlware of 1770-1850.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The cellar was probably enlarged eastwards and southwards during the 19th century, the south wall of the original cellar apparently being removed in the process. The new build was of brick, with a contemporary stairwell (592) let into its eastern wall. This part of the cellar was well supplied with lamp niches, five of which had been set into the southern wall. The best surviving of these (738) was 0.37m wide, 0.23m deep and 0.45m in height. The tops of the niches were formed from two angled bricks. There were few other remains of internal detailing to the cellar, with the exception of a brick vault which had been set against the northern wall. This had formed a 0.95m-deep end bay.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Several other masonry remains survived. A flint-and-mortar base (747) had presumably supported an internal stack set against Blofields Loke. The internal area had a screed floor, stained green. Part of one of the New Inn's internal walls had also survived 1950s demolition. This lay immediately to the north of cellar wall 585, which suggests that the cellar was a later insertion, and apparently lay directly on an earth floor to Phase 2 Building 1. The floor surfaces to the inn had then been laid against the wall.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Truncation made it difficult to determine what lay behind the New Inn frontage, although it appears that the rear range lay a metre lower than the street-fronting elements. A possible oven or kiln (525) at this lower level consisted of three walls of brick, surviving to a height of three courses and surrounded a burnt brick surface. It had been infilled with ash and cinders (526) which contained two sherds of Glazed Red Earthenware of 16th-18th-century date and an iron knife blade (SF14).",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Several post-holes beside the east wall of the New Inn's cellars may have formed elements of the building's superstructure. One of these (670) contained a fragment from the frilled base of a Raeren stoneware drinking jug which dates to the late 1400s or first half of the 1500s. Another (657) contained small quantities of 15th-16th-century LMT. Against the eastern side of the site were three small pits, all of which contained finds of post-medieval date. Part of a 16th- or 17th-century ivory comb (SF6) was found in one of them (517).",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Buildings demolished in 2003 (Fig.3)": [
+      {
+        "text": "All remaining buildings on the site were demolished in the summer of 2003. These included two adjoining 19th-century brick cottages on Burgh Road which had been set against the east-to-west boundary defined by Nos 6 and 8 Red Lion Street. These appeared on the 1890 1st Edition Ordnance Survey map. To the north, beside Blofields Loke, a larger brick building, Foresters Hall, had belonged to the Ancient Order of Foresters, a Friendly Society established in 1860 (Sapwell 1960, 112). After World War II it became a paint shop for Coopers Garage and, in the late 1960s, toilets and a parts department reception area were added.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Coopers Garage was established in the 1920s as Cooper Bros Ltd, and for many years sold cycles. The company later became the local agent for Morris motor vehicles. This franchise, by then Rover Group, lapsed in 1995 and the garage closed in 2002. The showroom dominated the site. This was set back from Red Lion Street to allow for a concrete apron and was constructed in steel by local firm Ducker and Sons (architect Ronald Toone) in 1962. The front wall, of one-and-a-half storey height, was glass, in timber framing. The single-storey rear wall was largely formed from floor-to-ceiling timber doors. Light within the space was moderated by an cantilevered roof which sloped from front to rear and more light entered through openings in the brick gable wall against Blofields Loke. A small office sat in the north-eastern corner of the showroom.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The showroom was connected, to its south, via a large lintelled opening with a two-storied brick building which was constructed as a joint showroom and flat after 1966, again by Ducker and Sons. The front wall was of glass, and the first-floor was accessed through a side door. Another small glass-panelled office lay to the rear of the ground-floor, and a door in the east gable connected the showroom with a large double garage of brick. The garage workshop, to the rear of the showroom and flat, was constructed in 1947 using the roof and windows from a building on Haveringland airfield. Its north-facing wall was constructed against the then-current boundary between 8 and 10 Red Lion Street. Large doors were let into its western and eastern gables.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "The finds": [],
+    "Methodology": [
+      {
+        "text": "The pottery was analysed using the pottery recording procedure described in the Norfolk Archaeological Unit Finds Manual (Shepherd 1999) and following guidelines recommended by the Study Group for Roman Pottery (Young 1980). All sherds were assigned a fabric type, following macroscopic examination and the use of a (x20 power) hand lens. Sherds were counted and weighed to the nearest whole gram and recorded by context. Diagnostic sherds were assigned form types and, where possible, the diameter and percentage of rims were recorded. The presence of decoration, abrasion, sooting and limescaling were noted. Data was recorded on an NAU pro-forma sheet and input into a spreadsheet. The pottery and archive are stored by the Norfolk Museums and Archaeology Service.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "Results": [
+      {
+        "text": "Forty-three sherds of Romano-British pottery weighing 0.437kg, were recovered (Table 1). Seven pottery fabrics were identified. Small amounts of samian, from Roman Gaul, are the only imports from abroad whilst single sherds originate from the regional centres of Hadham (Hertfordshire) and Oxfordshire. Most of the pottery consists of utilitarian sandy grey wares, some (if not all) from the nearby Romano-British pottery production centre at Brampton (Knowles 1967; Knowles 1977; Green 1977) which lies approximately 3.5km to the south-east of Aylsham (Fig.1). The majority of vessel forms are medium-mouthed and storage jars, and bowls. Single examples of the specialist flagon and mortarium vessels were also recorded.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "Table 1 Roman pottery": [
+      {
+        "text": "The majority of the pottery is abraded, or severely abraded, which is consistent with its high level of residuality. Nine sherds were found in the fill of segment 749 of the large Phase 1 ditch at the west edge of the site, and might indicate its date. A single sherd came from the fill of another possible Roman ditch (244). It is worthy of note, however, that the material from these deposits is also abraded and has certainly suffered disturbance from post-depositional processes. Six further sherds of Roman pottery were found in the fills of the medieval hollow way where it cut the large ditch. The pottery from the two ditches, as well as that from the fill of the hollow way, is broadly datable to the 2nd-3rd centuries AD, although the lack of fine wares and levels of abrasion make close dating difficult.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Later (4th-century) pottery including the Hadham and Oxfordshire sherds was found in deposits which also contained post-Roman material.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "The assemblage": [],
+    "Iron Age/Early Saxon": [
+      {
+        "text": "Three fragments of pottery, weighing 0.035kg, were found. Two sherds, possibly from the same vessel, were redeposited into the fill of hearth-like feature 862 (Phase 5) in the south-western corner of the site. They are from a thick-walled, handmade vessel, with oxidised external surfaces. The fabric is medium sandy with frequent voids where organic material has burnt out. Occasional flint inclusions up to 4mm in length are present. Both the interior and exterior surfaces are tooled. A similar sherd with an oxidised and lightly tooled external surface was found with medieval pottery in pit 695 within Building 5 (Phase 4). The two deposits were physically associated. Its fabric has a fine sandy matrix, with moderate organic voids, sparse quartz inclusions and some mica.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Body sherds of such handmade sandy wares with organic inclusions can occur in Iron Age and Early Saxon assemblages in East Anglia. In the absence of evidence for activity of either period, such as here, diagnostic features such as rim shapes or decoration are often the determining factor in establishing the date. Unfortunately the sherds do not exhibit diagnostic features and the date of the pottery is, therefore, uncertain.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "Late Saxon": [
+      {
+        "text": "Nine fragments of Thetford-type ware, weighing 0.050kg, were all body sherds, mostly abraded. Two sherds were found in deposit 849 in the area above the possible Romano-British ditch in the north-western corner of the site. Other fragments were present residually in make-up 329 and floor layer 520.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "Early Medieval ware (EMW)": [
+      {
+        "text": "Three sherds, weighing 0.003kg, of handmade sandy EMW of 11th-12th-century date were recovered. These were all found with pottery dating from the late 12th to the 14th centuries, and it likely that some, if not all, are residual.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "Local Medieval Unglazed wares (LMU)": [
+      {
+        "text": "Much of the pottery consists of LMU, made from a fine to medium sandy fabric containing sparse mica and found on many sites in Norfolk. It was probably produced in the Woodbastwick and Potter Heigham areas, south-east of Aylsham, where waster sherds have been found (Jennings 1981, 41), and from where river links to Aylsham are good. Fieldwalking at Hemblington to the south of Woodbastwick has also produced wasters of medieval and late medieval date which are of a similar fabric (John Ames, pers. comm.). It is likely too that other production centres, perhaps closer by, were making similar pottery. Although some of the material from Aylsham is light grey or buff in appearance, much of the pottery is dark brown in colour, and is made of a harder fine to medium sandy fabric. The term 'LMU' is therefore used collectively to describe similar fabrics in a distinctive range of forms, but likely to represent the products of several different kiln sites. Overall the LMU ware comprises 1173 sherds weighing 7.129kg, or 71.2% of the total assemblage by weight, and 81.2% by sherd count.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "LMU cooking vessels/jars": [
+      {
+        "text": "In common with most other sites, the most frequent LMU form is the cooking vessel or jar. These have been recorded by broad rim type, using the typologies established by Jennings (1981), and Anderson (2005). Two rim sherds are simple everted types, indicative of an 11th-13th-century date. A maximum of 35 vessels have fully developed rims of 13th-14th-century date. Six cooking vessels or jars have everted rims with inturned ends. These forms have previously been considered to date to the 11th-13th centuries, but at Aylsham they are present in the same contexts as the fully developed types of later date. Although it is possible that the rims are residual, the small quantity of early simple everted rims from the site suggests a lack of 11th-12th-century activity, and may suggest that inturned rims do not come from the early part of the typological sequence. Everted vessels with inturned ends were not present in deposits pre-dating the mid-13th to mid-14th century at Dragon Hall in Norwich (Anderson 2005). Evidence from other sites may show that such rims occur relatively late in the LMU typology.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Many of the vessels from Aylsham are very fine-walled, with sharply defined and angular rims. A range of different types of rims has been illustrated, to demonstrate the variety of thickened everted developed rims, and everted but inturned rims. The best preserved vessel, from pit 611 (Phase 2), has a thickened everted rim which is almost upright (Fig. 8.1). Two jars from the fill of post-medieval pit 366 have a classic developed shape (Fig. 8.2 and 3), but more extreme variants are present, also residually, in floor deposit 520 (Fig. 8.4 and 5). Fragments of jars with inturned rims are present in pit 340, soil 359, floor 572 and the pit in Building 5 (695) (all Fig.8.6). A rim which is upright but is recessed internally was recovered from 572 (Fig. 8.7).",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "LMU bowls and curfews": [
+      {
+        "text": "A relatively high number of LMU bowl fragments (26 vessels) represents several different vessel types. Some of the vessels with large diameters may be curfews rather than bowls, although several are sooted externally. The most simple straight-sided vessel, from dump material 337, has a thickened rim and a diameter of c. 300mm (Fig. 8.8) and a second possible curfew, present in post-hole 292 (Fig. 8.9), has a diameter of c. 320mm. Both fragments have heavy sooting on their exterior surfaces. A third large rim in pit 706 (Fig. 8.10) also has a diameter of c. 320mm, and developed rim shape very similar to a curfew from Exchange Street, Norwich (Jennings 1981, fig. 13 no. 269). A further large bowl (or curfew) in pit 340 has external sooting, a diameter of c. 340mm and a thickened rounded rim. A substantial bowl fragment in soil 359 is decorated with a horizontal applied strip, and has a diameter of c. 360mm (Fig. 9.11).",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "One very abraded bowl fragment in deposit 469 is everted and has thumbing along the internal edge of the rim (Fig. 9.12). A second bowl in 469 in a slightly micaceous fine sandy fawn and grey fabric (Fig. 9.13) is sooted. Its recessed rim suggests that it may be a precursor of LMT bowls and panchions which have a slight internal projection. Although LMU is most commonly dated to the 11th-14th centuries, vessels in the fabric are known to have still been in use in Norwich during the 15th century (e.g. Evans 1985, 38). Such pottery may date to a period of transition and co-existence before the full emergence of the glazed successors to LMU, the Late Medieval and Transitional ware industries.",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "LMU jugs and bottles": [
+      {
+        "text": "Fragments of eight LMU jugs are present. Part of a spirally twisted rod handle found in Phase 2 beam slot 730 is similar to one found at Norwich Castle Keep (Jennings 1981, fig. 17 no. 318). The most unusual LMU form present, also in 730, is the base of a bottle or cylindrical drinking jug.",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "LMU decoration": [
+      {
+        "text": "Few of the LMU wares from Aylsham are decorated, although several vessels have applied thumbed strips. In one case these are so delicately and carefully made that they are clearly decorative rather than functional (two joining fragments from Phase 3 pit 461: Fig. 9.14). Two vessels from Phase 3 soil 359 have unobtrusive stabbing marks on the outside of the rim. A further rim from deposit 608 has finger nail impressions randomly made along the outside (Fig. 9.15). A strap handle from a jug from deposit 299 also has stabbing.",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "Medieval coarsewares": [
+      {
+        "text": "A smaller range of a second collective fabric type, medieval coarsewares, is present. These are wheel-thrown from coarse sandy fabrics which can not be provenanced. A total of 25 fragments, weighing 0.249kg, make up 2.5% of the assemblage by weight, and 1.7% by sherd count. They are mainly body sherds of cooking vessels or jars, and are notably coarser than the LMU wares.",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "Grimston-type ware": [
+      {
+        "text": "Glazed Grimston-type ware forms the second largest group of medieval wares (20.5% of the overall assemblage by weight, 13% by sherd count).",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "A total of 189 fragments of Grimston-type ware weighing 2.058kg was recovered, all from glazed jugs, several of them highly decorated. Fragments of one vessel in Phase 2 make-up deposit 625 have applied strips and blobs coloured with brown iron oxide (Fig. 9.16), and many other examples of jugs with applied vertical strips coloured in iron oxide are present. One jug in Phase 5 pit 691 has three different decorative elements. These consist of applied vertical strips coloured with iron oxide, areas of white slip with circular stamps, and incised wavy line decoration which runs underneath. All these elements are covered with an olive lead glaze. Grimston jugs with incised decoration only were found in a well shaft at Grimston (HER 1016) but these are on later forms (Wade 1994, fig. 55). Combed wavy line decoration is common on the jug sherds recovered from HER Sites 22954 and 24054 at Grimston (Little 1994, 84).",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Fragments of another highly decorated Grimston jug were found in Phase 3 deposit 338. Several sherds are decorated in a white slip which is thickened at one end to form the shapes of petals or leaves which are further delineated by incised lines (Fig. 9.17). A fragment with similar decoration was also found in deposit 227. This yellow floral design on a green background type has been recorded on Grimston ware found in 15th-century contexts at sites in King's Lynn (Clarke and Carter 1977, 208).",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "A substantial part of a small shouldered jug was present in deposit 547 sealing the infilled pit in Building 5. It has intermittent pronounced single thumbing along its base, and external grooving on its shoulder but is otherwise undecorated. The rim is slightly inurned and the top half is covered in an olive lead glaze. It is heavily sooted and contained a brown residue. The vessel has a relatively upright neck characteristic of jugs of late medieval date (Clarke and Carter 1977, 235). It may be a 15th-century product.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "In addition four fragments of a Grimston pitcher with large strap handle were present in Phase 2 pit 611. The vessel is crudely made with scraps of clay adhering to the external surface under the handle, which has been roughly applied, by thumbing, to the body of the jug. The jug is covered with a drab olive glaze. Grimston ware jugs with multi-ridged handles are a feature of the later part of the industry (Clarke and Carter 1977, 235).",
+        "page_numbers": [
+          19
+        ]
+      }
+    ],
+    "Grimston coarseware": [
+      {
+        "text": "Two sherds of Grimston unglazed or coarseware, weighing 0.006kg, are present. This fabric is described as 'a soft fabric with abundant quartz and flint inclusions' (Little 1994, 84). Although present in small quantities in assemblages from Norwich, it is much more common on sites such as King's Lynn (Clark and Carter 1977, 184-5) and Castle Acre (Milligan 1982) in the west of Norfolk.",
+        "page_numbers": [
+          19
+        ]
+      }
+    ],
+    "Unidentified glazed wares": [
+      {
+        "text": "Five glazed sherds remain unprovenanced, although they are likely to date to the later medieval/early post-medieval transitional period. One sooted sagging base from Phase 5 pit 203 has small splashes of lead glaze on the inside. The fabric is fine and slightly micaceous, and if it were not glazed would be described as LMU. A large fragment from a glazed jug in 277 may be a late Grimston ware. It has a grey sandy fabric with red brown external surface, and is knifetrimmed with some lead glaze. Three other similar fragments from dump deposit 278 may also be of Grimston origin. A small fragment of a heavily stained whiteware jug, possibly Stamford ware, was found in post-medieval ?floor deposit 444.",
+        "page_numbers": [
+          19
+        ]
+      }
+    ],
+    "Catalogue of illustrated sherds": [
+      {
+        "text": "13. Bowl with recessed rim. LMU fabric. Phase 2 deposit 469.",
+        "page_numbers": [
+          21
+        ]
+      }
+    ],
+    "Post-medieval": [
+      {
+        "text": "Twenty-two sherds of post-medieval date, weighing 0.218kg, were recovered. Six fragments date to the earlier transitional period (15th-16th centuries). Small quantities of Late Medieval Transitional wares were present in Phase 6 post-hole 657 and in refuse pit 611, although the latter may be intrusive as most of the pottery from this pit is medieval. A fragment from the frilled base of a Raeren stoneware drinking jug, dating to the late 15th or first half of the 16th centuries, was identified in Phase 6 post-hole 670. A further body sherd of 16th-century Cologne/Frechen stoneware was recovered with pottery of a later date from Phase 6 wall trench 523.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Very little 16th-18th-century pottery was found, other than five fragments of glazed red earthenware and two sherds of dark green glazed redware. The latter are likely to have been made at the Fulmodeston kiln site, to the west of Aylsham (Wade-Martins 1983).",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Small quantities of 18th-19th-century pottery of date are present. A single fragment from the handle of an 18thcentury Staffordshire white-dipped tankard, together with a blue and white pearlware teabowl sherd, a creamware fragment and two sherds of glazed red earthenware (one a late variant) were found in deposits 315 and 613. Both soils related to the construction of the cellars, and also contained the rim of a transfer printed blue and white pearlware vessel, perhaps a cup, of late 18th-mid-19th-century date. Part of the base of a Staffordshire Manganese glazed tankard, dating to the late 17th-18th centuries, was found in a wall trench relating to the Bull Inn (523) and two fragments from the base of an English stoneware bottle, likely to be of 19th-century date, were found in pit 367.",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "Conclusions": [
+      {
+        "text": "The ceramic evidence suggests that the first period of major development on this part of Red Lion Street dates to the 13th and 14th centuries. The medieval assemblage includes a very limited range of fabrics, suggesting that the demand for pottery was met by locally produced ceramics such as LMU and Grimston-type wares. The high proportion of LMU and other fine to medium sandy coarsewares, and the small quantity of Grimston coarseware, suggest that the ceramic pattern at Aylsham is similar to other excavated assemblages from medieval towns in the north and east of Norfolk. At Burnham Market and Great Yarmouth, for example, LMU forms by far the largest component of the medieval coarsewares present (Anderson 2005). Current research suggests that it is only further to the west in the county that the character of these assemblages changes significantly and Grimston coarseware becomes more dominant at the expense of LMU (Anderson 2005). The Grimston kiln sites, however, remained the main source of glazed wares for the settlement at Aylsham.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The other significant feature of the assemblage is the lack of medieval imported wares. This surely reflects a rural and inland community which was supplied with local coarsewares and glazed jugs by the Grimston potters. A comparison with excavated pottery from Burnham Market shows a similar lack of imports up to the end of the 13th century, although there a small quantity of regional wares such as Scarborough ware reflected the closeness of Burnham to the coast (Anderson forthcoming).",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "Leaving aside the worked flints and prehistoric pottery (Shelley 2002), which were quite clearly residual, the earliest activity appears to belong to the 2nd and 3rd centuries AD and is dated by small amounts of pottery from the fills of ditches and the features cut through them. Despite their abraded nature these finds appear to provide a secure date for these features, since all later pottery from their upper fills was demonstrably intrusive. The largest of the excavated ditches lay alongside and parallel to Red Lion Street and represented either a field boundary or, more intriguingly, a roadside ditch. The latter might suggest that the route taken by Red Lion Street also dates to the Roman period, although it is not figured on any reconstruction maps of the Roman road network (Gurney 1994; Green 1977, 32). Aylsham lies approximately 3.5km to the north-west of the significant Roman settlement and kiln site of Brampton (Fig. 1: Green 1977) and about 2.5 km to the north-west of a second site where further Roman remains including buildings and kilns, have been discovered (HER 7586). It is very likely that other small settlements, and roads linking them, existed above the Bure floodplain.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Continuous settlement of the site appears, from the ceramic evidence, to have begun around the 13th century, some two centuries after the first record of Aylsham in Domesday Book. However, St Michael's church, the oldest building still standing in Aylsham, also appears to date from the late 13th century (Pevsner and Wilson 1997, 362) and the date of establishment of the market is currently given as 'before 1280' (Dymond 1993, 76; Blomefield (1807, 270) gives 1296 as the earliest date). So it is possible that Aylsham was substantially laid out at this time, and that the medieval buildings uncovered during this excavation formed part of this development. This period was, after all, the 'height of town foundation' (Penn 1994, 70).",
+        "page_numbers": [
+          24,
+          25
+        ]
+      },
+      {
+        "text": "This is not, however, to suggest that an earlier core to Aylsham did not lie elsewhere. An extensive manorial document, The Aylsham Rental (PRO E315/360), which dates to 1624 or thereabouts, hints that the present-day marketplace had a predecessor which lay within the triangle of land to its west (Aylsham Local History Society 1988), and therefore closer to the church. The reasons for the development of any Late Saxon settlement here are presently obscure, although its favourable topographical location and possible status as an administrative centre for a large manor are surely significant.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "Penn's suggestion (1994, 70) that the southern part of Red Lion Street originally formed the eastern edge of the marketplace seems reasonable. The earliest buildings facing the market here were of timber and clay, and appear from the excavated evidence to have been sited within plot boundaries which survived until the 1960s. There seems to have been no attempt to expand eastwards, and evaluation trenching (Shelley 2002) found no medieval activity beyond the eastern limit of the present excavation.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "Although truncation in the 1960s had removed the upper level of archaeological deposits, it seems that at least one of the medieval buildings (Building 5) had continued in use through to the 14th or 15th centuries. It is possible that the two inns which appear in records were then established, since some of the post-holes surrounding the edges of the cellars contained pottery of 15th- and 16th-century date. If so, this would make them somewhat earlier than had previously been supposed (see Gale 2001), and would help supply a 'missing link' between the excavated medieval buildings and the recorded inn buildings of the 17th century.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "As at the handful of other small market towns in Norfolk where excavation has been conducted notably Dereham (Shelley forthcoming) and Burnham Market (Percival forthcoming) the artefactual and faunal evidence suggests a modest community. Very few items of intrinsic worth were recovered, despite regular metal-detecting, and the pottery appears to have been drawn exclusively from local centres of production.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The medieval buildings were probably domestic, although a commercial function cannot be ruled out. Despite the fame that textiles brought to Aylsham in the medieval period, no artefactual or ecofactual evidence for linen production was recovered.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The study of British small towns is still in relative infancy, and nowhere more so than in Norfolk. For this reason alone this small excavation should provide a valuable contribution to the study of Norfolk's small towns. Considered alongside the seven benchmark characteristics of a small town predicted by Dyer (2003, 102), however, it is clear that the site can help clarify Aylsham's medieval urban status only with regard to the extent to which its occupants had contacts with the outside world and access to a market. As Dyer states (2003, 103), 'traders of small towns had a more limited range of contacts, and dealt with commodities over shorter distances, than those located in larger centres.' The lack of medieval imported wares noted on the site may reflect such a limited range of contacts, but it should be noted that it is also a characteristic of more truly rural locations. Indeed the site, when considered in isolation of its setting, is not so very different with regard to spatial organisation, provisioning or building types from those found in the cores of medieval villages (see, for example Grenstein toft 10: Wade-Martins 1980, 114).",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "Nevertheless, other characteristics help place this site within Dyer's 'urban hierarchy'. For instance, the site's building sequence relative to its location is instructive. This was a central location, situated on a main street and probably until the 1600s lying on one side of the town's marketplace. In terms of Dyer's definition, therefore, the site is raised above the status of village plot on account of its proximity to a marketplace. Equally, however, this setting in a major town would have prompted a more sustained and diverse level of occupation and construction than in evidence here. From this last observation it might be deduced that the built environment of small towns was generally less susceptible to change than that of their larger counterparts, perhaps because of general differences in land ownership between the two. The truism that 'the pace of change is slower' in market towns may be open to question, but is surely a characteristic in evidence here.",
+        "page_numbers": [
+          25,
+          26
+        ]
+      }
+    ],
+    "Flint": [],
+    "by Sarah Bates": [
+      {
+        "text": "Ten struck flints and two small burnt fragments of flint were found. The former are mostly edgedamaged unmodified pieces. A thermal fragment may have been used as a core or reworked to form a crude scraper, two retouched flakes are present and one flake is probably from a hammerstone. The latter piece, a retouched flake and a burnt fragment were found in part of the large ?Romano-British ditch, the rest in medieval deposits. The struck flint is, therefore, residual, but indicates activity nearby during the prehistoric period.",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "Small finds": [],
+    "by Julia Huddle": [
+      {
+        "text": "Twenty-three small finds were recovered from the site. This small assemblage comprises, in the main, objects associated with buildings or of a domestic and personal nature. Most are unexceptional, but five are catalogued here. Post-medieval finds include an ivory comb dating to the 16th or 17th centuries. Others artefacts, including a quernstone fragment, a possible scale tang knife blade and a pair of swivel rings, can derive from medieval or post-medieval contexts. The complete lack of belt and dress fittings, so often a find ubiquitous on urban excavations, is noteworthy.",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "Furnishings and household equipment": [],
+    "Knives": [
+      {
+        "text": "SF14 526, Phase 6. Incomplete iron knife blade with blade back and cutting edge parallel; both taper to a tip. Incomplete length 102mm, width 25mm, thickness 3mm. See scale-tang knives from Norwich excavations with similarly-shaped blades from contexts dated from the 15th and 16th centuries through to the 17th century (Goodall 1993, 128 fig. 94, nos 821-9).",
+        "page_numbers": [
+          23
+        ]
+      }
+    ],
+    "Vessels": [
+      {
+        "text": "SF 9 303, Phase 1, Probably part of a mortar, made from fossiliferous limestone, with almost straight sides and gradually sloping internal surface. Outside edge diameter 180mm.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "SF 11 242, Phase 6, Pair of iron swivel rings, one smaller than the other, coupled together. Diameter (of larger ring) 35mm, diameter (of smaller ring) 20mm. Swivel rings recovered from Norwich Survey excavations were from 17th-century or later contexts (Goodall 1993, 141, fig. 106 nos 971-6).",
+        "page_numbers": [
+          23
+        ]
+      }
+    ],
+    "Dress": [],
+    "Personal possessions": [
+      {
+        "text": "SF 6 518, Phase 6, incomplete double-sided simple ivory comb which is now lacking some of its teeth and an end segment. It has fine teeth on one side (8 per 10mm) and coarser teeth on the other (5 per 10mm). The marking out lines for the teeth are still visible. Incomplete length 34mm, width 51mm, thickness 3mm. These simple double-sided ivory combs are often found in post-medieval contexts in Norwich and elsewhere from 16th- and 17th-century contexts.",
+        "page_numbers": [
+          23
+        ]
+      }
+    ],
+    "Industry and craft": [
+      {
+        "text": "SF8 204, Phase 5, quern fragment with remains of flat grinding surface. Incomplete length 68mm, incomplete width 60mm, thickness 50mm. The vast majority of quernstone fragments recovered from medieval and post-medieval contexts in Norwich are made from Rhenish lava and those where grinding surfaces survive are often cut with radial grooves. They were apparently used for grinding roasted grain for beer rather than flour (Margeson 1993, 174).",
+        "page_numbers": [
+          23
+        ]
+      }
+    ],
+    "Environmental evidence": [],
+    "Faunal remains": [
+      {
+        "text": "A total of 148 pieces of animal bone, weighing 0.961kg, was recovered from 37 contexts mostly from pits, dumps and layers. Most contexts dated to between the 11th and 14th centuries although some material was found in later fills. Cattle, the most commonly identified species was noted from nine contexts, sheep in five contexts and pig in three contexts. The remains of these domestic mammals were mostly from adult animals and had been butchered.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "All the bone was examined to determine species and ages of animals represented. Types of bone were recorded, along with details of any butchering or pathology. Weights, total counts and species counts were made for each context. All information was recorded on pro-forma recording sheets.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "Bird bone, from six contexts, consisted of sparse remains of goose and domestic fowl, which would have probably been kept for eggs, meat and feathers. A butchered pelvic bone from a hare was recorded in pit 203 and a rabbit radius was recovered from sump 207. Sparse remains of fish were also produced but none were in good enough condition to be identified to species.",
+        "page_numbers": [
+          23
+        ]
+      },
+      {
+        "text": "Much of the bone was fragmentary and in quite poor condition. Over half of the bone was only identifiable as 'mammal'. Burnt remains were present in pits 200, 387 and hearth 862. The fragmentary nature of the bone meant that little information was yielded and few ageable or measurable bones were recorded.",
+        "page_numbers": [
+          23,
+          24
+        ]
+      },
+      {
+        "text": "The majority of the assemblage probably derived from primary and secondary butchering of domesticated animals and birds. The presence of the butchered hare and rabbit shows that wild fauna was also exploited.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "Plant macrofossils and other remains": [],
+    "by Val Fryer": [
+      {
+        "text": "Samples from six deposits associated with medieval occupation and activity were processed by manual water flotation/washover, collecting the flots in a 500 micron mesh sieve. The dried flots were scanned under a binocular microscope at magnifications up to x16, and the plant macrofossils and other remains present noted. Nomenclature within the table follows Stace (1997). The non-floating residues were collected in a 1mm mesh sieve.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "The samples relate to occupation of the street frontage close to the marketplace. The plant macrofossils and the other remains probably represent food preparation and hearth debris and burnt stable or byre waste.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Cereal grains/chaff and seeds of common weeds and wetland plants were present at varying densities in all samples. Although most plant remains were moderately well preserved, a large number of the cereal grains were puffed and distorted, probably due to high temperatures during combustion. Oat (Avena sp.), barley (Hordeum sp.), rye (Secale cereale) and wheat (Triticum sp.) grains were recorded, with barley being predominant. With the exception of barley rachis nodes, which were common in samples from pits 576 and 560, chaff elements were extremely rare. The density of seeds of common weed plants was very low. Segetal taxa and grassland plant species were both represented and included fat hen (Chenopodium album), medick/clover/trefoil (Medicago/Trifolium/Lotus sp.), indeterminate grasses (Poaceae), dock (Rumex sp.) and vetch/vetchling (Vicia/Lathyrus sp.). Sedge (Carex sp.) and spike-rush (Eleocharis sp.) nutlets noted in 704 were the only wetland plant macrofossils recorded.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Charcoal fragments and pieces of charred root/stem were common or abundant throughout. Heather (Ericaceae) stem fragments, florets and leaves were noted in Phase 3 dump material 337 and Phase 5 floor deposit 581, and bracken (Pteridium aquilinum) pinnule and stem fragments were also present. Other plant macrofossils included indeterminate buds, culm nodes and seeds. Burnt shells and operculi of freshwater obligate molluscs were noted as single specimens in 704. Fragments of burnt porous 'cokey' material and black tarry material may be derived from the combustion of organic remains (including cereal grains) at extremely high temperatures. Mineralised soil concretions were common in samples from 337, 581 and 704. With the exception of fish bones, all other materials were extremely rare.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "October 2004": [],
+    "ACKNOWLEDGEMENTS": [
+      {
+        "text": "The archaeological work was commissioned and funded by Anglia Secure Homes (South East) Limited. The Norfolk Archaeological Unit gratefully acknowledge the assistance and interest of Paul Edmondson and David Leeder of that company. Figure 3 is based on a site survey produced by EDI Surveys Ltd, Ipswich, for Chaplin Farrant Ltd, Norwich.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The 2002 evaluation work was conducted by John Ames, Mick Boyle, Rebecca Crawford, Andy Shelley and Ailsa Westgarth. The 2003 excavation was carried out by Sarah Bates, Simon Birnie, Dave Boschi, Mick Boyle, Rebecca Crawford, Pete Crawley, Claire Floyd, Neil Moss, Jerry O'Dwyer, Andy Shelley, Richard Sims, Kerry Tyler and Danny Voisey. Surveying was carried out by Andy Shelley and Neil Moss and metal detecting by Andy Barnett. All machine excavation was by Bryn Williams. Kenneth Penn provided useful comments on the text as work progressed.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The finds were processed and reported on by Lucy Talbot with specialist reports by Sarah Bates (flint), Julie Curl (animal bone), Richenda Goffin (post-Roman pottery), Julia Huddle (small finds), and Alice Lyons (Roman pottery). The report on the plant macrofossils was by Val Fryer. Graphic images were produced by Andy Shelley, Mick Boyle and Maggie Foottit. Illustrations for this report were prepared by Andy Shelley, David Dobson and Sandrine Whitmore (plans) and David Dobson (pottery).",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Local information and advice was provided by Geoffrey Ducker, Susan Flack and Peter Robson.",
+        "page_numbers": [
+          26
+        ]
+      }
+    ],
+    "BIBLIOGRAPHY": [
+      {
+        "text": "Anderson, S., 2005. 'The pottery', in Shelley, A., Dragon Hall, Norwich: Excavation and survey of a late medieval merchant's trading complex, E. Anglian Archaeol. 112\nAnderson, S., forthcoming. 'The pottery', in Percival, S., Excavations at Creake Road, Burnham Market, 1998, E. Anglian Archaeol. Occasional Paper\nAndrews, G., 1985. 'The coarse wares' in Hinchliffe, J., Excavations at Brancaster 1974 and 1977, E. Anglian Archaeol. 23, 82-95\nAylsham Local History Society, 1988. Aylsham in the Seventeenth Century (North Walsham)\nAylsham Parish Council, undated. Aylsham Official Guide\nBates, S. and Shelley, A., 2004. 8-12 Red Lion Street, Aylsham, Norfolk Post-Fieldwork Assessment of Potential for Analysis and Updated Project Design, Norfolk Archaeological Unit report 824 (unpublished)\nBlomefield, F., 1807. An Essay towards a topographical history of the county of Norfolk Vol. IV (London)\nBrown, P., (ed) 1984. Domesday Book, 33 Norfolk (Part One) (Phillimore)\nClarke, H. and Carter A., 1977. Excavations in King's Lynn 1963-1970, Society for Medieval Archaeology Monograph Series No 7\nCorbett, W. and Dent, D., 1994. 'The soil landscapes' in Wade-Martins, P. (ed.), An Historical Atlas of Norfolk (Norwich)\nDarling, M.J. and Gurney, D., 1993. Caister-on-Sea Excavations by Charles Green, 1951-55, E. Anglian Archaeol. 60\nDyer, C., 2003. 'The archaeology of medieval small towns', Medieval Archaeol. XLVII, 85-114\nDymond, D., 1993. 'Medieval and later markets' in Wade-Martins, P. (ed.), An Historical Atlas of Norfolk, Norfolk Museums Service, 76, 77\nEvans, D. H., 1985. 'The pottery' in D.H. Evans and A. Carter, 'Excavations on 31-51 Pottergate (Site 149N)', in Excavations in Norwich 1971-78, Part II, E. Anglian Archaeol. 26, 27-49\nGale, E., 2001. Aylsham Inns and Public Houses - a History (Norwich)\nGoodall, L.H., 1993. 'Iron knives' in Margeson, S., Norwich Households: The Medieval and Post-Medieval Finds from Norwich Survey Excavations 1971-78, E. Anglian Archaeol. 58, 124-33 Green, C., 1977. Excavations in the Roman Kiln Field at Brampton 1973-4, E. Anglian Archaeol. 5, 31-95\nGurney, D., 1994, 'The Roman Period' in Wade-Martins, P. (ed.), An Historical Atlas of Norfolk (Norwich), 34\nHowe, M.D., Perrin, J.R. and Mackreth, D.F., 1980. Roman Pottery from the Nene Valley, Peterborough City Museum Occasional Paper 2\nJennings, S., 1981. Eighteen Centuries of Pottery in Norwich, E. Anglian Archaeol. 13\nKnowles, A.K., 1967. A Roman Pottery Kiln at Brampton, Norfolk, Norfolk Research Committee Bulletin XVII, 12-15\nKnowles, A.K., 1977. The Roman Settlement at Brampton: Interim Report, Britannia VIII, 209-21\nLittle, A., 1994. 'The pottery from Sites 22954 and 24054', in Leah, M., The Late Saxon and Medieval Pottery Industry of Grimston: Excavations 1962-92, E. Anglian Archaeol. 64, 84-101\nMargeson, S., 1993. Norwich Households: The Medieval and Post-Medieval Finds from Norwich Survey Excavations 1971-78, E. Anglian Archaeol. 58\nMilligan, W., 1982. 'The pottery' in Coad, J.G. and Streeten, A.D.F., 'Excavations at Castle Acre Castle, Norfolk, Castle Acre, Norfolk, 1972-77: Country House and Castle of the Norman earls of Surrey', Archaeol. J, 139, 199-227\nPenn, K., 1994. 'Early unplanned towns' in Wade-Martins, P. (ed.), An Historical Atlas of Norfolk, (Norwich), 70-1\nPercival, S., forthcoming. Excavations at Creake Road, Burnham Market, 1998, E. Anglian Archaeol. Occ. Paper\nPevsner, N and Wilson, B., 1997. The Buildings of England Norfolk I: Norwich and North-East (Harmondsworth)\nPound, J., 1994. 'Population in the 16th century', in Wade-Martins, P. (ed.), An Historical Atlas of Norfolk (Norwich), 94-5\nSapwell, J., 1960. A History of Aylsham (Norwich)\nShelley, A., 2002. Report on an Archaeological Evaluation at Red Lion Street, Aylsham, Norfolk, Norfolk Archaeological Unit report 750 (unpublished)\nShelley, A., forthcoming. 'Excavations at 34 High Street, Dereham, Norfolk, 2004', Norfolk Archaeol.\nStace, C., 1997. New Flora of the British Isles, 2nd edition (Cambridge)\nSutton, A., 1990. 'The early linen and worsted industry of Norfolk and the evolution of the London Mercer's Company', Norfolk Archaeol. XL, 201-25\nRogerson, A., 1977. Excavations at Scole 1973, E. Anglian Archaeol. 5\nShepherd, E., (ed.) 1999. Finds Manual (Version 2.0), Norfolk Archaeological Unit (unpublished)\nTomber, R. and Dore, J., 1998. The National Roman Fabric Reference Collection, A Handbook, MoLAS monograph 2\nWade, K., 1994. 'Excavations at Sites 1016 and 13799' in Leah, M., The Late Saxon and Medieval Pottery Industry of Grimston: Excavations 1962-92, E. Anglian Archaeol. 64\nWade-Martins, P., 1980. Village Sites in Launditch Hundred, E. Anglian Archaeol. 10\nWade-Martins, P., 1983. Two Post-Medieval Earthenware Pottery Groups from Fulmodeston near Fakenham, Norfolk, E. Anglian Archaeol. 19\nWebster, P., 1983. Roman Samian Ware (Cardiff)\nWest, S.E., 1990. West Stow: The Prehistoric and Romano-British Occupations, E. Anglian Archaeol. 48\nYoung, C.J., 1980. Guidelines for the processing and publication of Roman pottery from excavation, DAMHB, Occasional Paper 4, London",
+        "page_numbers": [
+          26,
+          27
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        2
+      ],
+      "captions": [
+        "Fig. 1 Location of Aylsham"
+      ]
+    },
+    {
+      "page_numbers": [
+        3
+      ],
+      "captions": [
+        "Fig.2 Plan of Aylsham showing site location"
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Plate 1. Excavation of the street frontage, with market infill buildings in the background"
+      ]
+    },
+    {
+      "page_numbers": [
+        5
+      ],
+      "captions": [
+        "Fig. 3 Trench location plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Fig. 4 Phase 1 Roman ditches (shaded)"
+      ]
+    },
+    {
+      "page_numbers": [
+        8
+      ],
+      "captions": [
+        "Fig. 5 Phase 2 Initial occupation (12th-14th centuries)"
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "captions": [
+        "Fig. 6 Phases 4 and 5 (medieval and late medieval)"
+      ]
+    },
+    {
+      "page_numbers": [
+        15
+      ],
+      "captions": [
+        "Fig. 7 Post-medieval and modern buildings and features"
+      ]
+    },
+    {
+      "page_numbers": [
+        20
+      ],
+      "captions": [
+        "Fig. 8 Illustrated pottery (1). Scale 1:4"
+      ]
+    },
+    {
+      "page_numbers": [
+        21
+      ],
+      "captions": [
+        "Fig. 9 Illustrated pottery (2). Scale 1:4"
+      ]
+    }
+  ]
+}

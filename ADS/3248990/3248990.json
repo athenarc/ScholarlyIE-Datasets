@@ -1,0 +1,1316 @@
+{
+  "document_title": "The Biggleswade reinforcement water main: archaeological investigations, 2001",
+  "abstract": "Archaeological evaluation, monitoring and excavation on the route of a water main between Cople and Biggleswade provided an opportunity to examine the archaeology of two distinct landscapes, the Greensand Ridge and the Ivel Valley. Four sites were excavated, one of late Bronze Age date and three belonging to the late Iron Age and Roman periods. On the rest of the route, no significant features were identified during the watching brief. The results of the excavations have in general confirmed the existing view of the archaeology of those areas through which the water main passes.",
+  "sections": {
+    "Introduction": [
+      {
+        "text": "Nigel Wilson and Robert Zeepvat",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "SUMMARY": [],
+    "INTRODUCTION": [
+      {
+        "text": "In 2001 Archaeological Services & Consultancy Ltd (ASC) undertook evaluation of the proposed route of a 17km water main from Cople to Biggleswade. The scheme, designated the Biggleswade Reinforcement Water Main, was intended to reinforce water supplies to Biggleswade in order to cope with the demands of recent industrial development. The evaluation comprised a desk-based study and walkover survey of the route (Zeepvat et al 2000), followed by a geophysical survey (Johnson 2001).",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "Using the information obtained from the evaluation, the route of the water main was finalised, avoiding known archaeologically sensitive areas where possible. Along the route nine areas of potential archaeological interest remained (Table 1). Topsoil was stripped from these areas under archaeological supervision, and any archaeological features present were excavated and recorded to appropriate standards. Topsoil stripping along the remainder of the route was subject to an intermittent watching brief, with provision for examining and recording any archaeological features revealed. The work was funded throughout by Anglian Water Services Ltd, who also paid for the publication of this paper.",
+        "page_numbers": [
+          1
+        ]
+      },
+      {
+        "text": "A total of 1477 sherds weighing 15112g with a R.EVE (Estimated Vessel Equivalent, by rims) of 11.24 were recovered from the excavations at Sites 1,2 and 6. Through interpretation of the ceramic record, the report provides a date range for activity on the site as well as a 'socio-economic' statement. To enable comparison with sites of a similar nature in Bedfordshire and neighbouring counties, the fabric codes (Table 2) are based upon those developed by Bedfordshire County Council (i.e. R22a) and those employed by Tomber & Dore (1998) and Going (1987).",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Form matches are utilised from a number of sites, principally the kiln site at Harrold (Brown 1994), Baldock (Stead & Rigby 1988), Chells (Waugh 1999), Verulamium (Wilson 1984) and Chelmsford (Going 1987). Other form matches, such as Thompson's corpus on grog-tempered pottery (1982) are also used where necessary. Unless specified below, all form matches relate to the Going corpus (1987). All the pottery has been examined at $ \\times 2 0 $ magnification. Specific detail such as unsourced coarseware division and detailed fabric division can be found in the site archive.",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "Soil samples were collected for environmental analysis from Sites 1,2 and 9 (Table 4). In addition a small collection of animal bones was recovered by hand during excavation from Sites 1,2 and 6.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "This report includes the analysis of charcoal from the late Bronze Age/ early Iron Age fill of pit [9001] on Site 9, and three of the Roman cremations [1501, 1502, 1508] from Site 1. The study was undertaken to determine differences in species content between the two periods, and to assess evidence of species selection for the cremations.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "Eleven of the thirteen samples (flots and residues) produced charred plant remains other than charcoal. Two flots from the richest samples were also examined to establish whether any identifiable botanical material remained unsorted. All but these latter two samples had very few identifiable remains (Table 9).",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "SETTING AND ROUTE": [
+      {
+        "text": "The water main route (Fig. 1) commences in open farmland about 1.5km southeast of Cardington village with a junction to an existing water main, at an elevation of about 27m OD. From here it runs in a generally south-easterly direction towards Old Warden, passing through farmland and climbing from the heavy clays of the Ouse valley to the lighter sandy clay of the Greensand Ridge. Passing over the crest of the ridge, it then falls gradually to meet the Old Warden road north-east of Old Warden Airfield. At this point the geology of the route changes again, from the Greensand Ridge clays to the gravel soils of the Ivel valley. From Old Warden the water main route follows the Biggleswade road eastwards, crossing the road at intervals to avoid houses and other obstructions. North-east of Broom Quarry, the route turns to follow Gypsy Lane southwards towards Broom. It then turns east to cross the Ivel downstream from Holme Mills, continuing eastwards to pass beneath the East Coast railway line. The route then follows the railway southwards, before climbing to the south-east to terminate at the Toplers Hill reservoir, adjacent to the A1 at an elevation of 77m OD, 5km south of the centre of Biggleswade. This final section from the railway to Toplers Hill passes through an area of heavier clayey soils.",
+        "page_numbers": [
+          1
+        ]
+      }
+    ],
+    "HISTORIC LANDSCAPE": [
+      {
+        "text": "Present knowledge regarding the historic landscapes of the two main geological areas through which the water main passes is greatly varied. Little is known about the archaeology of the Greensand Ridge, which comprises the western half of the water main route. The significant features recorded in this area comprise earthworks and landscape features, such as ridge and furrow, of medieval or later date. In contrast, the lighter soils of the eastern part of the route, within the Ivel valley, have revealed a great deal of evidence of early activity, mostly as cropmarks visible on aerial photographs. From these it is apparent that the lighter alluvial soils have been subject to occupation and agriculture from the Bronze Age onwards.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Relatively little is known of prehistoric activity and occupation along the line of the water main route. The Broom Quarry cropmark complex includes a number of ring ditches and many of the undated cropmarks in this area may date to the early Prehistoric, Iron Age or Roman periods.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "Evidence of prehistoric activity elsewhere along the water main route is provided by individual artefacts, mostly of Bronze Age date.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "At Toplers Hill, investigations in advance of road improvements (Luke 2004) revealed traces of late Bronze Age / early Iron Age occupation. Many of the extensive cropmark sites west and south of Biggleswade may be of Late Iron Age or early Roman date. A group of Iron Age cremation burials has been excavated at Stratton Business Park, (Shotliff 1995) and a further cremation has been identified at Old Warden, near Quince Hill (SMR 459), south of water main route.",
+        "page_numbers": [
+          2
+        ]
+      },
+      {
+        "text": "At the present time little is known of the nature of Roman occupation in Biggleswade and the immediately surrounding area. The water main route runs alongside the possible Roman road following the line of the present B658 and Hill Lane from Biggleswade towards Old Warden (Margary 1955, I, fig. 7). Trial excavations along the west bank of the River Ivel, c. 300m east of the water main route (Dawson 1994) show that at this time the landscape of the Ivel valley was divided into small fields. Excavations north of the route at Warren Villas have shown a similar pattern of agricultural activity, with field boundaries aligned towards the river (Dawson & Maull 1996). The water main passes through extensive linear cropmarks to the west of Biggleswade which may be of a similar date, indicating that this pattern of land use probably extended across the valley. Finds of Roman date have been found on the Greensand Ridge, c. 300m south-west of the route at Quince Hill (SMR 972).",
+        "page_numbers": [
+          2,
+          3
+        ]
+      }
+    ],
+    "GEOPHYSICAL SURVEY": [
+      {
+        "text": "The geophysical survey comprised an initial scan of the whole route for magnetic susceptibility, followed by more detailed magnetometry survey of areas where the results suggested archaeology may be present. The survey revealed convincing evidence of buried archaeological features at four locations (Sites 1,2,5,6), and possible features at a further five (Sites 3,4,7,8,9). The results of the survey are summarised in Table 1.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "Roman burials have been recorded at two locations along the water main route. An inhumation burial accompanied by pottery and glass vessels and a bronze lamp was found in the mid 19th century north of Holme, in the appropriately named Coffin Field. During the construction of the Great North Road turnpike in c.1840, inhumation burials thought to be Roman were encountered at Toplers Hill. During the aforementioned investigations at Toplers Hill a complex of possible Roman enclosures associated with Ermine Street was also revealed.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "During the Saxon and medieval periods, the landscape through which the water main route passes was largely given over to arable farming as evidenced by the areas of surviving ridge-and-furrow along the route. The water main passes through two settlement sites of this period. One, located west of Brookland Farm, has been identified with a 12th-century settlement known as Frogs Hall. The other is the extensive settlement at Holme Green, south of Biggleswade. The eastern part of the route passes close to several medieval moated sites, but does not affect them directly.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "The geophysical survey largely confirmed the results of the desk-based assessment. However, it is interesting to note that it failed to reveal any archaeological features in the section of the route north of Broom Quarry, which passes between the intense multi-period activity recorded in the quarry to the south, and an extensive area of cropmarks recorded to the north.",
+        "page_numbers": [
+          3
+        ]
+      }
+    ],
+    "METHODOLOGY": [
+      {
+        "text": "The construction corridor for the water main was typically 15m wide. Those sections where archaeology was likely to be present (Table 1), amounting to 3km of the route, were stripped of topsoil under close archaeological supervision, using a $ 3 6 0^{\\circ} $ tracked excavator fitted with a toothless ditching blade. Subsequent cleaning and excavation of archaeological features was by hand and subject to a sampling strategy agreed with the County Archaeological Officer. The remainder of the route was stripped largely by bulldozers, and was subject to an intermittent watching brief.",
+        "page_numbers": [
+          3
+        ]
+      },
+      {
+        "text": "In the following text, each of the sites examined along the water main route has been described and discussed separately. Feature numbers are shown in square brackets, for example [1234], and layer numbers in parentheses, as (6789). On Site 2, with its more complex archaeology, individual features identified during post-excavation analysis have been given three-digit group context numbers.",
+        "page_numbers": [
+          4
+        ]
+      }
+    ],
+    "THE WATCHING BRIEF": [
+      {
+        "text": "On the western part of the route, the watching brief revealed mostly modern agricultural features in the Ouse Valley, and on the lower slopes of the Greensand Ridge. To the west of Site 1, a series of broad regularly-spaced linear features on a NE- SW alignment were interpreted as a continuation of ridge and furrow ploughing identified and investigated during the excavation of Site 1. On the remainder of the route, only modern agricultural drainage features were observed.",
+        "page_numbers": [
+          4
+        ]
+      }
+    ],
+    "SITE1": [
+      {
+        "text": "Site 1 was centred on TL 118 457, and covered some 250m of the water main corridor, on the west-facing slope of the Greensand Ridge between the 60m and 70m contours. The natural subsoil in this area consisted of a dark yellowish brown clay below 0.3m of plough-soil.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "The most recent features on the site (Fig. 2) were ten shallow plough furrows, aligned NE-SW at about 6.0m centres. The furrows were filled with dark brown silty clay, and were probably of late Saxon or medieval date, though the only finds from them comprised residual late Iron Age and Roman material.",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "Nine small roughly circular concentrations of charcoal [1500-1508] towards the eastern end of Site 1 were identified as plough-damaged cremations. Because of their condition, these deposits were lifted en bloc, and wet-sieved. The details of this appear in Table 4. All the deposits contained bone, though only that from [1500] and [1504] could be identified as human. Pottery was present in three of the deposits, though only [1504] contained sufficient sherds to suggest that a pottery vessel formed part of the deposit. Sherds from [1504] have been dated to the mid to late 1st century. At least five vessels are represented; two jars, a platter, a possible beaker and a bowl. Other finds from these deposits included a fragment of tile [1501], a copper-alloy pin or wire fragment [1502], and a copper alloy globule or bead and a glass bead [1504].",
+        "page_numbers": [
+          4
+        ]
+      },
+      {
+        "text": "Site 1 was traversed by two closely spaced, intercutting NW-SE aligned ditches, [100] and [101]. Ditch [100] was the more recent, as it cut ditch [101]. It measured c. 1.5m wide and 0.4m deep, with sloping sides and a flat base. It was filled with dark brown silty clay (1002, 1012), waterlogged towards the base of the feature. Ditch [101] was about 1.2m wide and 0.4m deep. Its sides were slightly concave, sloping to a rounded base. The feature was filled with olive-brown sandy clay (1004, 1010), also waterlogged towards the base.",
+        "page_numbers": [
+          4,
+          5
+        ]
+      },
+      {
+        "text": "Pottery recovered from the ditch fills indicates that [101] was of late Iron Age date, and [100] was dated to the mid 1st century AD. As both ditches followed a similar line, it seems reasonable to suggest that they were successive phases of a field boundary or drainage ditch.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The only other feature present on Site 1 was pit [1016], located towards the north-western end of the area. This was sub-oval in plan, measuring 0.95 $ \\times $ 0.75m, with a depth of 0.25m. Its sides were slightly concave, sloping to a slightly rounded base. Its fill was orange-brown clay with occasional stones. No finds were recovered from the fill, and it is possible that this was a natural feature.",
+        "page_numbers": [
+          5
+        ]
+      }
+    ],
+    "INTERPRETATION": [
+      {
+        "text": "The most prominent features located on Site 1 were the cremations, which appeared to represent the remains of a small cemetery of late Iron Age to early Roman date. As only one cremation, [1504], was sufficiently well preserved to permit any meaningful analysis, it is difficult to make much of the site's history and its place in the landscape. The site's environs contain a number of cropmark sites, probably of late Iron Age or Roman date, and it seems likely that the cemetery is related to one of them.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "From the number of ditch cuts present in the three feature alignments examined at Site 2, and the dating evidence obtained from them, these features appear to represent a series of long-lived boundary or drainage alignments. These were probably connected with the settlement indicated by the cropmark of a trapezoidal enclosure in the field to the immediate north of Site 2. The ditch alignments follow the shallow south-facing slope of the field, towards the brook located about 160m to the south of the site. Most of the pottery recovered from these features was abraded, suggesting that it probably found its way gradually into the ditches, rather than being dumped directly as domestic refuse. However, the date range of the pottery can be taken as an indication of the date range of the settlement, spanning the 2nd to 4th centuries AD.",
+        "page_numbers": [
+          9
+        ]
+      },
+      {
+        "text": "Too little was revealed of the features on Site 6 to permit any detailed analysis of their function. It is evident from the number of cuts present that this alignment of ditches comprised a feature that was in use over perhaps two centuries, during that time requiring several episodes of recutting or realignment. Considering the site's proximity to the Ivel, it is likely that these ditches were used for drainage. This quantity of pottery and shell recovered from these features might be taken to indicate the presence of a settlement in the vicinity, probably to the north or west.",
+        "page_numbers": [
+          12
+        ]
+      }
+    ],
+    "SITE 2": [
+      {
+        "text": "Site 2 was located north-east of Old Warden Airfield, on the north side of Hill Lane. That part of the water main corridor identified for excavation was c. 800m in length, from TL 155449 to TL 162450.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The geology of Site 2 comprises calcareous clays and gravel at the western end of the area, rising to more slowly permeable calcareous till soils of sand and clay in the main area of investigation. The archaeological features present were covered by up to 0.30m depth of silt wash and windblown sands. Towards the eastern end of the area the ground level rises, and the surface geology changes to sand and gravel with pockets of calcareous clay.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "In the desk-based assessment a complex of substantial north-south aligned linear features was identified from aerial photographs across and to the north of Site 2. The geophysical survey evidence confirmed that this complex extended over a 60m length of the water main corridor, centred at TL 157 449. Other features to the east and west of the main complex appeared to be ditches and gullies interspersed with pits.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "The excavation broadly confirmed the above evidence. After topsoil stripping, three dark soil spreads (Fig. 3) were revealed running north-south across the water main corridor. Excavation revealed these spreads each to be a complex of intercutting ditches, gullies and some pits and postholes, all of Roman date. The area between each group of features was largely devoid of archaeological features.",
+        "page_numbers": [
+          5
+        ]
+      },
+      {
+        "text": "A similar pattern of development was recorded in each of the three complexes.Activity on the site seems to have commenced in the mid 1st century AD,and most features were dated to the late 1st to late 2nd centuries.During the 3rd century there seems to have been relatively little activity,but in the 4th century activity seems to have increased, with existing ditches being cleaned out and new ones cut.",
+        "page_numbers": [
+          6
+        ]
+      }
+    ],
+    "WESTERN COMPLEX (Fig. 4: Sections 1 & 2)": [
+      {
+        "text": "One of the earliest features in this part of the site was a small pit or posthole [212] 0.8m in diameter and depth, on the east side of the main complex of ditches. Its fill of reddish-brown silty clay contained no finds, but was cut by the late 1st to early 2nd century ditch [203].",
+        "page_numbers": [
+          6
+        ]
+      },
+      {
+        "text": "About 2m south of [212] was an east-west aligned gully, [226]. This feature petered out to the east: to the west it was cut by pit [225], and its relationship to the main north-south ditch complex, if any, had thereby been destroyed. Pottery from its fill of mid reddish-brown silty sand (2042) suggests a 1st-century date for this feature.",
+        "page_numbers": [
+          6,
+          7
+        ]
+      },
+      {
+        "text": "Pit [225], 2m to the south of [212], was a large sub-circular feature 2.6m in diameter with a depth of 0.5m. Its dark yellowish-brown sandy silt fill (2072) was cut by ditch [203], though the pottery recovered from it suggests a similar late 1st or early 2nd century date.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The earliest phase of the western group of ditches was represented by ditches [203] and [215]. Ditch [203] was about 1.25m wide, with a depth of 0.3m. Ditch [215], parallel with and to the west of [203], was about 0.5m wide, with a depth of 0.2m. The fills of both features comprised mid reddish-brown sandy silts (2040: 2050, 2065). Pottery from both ditches indicates that they were infilled in the late 1st or early 2nd century.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "At some later period the line of ditch [203] south of pit [225] was recut. The resulting ditch, [213], was about 1.25m wide and 0.30m deep, with a fill of mid yellowish-brown silty sand (2060). The limited amount of pottery recovered from this feature indicates a broad date range from the 2nd to 4th century for its infilling.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The most recent feature in this complex was ditch [200], which cut [215] and [203], following a course between these ditches. Ditch [200] was about 1.25m wide with a depth of 0.4-0.6m. Its fill of yellowish brown clayey silt (2048, 2056) contained 4th-century pottery. The upper fill (2063) of [200] contained significant amounts of animal bone, comprising the partial skeletons of at least two cattle. These animals appear to have been buried in the ditch.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "CENTRAL COMPLEX (Fig. 5: Section 3)": [
+      {
+        "text": "The central group of features comprised a number of small, shallow gullies, running along the general line of a natural north-south depression.To the west of this were two interconnecting pits, into which at least one of the gullies ran.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Gully [216] ran along the west side of the depression, turning westwards into pit [205]. It was about 0.95m wide with a depth of 0.45m.Its fill (2011,2037) consisted of dark reddish brown sandy silt. Pottery recovered from this feature was of late 2nd-century date.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Gully [223] was a V-section feature, about 0.95m wide and 0.55m deep, running along the east side of the depression and terminating at its centre.Its fill,comprising fine dark brown clayey silt (2014), contained a single sherd of Roman pottery.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "On the east side of the depression, gully 227 comprised the butt end of a feature extending beyond the southern limit of the excavation. It measured about 0.9m in width, with a depth of 0.15m and a rounded profile. Its fill of dark brown sandy silt (2009) contained no dateable finds.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Pit [205] was roughly oval, measuring $ 4. 0 \\times $ 3.0m, almost vertical sides falling to a flat base, at a depth of 1.2m. Its lower fills consisted of a series of tip layers, all mid brown sandy silts with varying amounts of clay inclusions. Pottery from the early fills of the pit (2022,2031,2032) was of 2ndcentury date. Pit [205] had been recut once, by which time the feature had largely been filled in. The area of the re-cut pit could not be determined, but it was about 0.65m deep, with steep sides. Pottery from the fill of the recut (2018), which was similar to the earlier fills, was of mid to late 2ndcentury date.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Pit [228] was located on the east side of [205]. It was slightly smaller, measuring c.2.9m in length and 1.15m in depth. Its fill comprised a primary deposit of greenish-brown sand, containing no dateable finds, and an upper layer of dark brown sand, containing pottery of mid 2nd-century date.",
+        "page_numbers": [
+          7
+        ]
+      }
+    ],
+    "EASTERN COMPLEX (Fig. 6: Sections 4 & 5)": [
+      {
+        "text": "The eastern complex comprised two inter-cut north-south ditches [210] and [211], dog-legging to the north into a group of inter-cut pits adjacent to the south boundary of the excavation. To the west of the main group of features was a single north-south ditch [216].",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "The earlier of the ditches within the main complex was ditch [210]. This feature, over 1.8m wide and up to 1.3m deep, had been re-cut twice. The fill of its earliest cut, comprising mid olive-brown sand (2079), contained a single abraded sherd of uncertain Roman date. Its first re-cut, filled with mid brown sandy silt (2077), contained pottery of mid to late 2nd-century date. The final re-cut filled with (2058) contained no dateable finds.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "Ditch [211] lay to the east of [210], and cut the fills of the latter's earliest two phases. Its orange-brown sandy silt fill (2083) contained 2nd-century pottery.",
+        "page_numbers": [
+          7
+        ]
+      },
+      {
+        "text": "At their south end, ditches [210] and [211] passed through [220], an extensive pit-like depression, at least 5m wide and 9m in length, and 1.2m deep. The lower fills of this depression (2100) comprised a mixed deposit of silty clay lenses, most of which contained no dateable finds. The pit appeared to have been recut on several occasions. The pottery that was recovered from pit [220] was dated to the mid 1st and early 2nd century, but was for the most part heavily abraded, suggesting that it may have been re-deposited. On the outer edges of the feature, the cuts for ditches [210] and [211] were clearly visible. The upper fill of this complex of features, a dark brown silty clay (2093), contained no dateable finds.",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "At the west of this group of features, ditch [216] was about 1.4m wide with a depth of almost 0.5m,",
+        "page_numbers": [
+          8
+        ]
+      },
+      {
+        "text": "filled with brown silty clay (2006). The steep sides sloped to an uneven base. Pottery recovered from the fill indicates a 4th century date for the infilling of this feature.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "OTHER FEATURES": [
+      {
+        "text": "The only other feature discovered on Site 2 was a shallow grave [2002] located towards the eastern extent of the site. The grave (Plate 1) contained an extended inhumation, probably a male of 30-40 years at death. No grave goods or related finds were present. The bones were badly degraded by ploughing and the insertion of a modern field drain [2007]. The date of the burial remains uncertain.",
+        "page_numbers": [
+          8
+        ]
+      }
+    ],
+    "SITE 3": [
+      {
+        "text": "Site 3 was located on the north side of the B658 Biggleswade to Shefford road, to the north of Broom Quarry. The section of the water main corridor identified for detailed examination measured 600m in length, from TL 170 451 to TL 177 451. In recent years, excavations at Broom Quarry have revealed extensive evidence of late Iron Age and Romano-British activity. Aerial photographs examined in the desk-based assessment showed that cropmarks were present in the fields to the north of the B658, suggesting a continuation of the activity in Broom Quarry across the water main route. However, the geophysical survey for Site 3 was inconclusive, and no archaeological features or artefacts were identified following topsoil removal across the area. Observation of the excavation of the water main trench on this part of the route confirmed that no archaeological features were present. The absence of archaeological features and finds on Site 3 indicates that Broom Quarry and the cropmarks to the north of Site 3 do not form a continuous site, though it is likely that they are part of the same prehistoric landscape.",
+        "page_numbers": [
+          9,
+          10
+        ]
+      }
+    ],
+    "SITE 4": [
+      {
+        "text": "Site 4 was located on the east side of Gypsy Lane south of its junction with the B568, comprising a 120m length of the water main corridor centred on TL 179 449. This area was designated for detailed examination because of the existence of an area of cropmarks to the west of the area. No features or artefacts were revealed in this area following topsoil stripping.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "SITE 5": [
+      {
+        "text": "Site 5 was located on the east side of Gypsy Lane, centred on TL 179 442, and was sited to investigate a circular feature, identified by the geophysical survey and interpreted as a ring ditch (Johnson 2000, figs 25,26). After the area was stripped no features were visible, but the subsoil appeared to be a flood deposit, possibly overlying earlier features. As the geophysical anomaly was so strong, two north-south trenches were excavated across the location of the geophysical anomaly. Only a few small poorly defined, shallow features were revealed in the underlying natural gravel. None contained finds, and it seems most likely that they were of natural origin. No trace of the circular feature revealed by the geophysical survey was found.",
+        "page_numbers": [
+          10
+        ]
+      }
+    ],
+    "SITE 6": [
+      {
+        "text": "Site 6 was located between the River Ivel and the Langford road at TL 188 432, at an elevation of c.27m OD. Soils in this area are generally light and sandy: prior to the excavation the field had held a crop of potatoes. In this field, formerly known as Coffin Field, the discovery of a Roman inhumation burial in the 19th century is recorded. The geophysical survey showed probable features against the north boundary of the field.",
+        "page_numbers": [
+          11
+        ]
+      },
+      {
+        "text": "The excavation revealed a complex of features (Fig. 7: Section 6) in the location indicated in the geophysical survey. These comprised three or four intercut north-south ditches, each about 1.0m wide and 0.3 to 0.4m deep, terminating at their southern ends. A considerable amount of Roman pottery and a quantity of oyster shells were also recovered from the layer sealing the ditches and their fills. Ditch [6012] was stratigraphically the earliest of the features on Site 6, though its fill did not contain any dateable finds. Most of the other ditches were ceramically dated to the mid 2nd to mid 3rd century, though the pottery from them was mostly abraded. The most recent ditch in the group was [6014], which contained pottery of mid 3rd to early 4th-century date.",
+        "page_numbers": [
+          11,
+          12
+        ]
+      },
+      {
+        "text": "The ceramic assemblage recovered from Site 6 amounts to 295 sherds with a weight of 5193g and R.EVE of 4.26. The pottery was recovered mostly from ditch fills, and its condition ranges from abraded to slightly abraded.",
+        "page_numbers": [
+          16
+        ]
+      }
+    ],
+    "SITES 7 AND 8": [
+      {
+        "text": "Sites 7 and 8 comprised two lengths of the water main corridor totalling 840m, parallel to the East Coast railway line, from TL 193 430 to TL 193 421. Site 7 passed close to the west extent of the Holme Green deserted village, and Site 8 was in close proximity to an area of cropmarks identified in the desk-based assessment. The geophysical survey of these areas was inconclusive: some possible archaeological features were identified, but the survey readings were adversely affected by overhead power systems on the railway.",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "No archaeological features were identified in Sites 7 and 8. The soil profile in these areas was noticeably different to that in adjoining sections of the route, having only a very thin layer of topsoil. According to local sources, the topsoil was taken from this area some years previously to cover a disused landfill site near Biggleswade. It is likely that this operation would have truncated or destroyed any archaeological features present.",
+        "page_numbers": [
+          12
+        ]
+      }
+    ],
+    "SITE 9": [
+      {
+        "text": "Site 9 was located immediately north of the Toplers Hill water tower. Although cropmarks have been recorded in this area, the geophysical survey results were inconclusive, probably because of interference from buried water pipes and other services. To the west of the site, evidence was recorded of Bronze Age or early Iron Age features adjacent to the A1 road (Luke 2004).",
+        "page_numbers": [
+          12
+        ]
+      },
+      {
+        "text": "About 150m north of the water tower at NGR 2145 4039 was an oval pit [9001], cut into the natural clay subsoil. This feature (Fig. 9) measured 0.9 $ \\times $ 0.7m, with a depth of 0.6m. Its primary fill consisted of grey brown clayey silt with a few small stones. Overlying this and against the sides of the pit was a deposit of yellowish-brown silty clay probably representing slumping from the sides. The latest fill of the pit was olive-brown sandy silt. Within this layer was a large quantity of charcoal, especially towards the base of the fill. Pottery from the upper layer suggests that this pit was filled during the late Bronze Age or early Iron Age. No other features or finds were observed within Site 9.",
+        "page_numbers": [
+          12
+        ]
+      }
+    ],
+    "FINDS": [
+      {
+        "text": "Apart from pottery and animal bone, the sites examined along the water main route produced surprisingly few archaeological artefacts. With the exception of a bone needle recovered from Site 6, all registered finds (from Sites 2 & 6 only) mostly comprised poorly preserved iron nails or fragments. The copper pin fragment and beads of glass and copper recovered from Cremation [1605] on Site 1 have already been commented upon.",
+        "page_numbers": [
+          12
+        ]
+      }
+    ],
+    "ROMAN POTTERY A. R. Fawcett": [],
+    "SITE 1": [
+      {
+        "text": "A total of 582 sherds weighing 1165g with a R.EVE of 0.81 were recovered from this site. In general the pottery may be described as abraded only [1004] and [1504] appear to contain pottery that is in its original place of deposition. In [1004]",
+        "page_numbers": [
+          13
+        ]
+      },
+      {
+        "text": "two fragmentary jar bases are recorded, dated to the post conquest period. Cremation [1504], also dated to the post-conquest period, holds the preponderance of ceramic data recorded on the site (546 sherds). The average sherd weight is a very low at 1.83g, reflecting the very abraded condition of the pottery. Unfortunately there is little diagnostic data that can be readily identified beyond the general class of vessel available in [1504] (i.e. jar). Nevertheless, at least five different vessels, represented mostly by partial base fragments, are associated with the cremation: two jars, a platter, a possible beaker and finally a bowl (Stead & Rigby 1986, no.259 is a possible match).",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Another jar occurs in [1009]: although too small for an accurate identification, it is contemporary with [1004] and [1504]. All the fabrics in this period are unsourced coarsewares, which are most likely locally produced. A single context [1023] is dated to the late Roman period and this also contains the only sourced fabric, HAD OX.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Apart from the presence of a cremation, no additional worthwhile comment can be made about the status, function or economy of the site due to the limited assemblage.",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "SITE2": [
+      {
+        "text": "This site yielded 600 sherds with a weight of 8754g and R.EVE of 6.17, recovered mostly from pits, gullies and ditches. The pottery from the site as a whole may be described as being mostly slightly abraded.",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Mid 1st to early 2nd century AD": [
+      {
+        "text": "There is no clear evidence for pre-Roman activity: the earliest assemblages fall between the mid 1st and early 2nd century AD. The larger part of the pottery (134 sherds) occurs in [1072] the remaining contexts contain only small numbers of sherds.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "A single samian sherd is recorded, represented by a Drg18/31 transitional plate/bowl from Les Martres-de-Veyre in central Gaul. No RomanoBritish fineware sherds are present. The majority of sherds are in fabric HAR SH; thereafter, small quantities of the unsourced BSW and GRS are noted. The only sourced coarseware from outside Bedfordshire is a single sherd of HAD RE 1.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The main recognisable form class is jars, most of which are too small for further identification. The only interesting piece is a channel-rim type jar from [2073]. This has some close matches from the kiln corpus (Brown 1994, no 36), Verulamium (Wilson 1984, no.2299) and Baldock (Stead & Rigby 1986, no.283). It is dated from the late 1st to the early 2nd century and displays a fairly prominent upper rim (Fig 10.1).",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Early to mid 2nd century": [
+      {
+        "text": "Activity continues into the first half of the second century, although this is represented by only two contexts. Three sherds of central Gaulish samian ware account for the continental fineware input. They are from Lezoux and all form an O & PLV13 cup. Again, no Romano-British finewares are present.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "This phase sees the introduction of DOR BB1 and its local fabric copies. Two forms occur; a plain rimmed dish (Stead & Rigby 1986, no. 677) and a bowl. The latter has no direct match; related forms can be seen at Baldock (ibid, no.416) and in the Kent corpus (Pollard 1988, no. 130). The form is burnished and has convex sides with a downturned rim (Fig. 10.2). Other related types attract a later date and indeed this may have a fairly long life. The only other sourced fabric is HAR SH: the small number of sherds in this ware represent an unidentifiable jar.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The unsourced fabrics are divided between BSW, GRS and GRF. Just one form is present, a jar in the GRF fabric. Similar vessels have been recorded at Stevenage (Waugh 1999, no.131) and Baldock (Stead & Rigby 1986, no.493).",
+        "page_numbers": [
+          14
+        ]
+      }
+    ],
+    "Mid to later 2nd century": [
+      {
+        "text": "This period witnesses a slight intensification in activity on the site. Lezoux samian ware, with two bowl forms Drg 30 and 31, again represents continental finewares. Also present is a single non-diagnostic sherd from Rheinzabern in east Gaul. One sherd from the Lower Nene Valley marks the introduction of Romano-British finewares to the site.",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "The sourced coarseware range once more comprises small numbers of DOR BB1, though as before HAR SH dominates. The only diagnostic sherd within these two fabrics is an unidentifiable jar in DOR BB1. Finally, among the coarsewares are a small number of VER WH sherds, represented by a bifid rim flagon (Wilson 1984 no.1964).",
+        "page_numbers": [
+          14
+        ]
+      },
+      {
+        "text": "Although BSW is consistently present (represented by a single jar) it is GRS that is the dominant unsourced coarseware. Within the GRS group are three plain dishes, one flat rim and one moulded rim type.A single necked jar with cordon and bulge decoration is also present.",
+        "page_numbers": [
+          14,
+          15
+        ]
+      },
+      {
+        "text": "This phase is represented by pottery from a single ditch context. Its main difference from the previous period is the demise of samian on the site and a slight increase in the presence of Lower Nene Valley products. The single form in LNV CC is an indented beaker body sherd displaying rouletted decoration. Also from the same source is LNV WH, represented by a grooved dish (Perrin 1999 no.228).",
+        "page_numbers": [
+          15
+        ]
+      }
+    ],
+    "Late 2nd to early/mid 3rd century": [
+      {
+        "text": "As before, the sourced coarsewares are dominated by DOR BB1 and HAR SH (the only form present being an unidentified jar in the latter fabric). However, of particular interest is the presence of HOR RE from Cambridge. This fabric has only recently begun to be more readily identified beyond the boundary of that county. Recent research has shown that the products of these kilns supply north-west Essex and north-east Hertfordshire (Fawcett 2004; Martin forthcoming), so it is not surprising to find its attendance in east Bedfordshire. The jar form with a bifid rim has no direct match (Fig. 10.3): nevertheless, the general style can be seen in the Evans (1991) notes on the industry.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Although there are sherds present on the site from the earlier Roman period ([6015] & [6007]) the focus for intense activity is clearly over a fairly short period of time. In contrast to Site 2, RomanoBritish finewares are more common, originating from Colchester and the Lower Nene Valley (Table 3). The only form within COL CC is a Cam392 beaker and in LNV CC an indented beaker with 'butchers hook' decoration. All the LNV CC sherds recorded on the site pertain to indented beakers.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Five, sourced coarseware fabrics are present from outside the county: DOR BB1, HAD OX, HAD RE 1, HAD RE 2 and LNV RE. As can be seen from the percentages, the Hadham contribution is higher than that noted on Site 2. The Hadham form range is restricted to three types: a narrow neck jar, a bowl-jar and finally an incipient flanged dish. This latter form (Fig.10.5) has no direct match in this fabric, although at Chelmsford it fits into the B5 category (Going 1987). Not sur-",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "prisingly, the largest proportion of sourced wares is HAR SH (60% by weight). This assemblage is made up entirely of jars, mostly with a variety of everted rims. One type in particular appears to be a transitional type to the undercut and hooked rim later style (Fig.10.6). The jar has light buff surfaces: its nearest match is from the kiln corpus (Brown 1994, no.178).",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "The two dominant unsourced fabrics are UNS BB and GRS. Within UNS BB there are two plain rim dishes, followed by a flat rim version. Unfortunately all the forms within the latter fabric are too small for further identification.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "4th century": [
+      {
+        "text": "A few contexts are placed within the 3rd and 4th century. However, they are poorly dated. Nevertheless, one narrow neck jar with a bifid rim is of interest, as its design is clearly contemporary with the Horningsea style (Fig. 10.4). Although only one context is dated to the 4th century, amongst the surface finds there are also sherds dating to this period.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "Within the small assemblage of [2194] are single instances of late fabrics in LNV CC and HAD OX (with the exception of HAR SH the remaining fabrics are unsourced). HAR SH contains the only diagnostic element, a plain-rimmed dish (Brown 1994, no.368) and a flanged version (Brown 1994, no.344).",
+        "page_numbers": [
+          15
+        ]
+      }
+    ],
+    "Discussion": [
+      {
+        "text": "As a whole Site 2 during the Roman period sees consistent use from around the mid or late 1st to around the late 2nd to early 3rd century. After this period there is still activity although on a limited scale.",
+        "page_numbers": [
+          15
+        ]
+      },
+      {
+        "text": "The small assemblages assigned to each phase make it difficult to draw firm conclusions and indeed to make meaningful comparisons with other local and regional sites. Nevertheless, one or two basic deductions can be attempted. Firstly, none of the assemblages in any of the phases suggests high status activity, the amount of samian and other finewares as a whole being comparable to basic rural activity. Equally outside the fineware categories there is little of consequence coming from beyond the modern county boundary, with the exception of DOR BB1 and a few sherds of VER WH. Considering the close proximity of the large rural nucleated kilns at Hadham and later on at Horningsea, it is notable that products from these centres have made a negligible impact on the site. This contrasts with the evidence from Site 6 (below). Excavations at Friary Fields in Dunstable displayed a similar lack of Hadham wares (Fawcett 2005). Nevertheless, one must take into consideration the consistent output of the shell-gritted industry throughout the Roman period in this area: HAR SH is always the most prevalent fabric on the site across all phases.",
+        "page_numbers": [
+          15,
+          16
+        ]
+      },
+      {
+        "text": "The form assemblage is equally unimpressive throughout, dominated by a basic range of jars and dishes in the coarseware category, with only one instance of a flagon. Although most of this assemblage may be described as being 'slightly abraded' with a reasonable diagnostic element, mostly the forms are not identifiable beyond their general class. As the finewares suggest, only a very small number of beakers, cups and bowls are present.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "The overall analysis suggests low-grade rural activity with a fairly basic local economy. The samian and DOR BB1 would have been readily available from local trading centres, and are not indicators of a dynamic economy. However, we must also consider that this assemblage does not represent the main focus of activity for this site,",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "which is probably situated beyond the excavated area.",
+        "page_numbers": [
+          16
+        ]
+      },
+      {
+        "text": "Prehistoric and Roman assemblages of charcoal were examined to obtain environmental data and evidence of species selection for domestic and funerary uses. The taxa identified suggest that the local environment supported woodland communities composed of oak (Quercus sp.), ash (Fraxinus excelsior) and field maple (Acer campestre), with more open areas and marginal woodland colonised by shrubs and scrub, e.g. blackthorn (Prunus spinosa), hawthorn/ Sorbus group (Pomoideae) and wayfaring tree or guelder rose (Viburnum sp.).",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The sample from the fill of prehistoric pit 9001 was interpreted as domestic fuel debris and identified the use of oak and field maple and twiggy pieces of blackthorn and wayfaring tree or guelder rose.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "Samples from the Roman cremations [1501 1502 and 1508], represented pyre fuel and demonstrated a strong preference for ash and oak. These residues suggest that the cremation pyres were constructed from poles or wide roundwood with a high percentage of sapwood.",
+        "page_numbers": [
+          22
+        ]
+      }
+    ],
+    "DISCUSSION": [
+      {
+        "text": "Site 6 demonstrates a little more diversity than Site 2, with a higher percentage of imports from outside the county. Nonetheless, apart from the beakers in the fineware category, the coarseware form range is as restricted as before; composed of jars and dishes with beakers and flagons being totally absent.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "On the face of it, this assemblage seems to represent a slightly higher status than that from Site 2. However, in the absence of other evidence it should still be regarded in a similar vein to Site 2 in terms of function and economy.",
+        "page_numbers": [
+          17
+        ]
+      },
+      {
+        "text": "Unfortunately, there is too little in the published record for Bedfordshire containing phased percentages of ceramics to provide a meaningful comparison of data. However, one possible road of enquiry worth pursuing is the economic interaction between the industries of Hadham and Harrold. Once quantified data is available from Bedfordshire, the interaction may be measured throughout the Roman period at any one given time and against different classes of sites. Furthermore, assemblages may then be used for comparative exercises with Cambridgeshire, Essex and Hertfordshire. For instance, the Roman site at Chells (Stevenage) in ceramic periods 3 to 4 (AD130 to 260/75) rose from 21% to 45% of HAD RE1 and HAD OX (by weight percentage of the assemblage). In comparison; HAR SH products went from 4.5% to 10% in the same period (Waugh 1999, 108-110). Table 3 demonstrates a reversal of this trend.",
+        "page_numbers": [
+          17
+        ]
+      }
+    ],
+    "ENVIRONMENTAL REMAINS": [],
+    "METHODS": [
+      {
+        "text": "Sample volume and weight was measured prior to processing. The samples were washed in a 'Siraf' tank (Williams 1973) using a flotation sieve with a 0.5mm mesh and an internal wet sieve of 1mm mesh for the residue. Both residue and flot were dried, and the residues subsequently refloated, to ensure the efficient recovery of charred material. The dry volume of the flots was measured and the volume and weight of the residue recorded. A total of 190.5 litres of soil was processed in this way.",
+        "page_numbers": [
+          17,
+          18
+        ]
+      },
+      {
+        "text": "The residue was sorted by eye, and environmental and archaeological finds picked out, noted on the assessment sheet and bagged independently. A magnet was run through each residue in order to recover magnetised material such as hammerscale and prill, and a count was made of the number of flakes or spheroids of hammerscale collected. The flot of each sample was studied under $ \\times10 $ magnification and the presence of environmental finds (i.e. snails, charcoal, carbonised seeds, bones etc) was noted and their abundance and species diversity recorded on the assessment sheet. Along with the finds from the sorted residue, these constitute the material archive of the samples.",
+        "page_numbers": [
+          18
+        ]
+      }
+    ],
+    "RESULTS": [],
+    "Site 1": [
+      {
+        "text": "Following processing and initial sorting, the flots and residues were passed to the appropriate specialists (below) for examination and reporting. The individual components of the samples were then identified. Detailed statistical results of the analysis are retained in the site archive.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Environmental samples were collected from all nine of the possible Roman cremation burials at Site 1. Three of the samples contained pottery, Cremation [1504] producing a considerable number of sherds from one or two vessels (pottery report, above). A copper alloy pin was present in [1502], and a copper alloy bead and a glass bead in [1508]. All the samples produced burnt bone although preliminary study identified cremated human bones only in [1500] and [1504], although in the other samples the bones was so fragmented that identification was difficult. The cremated bone is reported on separately below. An unburnt horse tooth was recovered from Cremation [1501].",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "The flots from all but three of the cremations were very small, with small amounts of comminuted charcoal and one or two charred cereal grains and weeds seeds (below). Cremations [1501] & [1502] contained somewhat larger flots, and Cremation [1508] produced a large flot with abundant charcoal and several charred cereal grains and weed seeds. The charred plant remains are reported in detail below.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Five of the cremation samples contained snails, but in three these were shells of the blind burrowing snail Cecilioides acicula, a species almost certainly intrusive into the deposits. Two of the samples produced other taxa (Table 7), [1502] containing a few shells of the genus Vallonia sp. a group associated with grassland, and [1508] produced taxa characteristic of open country grassland habitats and damp or marshy ground. The most abundant shells in this small assemblage are Vallonia excentrica and Pupilla muscorum, indicating the dominance of the grassland element.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "Seventy-three bone fragments were hand-collected from Site 1. Fifty-four of these were recovered from [1005] and a further 19 from [1011]. Both contexts are fills from segments of Ditch 101 and date to the late Iron Age. This small assemblage is dominated by cattle bones (Table 7), with horse bones and teeth next in abundance and sheep/goat the least frequent. No other species are recorded. The assemblage is small, but includes bones or teeth from immature and adult cattle, immature and adult horse and immature sheep. Five of the fragments show evidence of dog gnawing, while one scapula of an ox is butchered. One cattle horn core from [1005] is robust and suggests a large bull.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "A relatively small quantity of charcoal was recovered from the fill of pit 9001. Deposits of charred cereal grain and animal bone suggest that the pit was used to dump domestic rubbish and, by association, it seems likely that the charcoal represents The seven cremation samples produced very small plant assemblages with occasional grains in five of the samples, including wheat grains in two samples [1502,1504] and a wheat glume base in [1506]. The charred remains in [1508] were different from the other samples in containing charred tubers, possibly of onion couch (cf. Arrhenatherum elatius), and a few other weed seeds including medick/trefoil (Medicago/Trifolium spp.). Onion couch has been found in association with Bronze Age cremations at Raunds, Northamptonshire (Parry 2006,45), which also included small leguminous plants). It is possible that the onion couch was used as tinder for the cremation together with the other wild plants represented by weed seeds.",
+        "page_numbers": [
+          22,
+          24
+        ]
+      }
+    ],
+    "Site 2": [
+      {
+        "text": "Three samples were collected from Site 2. Samples 1 and 2 were taken from the fills of 2ndcentury pit [205/206] (Fig. 5) and Sample 3 from the first recut of ditch [210], of mid-late 2ndcentury date (Fig. 6). The pit produced pottery, an iron object, a little fired earth, a few flakes of hammerscale and animal bone, particularly in the later fill [2025]. The ditch also contained a few flakes of hammerscale but little else.",
+        "page_numbers": [
+          18
+        ]
+      },
+      {
+        "text": "The flots from these samples were small and little charcoal and few seeds were recovered. The upper fill of the pit, [2025], produced a few charred cereal grains including wheat, and the gully fill [2077] also produced charred wheat grain. The primary fill of the pit, [2037], produced no identifiable charred plant remains, although a single fragment of grain was present. It did produce a small fish vertebrum, although of such a small size that it is unlikely to have derived from a fish that was eaten. The presence of house mouse in [2025] suggests that buildings may have been located nearby since this species normally occupies houses, barns and other buildings. The charred cereal remains and weed seeds are considered in more detail below. All three samples produced small assemblages of terrestrial snail shells (Table 7) and all indicated an open country grassland habitat around the sampled features.",
+        "page_numbers": [
+          18,
+          19
+        ]
+      },
+      {
+        "text": "This site produced the largest collection of hand-collected animal bone from the pipeline. Three hundred and fifty bone fragments and parts of two skeletons of cattle were recorded. The assemblage contains a much larger number of fragments but many of these are due to modern breaks and could be recorded together as a single bone. The level of recent breakage is indicated by the fact that the 350 recorded fragments derive from 571 fragments counted after bone washing. The number of fragments deriving from the two partial skeletons was not counted but approximates to 345.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Most of the assemblage has been dated to either the early Roman or the late Roman period, with a few fragments from 'modern' contexts or unstratified. Much of the material is in a good state of preservation, only four fragments showing signs of erosion and degradation. Thirty-two fragments show evidence for dog gnawing and eighteen carry physical evidence for butchery in the form of chop or knife marks.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Although the data are limited it is clear that there is an appreciable increase in the proportion of cattle bones in the 4th-century phase. This is largely a product of two contexts, [2049] and [2063], which might contain unrepresentative assemblages. This is certainly the case for [2063], since this gully fill contains parts of at least two, and possibly three, different cattle skeletons and is clearly not a domestic rubbish assemblage. However, even excluding these contexts, cattle bones outnumber sheep by 70% in the 4th century, compared to a numerical dominance of sheep bones in the 1st to 2nd-century group. This may well be a real difference between the animal economies of the two phases, but the sample is not large enough to give confidence to this statement. Other identified species include horse, pig, dog, chicken, an indeterminate wild bird, an indeterminate fish and frog or toad bones.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "There is a small amount of data relating to the age at death of the main domestic species. One calf bone was recovered from the 1st to 2nd-century group: otherwise, the cattle bones indicate animals slaughtered as sub-adults or adult animals. This contrasts with the data for the 4th century. In these contexts the cattle bone assemblage includes a number of calves, immature animals and an adult on the dental data. This is supported by the postcranial bones, which are dominated by bones of calves and immature beasts. Although the sample sizes are small this does appear to be a radically different age structure, although it must be remembered that the assemblage includes at least two calves that probably died through natural causes and this does not, therefore, reflect the slaughter pattern. The change in the cattle bone assemblage may reflect a difference in the character of the settlement, and the presence of the calf bones and skeletons in the 4th-century group indicates a farmstead or holding breeding their own animals, but it could also be due to a difference in the husbandry of the stock.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Unfortunately the data for the sheep are more limited, although immature and adult animals are present in both phases of occupation, and one mandible from the 1st to 2nd-century group and a metapodial derive from animals no more than a few months old. The small group of pig bones includes fragments from juvenile, immature and young adult animals, the last represented by a mandible with its 3rd molar just coming into wear.",
+        "page_numbers": [
+          19
+        ]
+      },
+      {
+        "text": "Pit [2023],fill [2025], dated 2nd century: This sample produced 29 identifiable items consisting mainly of unidentifiable cereal remains although a few wheat grains were identified, with a tentative identification of spelt based on one of several recovered glume bases. There were also a few weed seeds. This material represents the burnt residues from virtually fully processed cereal crops.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Gully [2076], fill [2077], dated mid-late 2nd century: The charred plant remains in this sample included a few cereal grains, including emmer/spelt (Triticum dicoccum/spelta) and a small range of weed seeds including leguminous plants, buttercup (Ranunculus acris/repens/bulbosus), nettles (Urtica spp.) and indeterminate grasses.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "Ditch 200, Context 2063": [
+      {
+        "text": "This context, a 4th-century ditch fill (Fig. 4), contained the partial skeletons of at least two cattle. One, a young calf, is represented by a large number of bones including parts of the vertebral column, the ribs, the skull, the front and back limbs. It is clear anatomically that the bulk of the bones and fragments can be assigned to this animal. A second young animal, a little larger and possibly a little older, but still with all the epiphyses unfused, is represented by a back leg including the femur, tibia, and ankle joint. Several other bones may derive from this individual. Four cervical vertebrae have come from an animal of similar age; two scapulae could also derive from this animal, as could possibly one of a pair of right mandibles. Most of this material was excavated as a single deposit in which the bones of both calves can be seen. The neck and thoracic and lumbar vertebrae of the younger calf were articulated while a displaced front and back limb and the pelvic bones and another scapula suggest considerable disturbance to this burial. A femur and tibia of a second animal and the four cervical vertebrae can be seen at the left side of the image. The three visible mandibles clearly indicate the presence of at least two animals in this group. A third juvenile is represented by another mandible, and a fourth by most of a foot, including the 1st and 2nd phalanges and one 3rd phalanx, although neither of these is visible in the photograph. The latter bones are fused and indicate an animal older than the other three. One cervical vertebrum whose central epiphysis is fused may represent yet another animal, in this case a fully adult individual. An absence of butchery marks on any of these bones and no evidence for dog gnawing suggests that the two calves at least may have been buried in the gully, but both burials have been heavily disturbed, the larger calf perhaps being partially ploughed out.",
+        "page_numbers": [
+          19,
+          20
+        ]
+      }
+    ],
+    "Site 2 discussion": [
+      {
+        "text": "Most of the material in the samples and the hand-collected bone from the 1st to 2nd-century group phase of activity suggest occupation debris, with perhaps some evidence for crop processing and an indication that iron-smithing was undertaken somewhere on the site. Cattle and sheep may have been kept in similar numbers with pig somewhat less important. On the other hand the animal bone assemblage from the 4th-century features presents a somewhat different picture. Cattle dominate the assemblage and a number of partial skeletons are present, suggesting that fallen stock was being disposed of in the gullies and pits at this time. This might indicate a movement of the habitation away from this area, but as it was not possible to take soil samples from this later phase, it has not been possible to assess the density of other remains in the deposits.",
+        "page_numbers": [
+          20
+        ]
+      }
+    ],
+    "Site 6": [
+      {
+        "text": "The only environmental finds from Site 6 are the hand-collected animal bones. This small group comprises ninety-nine recorded fragments (Table 6), from eight contexts, all of them ditch fills. The bulk of this material dates to the early-mid and middle Roman period. Cattle outnumber sheep bones by two to one, with horse, dog and chicken comprising the other identified taxa.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "There is little that can be said about the assemblage. The three ageable sheep/goat bones all derive from adult animals, while a cattle mandible indicates a young calf and a single cattle 3rd maxillary molar an animal of sub-young adult age.",
+        "page_numbers": [
+          21
+        ]
+      }
+    ],
+    "Site 9": [
+      {
+        "text": "This sample produced the richest flot with spelt wheat chaff, wheat, barley and oat grain (below) and relatively abundant charcoal. Among the bone fragments from the residue pig, sheep/goat, field vole and a mouse were identified. The small assemblage of terrestrial snail shells (Table 7) indicates an open grassland environment around the pit, but a marsh element in the fauna suggests either that the pit or its immediate surroundings were wet or damp at the time of deposition, or perhaps the pit received vegetation collected from such an environment.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "A single soil sample was collected from pit [9001]. The pit fill is dated to the late Bronze or early Iron Age and it proved to be the richest of the sampled features. Pottery, fired earth and bone were recovered from the sample and a magnetic component of 10g suggests that the fill included mineral material that had been heated in a fire. Microscopic examination showed that this magnetic fraction was a mixture of heated ironstone grits and fired earth crumb.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "This mixed collection of pottery, bone, charred cereal, charcoal and fired earth has the character of habitation rubbish and the discard of domestic fire debris.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The sample from [9002], dated to the late Bronze/ early Iron Age, produced 67 identifiable and quantifiable items, over 50% of the quantified items from the site. The plant remains consisted mainly of cereal grains, although most of the grains were very fragmentary and not identifiable. The few better-preserved grains were identified as barley (Hordeum sativum) (including evidence for sixrow hulled barley) and wheat (Triticum spp.), with several wheat glume bases indicating the presence of spelt (T. spelta). There were also a few oat (Avena spp.) grains, although these may be wild rather than cultivated grains. A small number of weed seeds were also identified, including bromes (Bromus spp.), dock (Rumex sp.) and scentless mayweed (Tripleurospermum inodorum), a weed of waste, rough and cultivated ground.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "This plant assemblage represents mainly the burnt residues of processed grain, possibly accidentally charred during drying of the crop or cooking over open fires.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "CHARCOAL": [],
+    "Methodology": [
+      {
+        "text": "The flots and charcoal sorted from the residues of these four samples were scanned under low magnification and the charcoal separated from other plant macrofossils. Stems with intact radial or cross-sections were rare. Charcoal fragments measuring >2mm in radial cross-section were considered for species identification. Context [9002] from pit [9001] was 50% subsampled.",
+        "page_numbers": [
+          21
+        ]
+      },
+      {
+        "text": "The condition of the charcoal was mostly fairly good, although it was sometimes rather friable. Standard methods were used to prepare the samples for examination (Gale and Cutler 2000). The anatomical structures were examined using incident light on a Nikon Labophot-2 compound microscope at magnifications up to $ \\times 4 0 0 $ . The taxa identified were matched to prepared reference slides of modern wood. When possible, the maturity of the wood was assessed (i.e. heartwood/ sapwood) and stem diameters recorded. It should be noted that charred stems may be reduced in volume by up to 40%",
+        "page_numbers": [
+          21
+        ]
+      }
+    ],
+    "Results": [
+      {
+        "text": "Pomoideae, which includes Crataegus sp., hawthorn; Malus sp., apple; Pyrus sp., pear; Sorbus spp., rowan, service tree and whitebeam. These taxa are anatomically similar: one or more taxa may be represented in the charcoal.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "domestic fuel debris. Examination of the charcoal indicated the use of oak (Quercus sp.), field maple (Acer campestre), the hawthorn/ Sorbus group (Pomoideae), blackthorn (Prunus spinosa) and wayfaring tree or guelder rose (Viburnum sp.). Both the Viburnum and blackthorn consisted of narrow roundwood measuring about 5mm in diameter.",
+        "page_numbers": [
+          22
+        ]
+      },
+      {
+        "text": "The results are shown in Table 9. Charcoal was present in small quantities in most of the samples, with three producing relatively large or large quantities. However, the samples only produced very small quantities of other identifiable charred plant remains with a total of just 125 quantified items and a very low item density of counted plant remains per litre of processed soil. Most of the botanical remains were from the late Bronze Age/early Iron Age pit fill [9002] from Site 9 and from two of the samples from Site 2, the fills of Roman pit [2025] and gully [2077]. Very little material was recovered from the Roman cremation fills from Site 1. The identifiable remains from most of these fills consisted largely of fragmented cereal grains plus occasional chaff fragments, a few weed seeds and tubers.",
+        "page_numbers": [
+          24
+        ]
+      },
+      {
+        "text": "Virtually all the analysed samples contained small numbers of uncharred seeds from mainly high seed producing plants of waste places and disturbed (including cultivated) ground; e.g. chickweed (Stellaria media gp.), goosefoots/oraches etc. (Chenopodium/Atriplex spp.) and black bindweed (Fallopia convulvulus). Rootlets were also present in many of the samples, and two of the cremation samples [1504, 1508] included quantities of modern straw and chaff indicating the ploughing-in of recent cereal crops.",
+        "page_numbers": [
+          24
+        ]
+      }
+    ],
+    "CHARRED PLANT REMAINS": [],
+    "Identification": [
+      {
+        "text": "A binocular microscope was used together with modern and charred reference material and reference manuals for the identification of the botanical material. Taxonomic order and habitat information was obtained from Flora of the British Isles (Clapham et al 1987). All the identifiable charred plant items were counted except for very small charred cereal and possible cereal fragments, tubers, charcoal and indeterminate items. The frequency of the unquantified remains was estimated using the following codes: + = 1-10; ++ = 11-50; +++ = 51-150; ++++ = 150 + fragments.",
+        "page_numbers": [
+          22,
+          24
+        ]
+      }
+    ],
+    "CONCLUSIONS": [
+      {
+        "text": "The results from Site 1 are interesting in that they show a specific selection of poles or fairly wide roundwood of oak and ash to fuel the fires of the cremation pyres. Rare cereal remains, charred grass stems and possible onion couch may indicate the use of straw and grasses as tinder. The accumulation of domestic animal bones in the fills of two parallel ditches suggests some occupation nearby in the late Iron Age.",
+        "page_numbers": [
+          24,
+          25
+        ]
+      },
+      {
+        "text": "At Site 2 the debris recovered from the 1st to 2nd-century phase of Romano-British activity suggests habitation in the immediate vicinity. The soil samples produced a scatter of domestic rubbish, house mouse was present and charred wheat and barley, with a tentative identification of spelt wheat chaff, indicate the cereal crops being exploited. The cereal grains may have been used for bread, porridge, gruel and cakes (Wilson 1991, 234). Wheat was probably used exclusively for human food, while barley may also have been used for animal fodder, particularly for horses, and possibly brewing, although no sprouted barley grains were found on the site. There were also a small number of chaff fragments and weed seeds in the samples, which are probably by-products of crop processing, later burnt as fuel. An assemblage of animal bones shows that cattle and sheep were the major contributors to the diet at the site, with pig and even fish also present. This material is butchered and gnawed, indicating that it has been processed for consumption and discarded for the local dog population to scavenge. The few snails in the samples indicate an open grassland environment in the immediate vicinity of the sampled features.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The 4th-century phase of Romano-British activity at this site appears quite different. We have no samples from this phase to compare with the earlier material, but the animal bone assemblage is quite different. One gully and a ditch appear to have been used for the disposal of whole animal carcasses that have later been disturbed, possibly by burials or ploughing, and cattle bones are considerably more abundant than in the earlier phase of activity. The presence of a number of calves and immature animals in this assemblage contrasts with the earlier sample suggesting a different husbandry of the cattle. Although we have no soil samples from this later phase, the bone assemblage suggests a site on which the breeding of animals, and disposal of cattle and horses was taking place. It seems less likely that animal burials would be placed close to a habitation, and although the bone sample is much larger from this phase, the number of butchered and dog gnawed bones (excluding context 2063) is less than in the 2nd century sample. The domestic buildings may be further away than in the earlier phase.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The only environmental remains from the early to mid and middle Roman activity in Site 6 are a few animal bones. These allow little interpretation, but show a dominance of cattle bones over sheep, with dog, pig and horse the only other identified species.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "Site 9 is represented by a single environmental sample taken from a late Bronze Age/early Iron Age pit. Although this is the richest sample from the pipeline we can deduce little from it. The charcoal indicates a disposition to collect fuel from a fairly wide range of species, with oak, field maple, Pomoideae, blackthorn and wayfaring tree or guelder rose giving some idea of the woodland, scrub or hedgerow resources exploited for fuel. Spelt wheat and barley have been identified among the cereal grains and the few oat grains found probably represent cereal weeds rather than crops. The few snails reflect an open, but perhaps damp, environment around the pit. The few domestic animal bone fragments indicate the presence of pig and sheep/goat at the site. This assemblage appears characteristic of a domestic context and suggests that contemporary habitation must have been located very nearby, perhaps truncated by ploughing and later activity or outside the easement of the pipeline.",
+        "page_numbers": [
+          25
+        ]
+      }
+    ],
+    "HUMAN REMAINS": [],
+    "Simon Chapman": [],
+    "INTRODUCTION AND METHODS": [
+      {
+        "text": "Human remains were recovered from two sites in the water main corridor. Two of the possible cremations on Site 1 [1501, 1504] contained fragments of human bone, and an isolated inhumation [2000] was recovered from the east end of Site 2.",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "The cremations were analysed in a quite different manner to the inhumation. Due to the fact that the skeletons themselves had been heavily reduced during their cremation and subsequent excavation, and since most of the remaining bone had either shrunk or shattered, it was necessary for a far more painstaking analysis to be carried out. Firstly, each of the cremations was sieved through progressive wire meshes (10mm, 5mm and 1mm) in order to separate the bone fragments according to constituent sizes. The different levels could then be viewed, piece-by-piece, through a desk magnifier. The fragmented bone from each cremation was classified according to specific type. In most cases the classificatory terms used were general ones:",
+        "page_numbers": [
+          25
+        ]
+      },
+      {
+        "text": "cranial, appendicular (upper limb/lower limb), axial etc., since the small size of the fragments made specific identification virtually impossible. However, in some instances specific bones could be identified according to unique morphology (Spence 1967). These bones were further examined in an effort to determine age and sex characteristics, using the methods described by Wells (1960), Gevall (1971) and McKinley (1989). Each cremation was then recorded in terms of the weight of the whole cremation and of its constituent elements, of its percentage composition, in terms of metrical variations (Gevall 1971) and according to visual characteristics.",
+        "page_numbers": [
+          26
+        ]
+      }
+    ],
+    "The Inhumation (Skeleton 2000)": [
+      {
+        "text": "Due to the fact that the surviving bone from this skeleton was of an extremely fragmentary nature (Table 10), very little discussion could be generated from their analysis. From the evidence of the in situ photograph of these remains (Plate 1) it appears that the skeleton consists of the right hand, right thigh (femur), right lower leg (tibia and fibula), and skull (cranium and mandible). It is uncertain whether the skull, positioned next to the inner calf of the right leg, originated from the same individual, thus representing a disturbed or decapitation burial, or whether it represents a second individual entirely. The surviving right leg appears to be articulated, and the associated hand in correct anatomical position for an articulated skeleton. Aside from the skull, the remainder of this skeleton appears to be laid out on its back (supine) and fully extended, with the right hand at its side.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Due to the high level of fragmentation of the bones from this skeleton it was not possible, nor practical, for any metrical study to be carried out. All but one of the standardised measurements described by Bass (1987) and Brothwell (1981) were unobtainable, due either to bone absence or fragmentation (the height of the mandibular symphysis $ \\mathrm{H}_{1} $ being the only exception to this rule at 24mm).",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Sexing of this individual was problematic in the absence of the most reliable bones for sexual dimorphism (pelvis, cranial morphology and heads of long-bones). Only the 'chin-line' of the mandible gave a suggestion of male characteristic (Keen 1950), in that it was more flattened and squared than might be expected for a female. The sexing of this individual as male should thus be seen as a 'best guess', as opposed to a certainty.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The age of this individual was similarly difficult to determine in the absence of virtually all epiphyses and of the pubic bones, the most accurate ageing criteria (Brothwell 1981.60), (White 1991.314) (Brooks & Suchy 1990). The only usable criteria remaining was that of tooth enamel attrition, based on the assumption that teeth wear down at a standard rate during the life of the individual. Using data collected by Miles (1963) and Brothwell (1981) the loose teeth can be seen to display wear patterns consistent with an individual of between 30-40 years.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "A full examination of each of the bones present was carried out in the hope of identifying any extant pathology, non-metric variations (NMV's) and so on. However, no features of any note could be identified. It was also hoped that an examination of the surviving atlas and axis bones of the neck would shed some light on the possibility of decapitation. However, none of the surviving fragments displayed any sign of cut or chop marks to prove or disprove the theory.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "The weights of the cremated bone samples (237g /944g) compared to cremation weights obtained elsewhere, can be said to be of fairly small size. McKinley (1989, 69) observed wide range of weights for adult cremations, ranging 200-2,000g (up to 3,600g from modern crematoria), but with a mean weight of c.800g.",
+        "page_numbers": [
+          26
+        ]
+      },
+      {
+        "text": "Most of the bone represented (Table 11) had been fully calcined. Cremation [1500] displayed uniformity of colour, almost entirely a pale whitish grey, while in Cremation [1504] about 30% of the bone was less well calcined, indicated by a darker blue grey colouration.",
+        "page_numbers": [
+          27
+        ]
+      },
+      {
+        "text": "The loss of the organic components of bone results in it becoming very brittle. Consequently the remains had been shattered into very small pieces prior to analysis. Fragment size may have been further reduced by intentional breaking and grinding of the remains prior to final burial, though as McKinley (1994) argues, fragmentation was also an inevitable product of the cremation process and of post-depositional taphonomy.",
+        "page_numbers": [
+          27,
+          28
+        ]
+      },
+      {
+        "text": "Most of the bone had suffered from shrinkage and/or distortion, especially in the case of the longbones, which tended to twist and splay out at their ends. The surface of the bone was fissured with both curving and serrated cracks by the effects of very high firing temperatures.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "As most of the bone was of very small fragment size, and due to the lack of distinguishable fragments, each cremation can only be said to contain the remains of a minimum of one individual. In the absence of more detailed evidence, it is not possible to determine the precise nature of the cremation rites and procedures being followed here.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "Determination of age and sex in cremated bone samples, wherever possible, follows the same methods as would be employed in unburnt skeletons (Bass 1987), (Brothwell 1981), (Workshop of European Anthropologists 1980), principally through examination of sexually dimorphic features of the pelvis and skull for sex, and bone and dental development and degradation for age determination. However, such methods do rely heavily on the preservation of large pieces of the relevant bones. Some research has been undertaken into the sex determination of highly fragmentary/cremated remains, notably by Van Vark (1975) and Gejvall (1971), using bone thickness. However, these secondary methods are far less accurate than the primary ones mentioned, and are usually only employed if primary features are not present for analysis. Neither of the Biggleswade cremations could be sexed in the traditional manner, so secondary methods based on the thickness of the cranial vault, as described by Gejvall (1971), were employed (Table 12).",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "Determination of age at death for either of the individuals, represented by the cremated samples, was not possible in the absence of diagnostic parts (bone ends, teeth and pelvis).",
+        "page_numbers": [
+          28
+        ]
+      }
+    ],
+    "Conclusions": [
+      {
+        "text": "No discussion is possible regarding the state of health and/or conditions of life experienced by this small population, due to the fact that the bone remains had been largely destroyed.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "However, analysis of the cremation burials has shed some light on the nature of the funerary ritual associated with human remains at Site 1. Studies of modern crematoria (operating at between 500-1000 $ ^{\\circ} \\mathrm{c} $ , well above the temperatures obtainable in ancient pyres) have shown that an adult body will reduce to between 1,600g-3,600g of calcined bone (McKinley 1989.66). What is most likely occurring at Biggleswade, and at other ancient pyre sites, is the burning of the body on a pyre construction followed by a selective removal of human bone for secondary burial elsewhere Since, following the collapse of the pyre, the calcined bone would have been mixed with other burnt remains (wood, grave goods etc.) it seems highly likely that only a small percentage of the original body would be recoverable. McKinley (1989) has speculated about possible methods of this retrieval, which may include raking, picking by hand and even winnowing, each of which would favour the recovery of the larger surviving fragments, predominantly the limb and cranial bones. Bones with more fragile interior structures, such as pelvis, vertebrae, ribs and long-bone ends crumble more readily, especially during pyre collapse, and tend to be lost in the debris along with the small bones of the hands and feet. This is certainly upheld by the evidence from the Site 1 cremations.",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "That the fragments of bone were so heavily calcined and fragmented suggests that the pyre was either maintained at high temperatures for a short time or lower temperatures for a very long time. The fact that Cremation [1504] displayed less complete calcination may be an indication that this pyre was not so well maintained as Cremation [1500].",
+        "page_numbers": [
+          28
+        ]
+      },
+      {
+        "text": "Finally, the presence of curved and serrated fractures and bone warpage (Baby 1954); (Spencer 1989); (Thurman & Willmore 1981); (Buikstra & Swegle 1989); (Piontek 1976) on the analysed cremated fragments indicates that both of the cremated individuals from Biggleswade were burnt as 'fleshed bodies'. These attributes may be a result of the differential speeds of desiccation, and, in the case of fleshed bodies, the rapid contraction of the large muscles in intense heat, leading to the assumption of the so called 'pugilistic pose'.",
+        "page_numbers": [
+          28
+        ]
+      }
+    ],
+    "CONCLUSION": [
+      {
+        "text": "The watching brief and excavations along the route of the water main have enabled the examination of a considerable swathe of the mid-Bedfordshire landscape in a single project. The route commenced in the archaeologically rich Ouse Valley, crossing the apparently archaeologically barren Greensand Ridge, and descending into the Ivel Valley with its extensive prehistoric cropmark sites. From the evidence obtained during the project it is clear that the route did not disturb any major settlements, and it is most likely that it passed through areas which have never been anything more than agricultural land with scattered farmsteads and hamlets, much as is still evident today. Archaeological features were revealed and excavated in four of the nine possible locations identified along the pipeline route by the deskbased study and geophysical survey.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "On the heavy clay soils of the Ivel Valley, which extends from the start of the pipeline route to the foot of the Greensand Ridge, no archaeological finds or features were identified. From the base of the ridge to Site 1, evidence of ridge and furrow ploughing was noted. On Site 1 the presence of 1st century cremations and Roman drainage ditches indicates that parts of the northwest-facing slope of the ridge was being used for both burial and agriculture. On this evidence it seems likely that the upper slopes of the ridge were not heavily wooded at this time. It can also be assumed that a small farmstead or settlement existed in the vicinity during the 1st or early 2nd centuries AD. A possible candidate for this might be the cropmark site HER 16752, which lies c.400m south of Site 1.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "On the east part of the route, the largest and possibly the most significant site examined was Site 2. Here the geophysical survey indicated the presence of a complex of pits and ditches. This was largely confirmed by the excavation, which revealed three concentrations of inter-cutting features, mostly field boundaries, and some pits, all of Roman date. Most features appeared to be of late 1st to 2nd-century date, though a few ditches were not infilled until the 4th century. Quantities of pottery sherds and animal bone again indicated the presence of occupation nearby: in this instance, the most likely location for this is the cropmark site HER 16787, comprising a trapezoid enclosure which lies immediately to the north of Site 2.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "Moving eastwards, the pipeline route passed to the north of Broom Quarry, where activity from the Bronze Age onwards has been amply recorded in the HER though not, as yet, published. As there are extensive areas of cropmarks to the north (HER 9093) and east (HER 15099) of the quarry it was supposed that these were in effect an extension of the Broom Quarry site, and that the pipeline route would encounter significant archaeology in this area. The fact that neither the geophysical survey nor the controlled topsoil stripping and subsequent watching brief in Sites 3 and 4 revealed any archaeological features cannot be readily explained. One possible explanation is that Area 3 was either part of a large ditchless field or a narrow dead area between two areas of activity during the later Iron Age and Roman period.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "The circular feature shown in the geophysical survey on Site 5 proved to be similarly elusive, and even more inexplicable. The geophysical evidence for this feature appeared conclusive, but supervised topsoil stripping and a subsequent excavation failed to locate it. The reason for this remains uncertain.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "Excavations at Site 6 revealed a group of ditch terminals, all of Roman date. The finds recovered from them indicate the presence nearby of a hitherto unrecorded occupation site, possibly in the field to the north. As the pipeline was drilled through that area, no opportunity was afforded to test this hypothesis.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "To the east of the railway crossing, Sites 7 and 8 proved barren, confirming the results of the geophysical survey. It was evident here that the most of the topsoil had been removed from this area in the recent past for re-use elsewhere, an operation that most likely would have severely damaged or destroyed any archaeology that might have been present.",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "On Site 9, the isolated Bronze Age pit may relate to the contemporary activity recorded in recent excavations at Toplers Hill, 150m to the north (Luke 2004).",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "In conclusion, it seems reasonable to say that the archaeological strategy adopted to minimise the impact of the pipeline on the archaeology along its route was successful. With the exception of the circular feature on Site 5, the findings of the monitored stripping and watching brief were largely in agreement with the geophysical survey results and the information gained from the desk-based study. No unexpected sites were discovered during the watching brief. It might be argued that fieldwalking the route, and possibly trial trenching the anomalies revealed in the geophysical survey,",
+        "page_numbers": [
+          29
+        ]
+      },
+      {
+        "text": "might have been of use in adjusting the final course of the pipeline to minimise its archaeological impact still further. However, given the nature of the access problems inherent in this type of project, and the fact that sufficient provision was made to deal with any archaeology, known or unsuspected, that might be revealed during construction, use of these additional investigative techniques would probably not have made any difference in this case.",
+        "page_numbers": [
+          30
+        ]
+      }
+    ],
+    "ACKNOWLEDGEMENTS": [
+      {
+        "text": "The writers are grateful to Anglian Water Services Ltd and their engineers, BSP Associates Ltd, for commissioning and funding the archaeological work on the pipeline. Special thanks go to Nick Russell and John Vevar for their co-operation and assistance on site, and to Richard Skyte (BSP), Keith Lewcock (AWSL Pitsford) and Mark Williams (AWSL Peterborough) for their support. The writers would also like to thank Martin Oake, the Bedfordshire County Archaeological Officer, for his enthusiasm and advice during the fieldwork.",
+        "page_numbers": [
+          30
+        ]
+      },
+      {
+        "text": "The project was managed for ASC by Bob Zeepvat. The initial assessment was prepared by David Fell and Nicola King, and the geophysical survey of the route was carried out by Oxford Archaeotechnics. The excavations and watching brief were directed by Nigel Wilson, assisted by Julian Sleape.",
+        "page_numbers": [
+          30
+        ]
+      },
+      {
+        "text": "The writers would like to thank the various contributors to this report: Simon Chapman (human bone), Andy Fawcett (Roman pottery), Rowena Gale (charcoal), John Giorgi (charred plant remains) and James Rackham (environmental samples and animal bone). Pottery illustrations are by Donna Watters: plans and sections were prepared by Nigel Wilson. Environmental processing and sorting was carried out by Jez Dubber.",
+        "page_numbers": [
+          30
+        ]
+      }
+    ],
+    "BIBLIOGRAPHY": [
+      {
+        "text": "Bass, W. 1987 Human Osteology: A Laboratory and Field manual, 3rd Edition. Missouri Archaeol. Soc Baby, R.S. 1954 Hopewell Cremation Practices. Ohio Hist. Soc, Papers in Archaeol. 1 Brooks, S. & Suchey, J.M. 1990 'Skeletal age determination based on the os pubis: a comparison of the Acsadi-Nemeskeri and Suchey-Brooks methods', Human Evolution 5.3, 227-238 Brothwell, D. 1981 *Digging up Bones*. British Museum Press (London)\n\nBrown, A. 1994 ‘A Romano-British Shell Gritted Pottery and Tile Manufacturing Site at Harrold, Bedfordshire’, *Beds. Archaeol. J.* **21**, 19-107\n\nBuikstra, J.E. & Swegle, M. 1989 ‘Bone Modification Due to Burning: Experimental Evidence’ in R. Bonnichsen & M.H. Sorg (eds) *Bone Modification*, 247-258. Centre for the Study of the First Americans. University of Maine\n\nCameron, R.A.D. & Redfern, M. 1976 *British Land Snails*. Linnean Soc. Synopses of the British Fauna **6**\n\nClapham, A., Tutin, T. & Moore, D. 1987 *Flora of the British Isles. 3rd edition*. Cambridge University Press\n\nDawson, M. 1994 ‘Biggleswade West’, *Beds. Archaeol. J.* **21**, 119-136\n\nDawson, M. & Maull, A. 1996 ‘Warren Villas Quarry, Upper Caldecotte: Interim Report on Excavations from 1989-1994’, *Beds. Archaeol. J.* **24**, 58-66\n\nEllis, A.E. 1969 *British Snails*. Clarendon Press (Oxford)\n\nEvans, J. 1991 ‘Some Notes on the Horningsea Roman Pottery’, *J. Roman Pottery Studies* **4**, 33-43\n\nEvans, J.G. 1972 *Land Snails in Archaeology*, Academic Press\n\nFawcett, A.R. 2004 ‘The Roman Pottery’ in Gardner, R. 2004 ‘Archaeological Investigations at 24 Friary Fields, Dunstable, Bedfordshire’, *Beds. Archaeol. J.* **25**, 159-189\n\nFawcett, A.R. unpub.a *An Early Corpus and Distribution of Hadham Wares*\n\nFawcett, A.R. unpub.b ‘The Roman Pottery’ in ‘Excavations at High Avenue, Letchworth, Herts’, Herts Archaeol. Trust Report **LET**, 3-99\n\nGale, R. and Cutler, D. 2000 *Plants in Archaeology*, Westbury & Royal Botanic Gardens, Kew\n\nGejvall, N.G. 1971 ‘Cremations’ in D. Brothwell & E. Higgs *Science in Archaeology*, 468-479. Thames & Hudson\n\nGodwin, H. 1956 *The History of the British Flora* (Cambridge)\n\nGoing, C.J. 1987 *The Mansio and Other Sites in the South-Eastern Sector of Caesaromagus: The Roman Pottery*. Counc. Brit. Archaeol. Res. Rep. **62**, 3-120 (London)\n\nGreig, J. 1991 ‘The British Isles’, in W. van Zeist, K. Wasylikowa, K-E. Behre (eds) *Progress in Old World Palaeoethnobotany*, 229-334 (Rotterdam)\n\nJohnson, A.E. 2001 *Biggleswade Reinforcement Water Main: Cople to Toplers Hill*. Topsoil Magnetic Susceptibility and Magnetometer (Gradiometer) Survey. Oxford Archaeotechnics survey, ref. 2261000/BIB/A\n\nKeen, J.A. 1950 ‘A study of the differences between male and female skulls’, *American Journal of Physical Anthropology* **8**, 65-79\n\nKerney, M.P. & Cameron, R.A.D. 1979 *A Field Guide to the Snails of Britain and North-west Europe*. Collins\n\nLuke, M. 2004 ‘The Investigation of an Early-Middle Iron Age Settlement and Field System at Topler’s Hill’, *Beds. Archaeol. J.* **25**, 23-54\n\nMargery, I.D. 1955 *Roman Roads in Britain*. Phoenix House (London)\n\nMartin, T.S., forthcoming ‘The Roman Pottery’ in ‘Excavations at Great Chesterford’, Essex J. Archaeol. & Hist\n\nMcKinley, J.I. 1989 ‘Cremations: Expectations, Methodologies and Realities’, in C.A. Roberts, F.L & J. Bintliff (eds) *Burial Archaeology: Current Research Methods and Developments*. Brit. Archaeol. Reps British Ser. **211**\n\nMcKinley, J.I. 1994 ‘Bone Fragment Size in British Cremation Burials and its Implications for Pyre Technology and Ritual’, *J. Archaeol. Science*",
+        "page_numbers": [
+          30
+        ]
+      },
+      {
+        "text": "Miles, A.E. 1963 'The Dentition in the Assessment of individual age in skeletal material' , in D.R. Brothwell ed. Dental Anthropology 5. Symposia of the Society for the Study of Human Biology\nMitchell, A. 1974 A Field Guide to the Trees of Britain and Northern Europe. Collins (London)\nParry, S. 2006 Raunds Area Survey. An Archaeological Study of the lasndscape of Raunds, Northamptonshire, 1985-94. Oxbow Books (Oxford)\nPerrin, J.R. 1999 'Roman Pottery from Excavations at and Near to the Roman Small Town of Durobrivae, Water Newton, Cambridgeshire, 1956-58' , J. Roman Pottery Studies 8. Oxbow (Oxford)\nPiontek, J. 1976 'The Process of Cremation and its Influence on the Morphology of Bones in the Light of Results of Experimental Research' , Archeologia Polski 29, 247-280\nPollard, R.J. 1988 The Roman Pottery of Kent. Kent Archaeol. Soc. Monog. Ser. (Maidstone)\nShotliffe, A. 1995 'Stratton, Biggleswade' , South Midlands Archaeol. 25, 16-17\nSimco, A. 1984 Survey of Bedfordshire The Roman Period. Beds County Council. & RCHME\nSpence, T.F. 1967 'The Anatomical Study of Cremated Fragments from Archaeological Sites' , Proc. Prehist. Soc. 5, 70-83\nSpencer, H. 1989 Cremated Remains and the Experimental Burning of Animal Bone. Unpublished undergraduate dissertation, School of Archaeological Studies, University Of Leicester\nStead, I.M. & Rigby, V. 1986 Baldock: The Excavation of a Roman and Pre-Roman Settlement, 1968-72. Britannia Monog. Ser. 7 (London)\nSymonds, R.P & Wade, S. 1999 Roman Pottery from Excavations in Colchester, 1971-86. Colchester Archaeol. Rep. 10. Colchester Archaeol. Trust Ltd Thompson, I. 1982 Grog-Tempered 'Belgic' Pottery of South-Eastern England (3 vols). Brit. Archaeol. Reps British Ser. 108 (Oxford)\nThurman, M.D. & Willmore, L.J. 1981 'A Replicative Cremation Experiment', North American Archaeologist 2(4), 275-283\nTomber, R. & Dore, J. 1998 The National Roman Fabric Reference Collection: A Handbook. Mus London Archaeol. Service Monograph 2 (London)\nTutin, T.G., Heywood, V.H. et al. 1964-80 Flora Europaea, 1-5 (Cambridge)\nTyers, P.A. 1996 Roman Pottery in Britain. Batsford (London)\nvan Vark, G.N. 1975 'The Investigation of Human Cremated Skeletal Material by Multivariate Statistical Methods, II. Measures', OSSA 2, 47-68\nWaugh, K. 1999 'Roman Coarse Pottery' in Going, C. & Hunn, J. Excavations at Boxfield Farm, Chells, Stevenage, Hertfordshire. Herts. Archaeol. Trust Monog. Ser. 2, 84-135\nWebster, P. 1996 Roman Samian Pottery in Britain. Counc. Brit. Archaeol. Practical Handbook 13 (York)\nWells, C. 1960 'A Study of Cremation', Antiquity 34, 29-37\nWhite, T.D. 1990 Human Osteology. New York Academic Press\nWilliams, D. 1973 'Flotation at Siraf', Antiquity 47, 198-202\nWilson, C.A. 1991, Food and drink in Britain. (London)\nWilson, M.G. 1984 'The Other Pottery' in Frere (ed) Verulamium Excavations Vol III, Oxford University Committee for Archaeol. Monog. 1, 175-293 (Oxford)\nWorkshop of European Anthropologists 1980 'Recommendations for Age and Sex Diagnoses of Skeletons', J. Human Evolution 9, 517-549\nZeepvat R.J. et al 2000 An Archaeological Desk-Based Assessment for the Biggleswade Reinforcement Water Main: Cardington - Toplers Hill, Bedfordshire. ASC Report CBW00/2a",
+        "page_numbers": [
+          31
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "page_numbers": [
+        2
+      ],
+      "captions": [
+        "Figure 1: The water main route, showing site locations"
+      ]
+    },
+    {
+      "page_numbers": [
+        3
+      ],
+      "captions": [
+        "Table 1: Summary of the geophysical survey results"
+      ]
+    },
+    {
+      "page_numbers": [
+        4
+      ],
+      "captions": [
+        "Figure 2: Site 1, overall plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        5
+      ],
+      "captions": [
+        "Figure 3: Site 2, overall plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        6
+      ],
+      "captions": [
+        "Figure 4: Site 2, western complex, plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        8
+      ],
+      "captions": [
+        "Figure 5: Site 2,central complex,plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        9
+      ],
+      "captions": [
+        "Figure 6: Site 2, eastern complex, plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        10
+      ],
+      "captions": [
+        "Figure 7: Site 6, overall plan"
+      ]
+    },
+    {
+      "page_numbers": [
+        11
+      ],
+      "captions": [
+        "Figure 8: Sections, sites 2 and 6"
+      ]
+    },
+    {
+      "page_numbers": [
+        12
+      ],
+      "captions": [
+        "Figure 9: Pit [9001], plan and section"
+      ]
+    },
+    {
+      "page_numbers": [
+        13
+      ],
+      "captions": [
+        "Table 2: Pottery fabric codes used in this report."
+      ]
+    },
+    {
+      "page_numbers": [
+        15
+      ],
+      "captions": [
+        "Figure 10: The pottery (scale 1:4)"
+      ]
+    },
+    {
+      "page_numbers": [
+        16
+      ],
+      "captions": [
+        "Table 3: Late 2nd to early/mid 3rd century AD"
+      ]
+    },
+    {
+      "page_numbers": [
+        17
+      ],
+      "captions": [
+        "Table 4: Samples taken for environmental processing"
+      ]
+    },
+    {
+      "page_numbers": [
+        18
+      ],
+      "captions": [
+        "Table 5: Site 1: Frequency of identified fragments of bone"
+      ]
+    },
+    {
+      "page_numbers": [
+        20
+      ],
+      "captions": [
+        "Table 6: Frequency of identified bone fragments by context Habitat groupings broadly taken from Evans, 1972; Ellis 1969; Cameron and Redfern 1976.",
+        "Table 7: Molluscan taxa recorded from the samples"
+      ]
+    },
+    {
+      "page_numbers": [
+        21
+      ],
+      "captions": [
+        "Key. h = heartwood; r = roundwood (diameter <20mm); s = sapwood (diameter unknown).",
+        "Table 8: Charcoal from a late Bronze Age/ early Iron Age pit and Roman cremations (the number of fragments identified is indicated)"
+      ]
+    },
+    {
+      "page_numbers": [
+        23
+      ],
+      "captions": [
+        "THE BIGGLESWADE REINFORCEMENT WATER MAIN Key Periods: LBA = late Bronze Age; EIA = Early Iron Age;",
+        "Features: CRM = cremation; GUL = gully fill; PIT = pit fill Charcoal, cereal, stem fragments: + = 1-10; ++ = 11-50; +++ = 51-150; ++++ = 150+ fragments Table 9: Charred Plant Remains from Sites 1,2 and 9"
+      ]
+    },
+    {
+      "page_numbers": [
+        26
+      ],
+      "captions": [
+        "Table 10: Inhumation [2000]: inventory"
+      ]
+    },
+    {
+      "page_numbers": [
+        27
+      ],
+      "captions": [
+        "Plate 1: Inhumation burial [2002]",
+        "Table 11: Results of osteological analysis of the cremated bone"
+      ]
+    },
+    {
+      "page_numbers": [
+        28
+      ],
+      "captions": [
+        "Table 12: Age determination of the cremated remains, based on cranial thickness"
+      ]
+    }
+  ]
+}
